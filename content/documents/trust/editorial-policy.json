@@ -1,0 +1,116 @@
+{
+  "id": "editorial-policy",
+  "kind": "trust",
+  "status": "published",
+  "title": "Universal Consciousness Editorial Policy",
+  "slug": "editorial-policy",
+  "path": "/editorial-policy/",
+  "h1": "Universal Consciousness Editorial Policy",
+  "excerpt": "How Universal Consciousness chooses sources, handles health claims, represents traditions, uses software, and corrects the record.",
+  "quick_answer": {
+    "question": "How does Universal Consciousness edit pages?",
+    "answer": "Editors write for a general reader, cite public sources, separate traditional belief from research, and correct factual errors in public. Software may help with organization. It does not replace editorial judgment."
+  },
+  "topic": "publication",
+  "category": {
+    "id": "publication",
+    "name": "Publication",
+    "slug": "publication"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "editorial policy",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "Readers should be able to see how a page was made. This policy is the publication's account of authorship, sources, health language, tradition, corrections, and software.\n\nIt applies to every pillar, article, glossary entry, question, and reference page on the site.",
+  "sections": [
+    {
+      "heading": "Who writes and reviews?",
+      "slug": "who-writes",
+      "content": "The [editorial team](/authors/editorial-team/) is the staff desk. Pages are published only after a human edit. There is no fictional reviewer with a medical or scholarly title.\n\nA specialist review will be labeled when a qualified person has actually reviewed the page. Until then, the reviewer field stays empty."
+    },
+    {
+      "heading": "How are sources chosen?",
+      "slug": "how-sources-are-chosen",
+      "content": "Preferred sources are primary texts in public translation, standard reference works, peer-reviewed reviews, university encyclopedias, and government health explainers. The [sources](/sources/) page lists works the publication cites.\n\nA blog post that restates a claim without a source is not treated as evidence. A traditional text is evidence of what a tradition taught. It is not, by itself, evidence that a metaphysical claim is a physical fact."
+    },
+    {
+      "heading": "How are health claims handled?",
+      "slug": "health-claims",
+      "content": "Meditation, yoga, breathwork, Ayurveda, reiki, and kundalini practices are often discussed beside health hopes. This publication does not convert those hopes into treatment claims.\n\nWhen a government page such as an NCCIH explainer summarizes research, the article may say what that summary says and link it. It will also say what the research does not establish. The [disclaimer](/disclaimer/) applies across the site, and sensitive pages repeat a shorter note."
+    },
+    {
+      "heading": "How are traditions represented?",
+      "slug": "traditions",
+      "content": "Indian and Japanese traditions are not treated as a single ancient system that agrees with every modern workshop. Pages name the stream they are describing: a classical yoga text, a Vedanta school, a tantric subtle-body map, a twentieth-century Japanese practice, or a contemporary American class.\n\nDisagreement inside a tradition is part of the explanation. If a popular American presentation differs from earlier sources, the page says so."
+    },
+    {
+      "heading": "How is software used?",
+      "slug": "software",
+      "content": "Editors may use software to outline, check consistency, suggest internal links, or draft a structure. Published prose is accepted only when an editor judges it accurate, sourced, and useful. Generating many near-duplicate pages is against this policy.\n\nSoftware is not listed as an author."
+    },
+    {
+      "heading": "How are corrections and sponsorships handled?",
+      "slug": "corrections-and-sponsorships",
+      "content": "Factual errors are corrected on the page and noted through the [corrections](/corrections/) process. The modified date changes when the correction is substantive.\n\nThe publication does not currently sell courses, supplements, or retreats. If advertising, affiliates, or sponsored essays are added later, they will be labeled on the page and described in an updated policy. Unlabeled sponsorship is not allowed."
+    }
+  ],
+  "key_takeaways": [
+    "Humans edit every published page.",
+    "Sources distinguish texts, reference works, and research summaries.",
+    "Health language stays inside what the cited sources support.",
+    "Software can assist drafting and cannot replace the desk."
+  ],
+  "faq": [
+    {
+      "question": "Do you use artificial intelligence?",
+      "answer": "Software may help with outlines, consistency, and structure. A person on the editorial desk decides what is published and is responsible for it."
+    },
+    {
+      "question": "Will you add a medical reviewer?",
+      "answer": "Only if a qualified person actually reviews the page. The publication will not invent that credit."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "sep-epistemology-india"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Universal Consciousness Editorial Policy",
+    "meta_description": "Read how Universal Consciousness selects sources, separates belief from evidence, and corrects published pages.",
+    "canonical": "/editorial-policy/",
+    "robots": "index,follow",
+    "og_title": "Universal Consciousness Editorial Policy",
+    "og_description": "Read how Universal Consciousness selects sources, separates belief from evidence, and corrects published pages.",
+    "og_image": "/images/editorial-policy.svg"
+  },
+  "media": {
+    "featured_image": "/images/editorial-policy.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the editorial policy page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/corrections/",
+    "/sources/",
+    "/disclaimer/",
+    "/authors/editorial-team/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

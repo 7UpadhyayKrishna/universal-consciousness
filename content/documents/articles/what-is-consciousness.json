@@ -1,0 +1,110 @@
+{
+  "id": "what-is-consciousness",
+  "kind": "explainer",
+  "status": "published",
+  "title": "What Is Consciousness? Meaning and Major Views",
+  "slug": "what-is-consciousness",
+  "path": "/articles/what-is-consciousness/",
+  "h1": "What Is Consciousness? Meaning and Major Views",
+  "excerpt": "A direct explanation of consciousness as subjective experience, and how philosophy, science, and spiritual traditions use the word differently.",
+  "quick_answer": {
+    "question": "What is consciousness?",
+    "answer": "Consciousness is the capacity for experience, the fact that seeing, feeling, or thinking is like something for a subject. Philosophers, scientists, and spiritual traditions explain that fact in incompatible ways."
+  },
+  "topic": "consciousness",
+  "category": {
+    "id": "consciousness",
+    "name": "Consciousness",
+    "slug": "consciousness"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational",
+    "definition"
+  ],
+  "primary_keyword": "what is consciousness",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "consciousness"
+  ],
+  "mentions": [
+    "awareness",
+    "vedanta"
+  ],
+  "intro": "Consciousness, in the sense that matters for this article, means experience. There is something it is like to taste, to worry, or to see a color. You can be awake without that word, and you can use the word for a religious idea that goes far beyond being awake. The [topic pillar](/topics/consciousness/) sorts those uses. This page is the definition.",
+  "sections": [
+    {
+      "heading": "What is the philosophical problem?",
+      "slug": "what-is-the-philosophical-problem",
+      "content": "The Stanford Encyclopedia of Philosophy treats consciousness as a cluster of problems, not one switch. Subjective experience is the hard center. Self-consciousness, the ability to think of experience as yours, is a further capacity. Attention and wakefulness are neighbors. Collapsing them makes every spiritual sentence sound deeper than it is.\n\nPanpsychism, the proposal that experience is somehow basic in nature, is a live option for some philosophers and an unattractive one for others. Naming it is not endorsing it. The [glossary](/glossary/consciousness/) keeps the short form. [Awareness](/glossary/awareness/) is the nearby word people use when they want less theory."
+    },
+    {
+      "heading": "What can science say?",
+      "slug": "what-can-science-say",
+      "content": "Neuroscience can relate reports of experience to brain activity, sleep, and anesthesia. Those relations are real research. They do not, by themselves, answer why any physical process is accompanied by a felt world. This article will not pretend a scan closed the question.\n\nMedical uses of conscious, as in a conscious patient, are practical and should stay in the clinic. They are a poor metaphor for enlightenment. [Meditation](/topics/meditation/) can change attention. It is not a coma scale."
+    },
+    {
+      "heading": "How do traditions use the same English word?",
+      "slug": "how-do-traditions-use-the-same-english-word",
+      "content": "Advaita Vedanta talks about a witnessing awareness and about the identity of self and brahman. That is a doctrine, explained on the [Vedanta](/topics/vedanta/) page, not a laboratory result. Buddhist traditions often train attention while denying a permanent self. Using one English noun for both is how readers lose the argument.\n\nA strong meditation hour can feel like evidence. It is evidence of an experience. The [guide](/guides/consciousness/) lists the pages that keep the next inference in check. The [editorial policy](/editorial-policy/) is why this explainer will not upgrade a feeling into a cosmology."
+    }
+  ],
+  "key_takeaways": [
+    "The core puzzle is subjective experience.",
+    "Wakefulness and self-reflection are nearby but different ideas.",
+    "A meditation report does not settle the philosophy.",
+    "This site's name is not a doctrine."
+  ],
+  "faq": [
+    {
+      "question": "Is consciousness the brain?",
+      "answer": "Brain research studies correlates of experience. Whether those correlates fully explain experience is still argued."
+    },
+    {
+      "question": "Does the publication claim universal mind?",
+      "answer": "No. The name marks a subject area. It is not a finding that one mind contains everyone."
+    }
+  ],
+  "source_ids": [
+    "sep-consciousness",
+    "sep-self-consciousness",
+    "sep-panpsychism"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Is Consciousness? Meaning and Major Views",
+    "meta_description": "Consciousness means subjective experience. See how philosophy, neuroscience, and spiritual traditions use the word differently.",
+    "canonical": "/articles/what-is-consciousness/",
+    "robots": "index,follow",
+    "og_title": "What Is Consciousness? Meaning and Major Views",
+    "og_description": "Consciousness means subjective experience. See how philosophy, neuroscience, and spiritual traditions use the word differently.",
+    "og_image": "/images/what-is-consciousness.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-consciousness.svg",
+    "featured_image_alt": "Abstract geometric illustration for an explainer about consciousness.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/consciousness/",
+    "/glossary/consciousness/",
+    "/glossary/awareness/",
+    "/topics/vedanta/",
+    "/topics/meditation/",
+    "/guides/consciousness/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

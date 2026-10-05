@@ -1,0 +1,110 @@
+{
+  "id": "glossary-chakra",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Chakra: Meaning and Context",
+  "slug": "chakra",
+  "path": "/glossary/chakra/",
+  "h1": "Chakra: Meaning and Context",
+  "excerpt": "A chakra is a wheel or center in some yogic and tantric maps of a subtle body. The seven-color chart is a modern teaching version.",
+  "quick_answer": {
+    "question": "What does Chakra mean?",
+    "answer": "A chakra is a focal center in subtle-body maps. Popular English uses one list of seven. Older sources are less uniform, and none of the lists are anatomy."
+  },
+  "topic": "chakras",
+  "category": {
+    "id": "chakras",
+    "name": "Chakra",
+    "slug": "chakras"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "chakra meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "chakras"
+  ],
+  "mentions": [
+    "chakra"
+  ],
+  "intro": "Chakra means wheel. In this literature it marks a station in a religious map of vitality, not an organ.",
+  "sections": [
+    {
+      "heading": "What does Chakra mean?",
+      "slug": "what-does-chakra-mean",
+      "content": "The familiar list runs from the pelvic floor to the crown and adds colors and slogans that stabilized in modern teaching. Hatha and tantric texts discuss centers, lotuses, and syllables without agreeing on that poster. A feeling can be mapped onto a center after the fact.\n\nThe neighboring page is [what chakras are](/articles/what-are-chakras/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "Twentieth-century writers helped fix the rainbow chart for new audiences. That authorship should be labeled. Kundalini imagery often travels with the chart and has the same limit.\n\nA wider map lives at the [chakras topic](/topics/chakras/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "Learn the word so studio language is intelligible. You do not need to open a center, buy a stone, or accept a diagnosis. Breath awareness does not require the map.\n\nIf you want a narrower practical or comparative page, use [whether chakras are scientific](/articles/are-chakras-scientific/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not explain a disease or a character flaw as a blocked chakra. Do not call the chart ancient without a source that actually lists it.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Chakra is a traditional term with a narrower meaning than popular English often allows.",
+    "Schools and modern classes do not all use it the same way.",
+    "The glossary states the limit. Longer pages carry the argument."
+  ],
+  "faq": [
+    {
+      "question": "Is Chakra a scientific term?",
+      "answer": "No. Medicine does not use chakra maps as anatomy, and yoga studies do not prove them."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the explainer and one center page. The longer linked page carries the rest of the context."
+    }
+  ],
+  "source_ids": [
+    "britannica-chakra",
+    "sacred-hatha",
+    "britannica-kundalini"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Chakra: Meaning and Context",
+    "meta_description": "A chakra is a wheel or center in some yogic and tantric maps of a subtle body. The seven-color chart is a modern teaching version.",
+    "canonical": "/glossary/chakra/",
+    "robots": "index,follow",
+    "og_title": "Chakra: Meaning and Context",
+    "og_description": "A chakra is a wheel or center in some yogic and tantric maps of a subtle body. The seven-color chart is a modern teaching version.",
+    "og_image": "/images/glossary-chakra.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-chakra.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on chakra.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-are-chakras/",
+    "/topics/chakras/",
+    "/articles/are-chakras-scientific/",
+    "/chakras/heart-chakra/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

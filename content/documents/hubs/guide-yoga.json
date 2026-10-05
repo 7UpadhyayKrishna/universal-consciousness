@@ -1,0 +1,102 @@
+{
+  "id": "guide-yoga",
+  "kind": "hub",
+  "status": "published",
+  "title": "Guides for Reading about Yoga",
+  "slug": "yoga",
+  "path": "/guides/yoga/",
+  "h1": "Guides for Reading about Yoga",
+  "excerpt": "Reading on yoga philosophy and on styles that are easy to confuse with one another.",
+  "quick_answer": {
+    "question": "Where should a yoga reader start?",
+    "answer": "Reading on yoga philosophy and on styles that are easy to confuse with one another."
+  },
+  "topic": "yoga",
+  "category": {
+    "id": "yoga",
+    "name": "Yoga",
+    "slug": "yoga"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "yoga guide",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "yoga"
+  ],
+  "mentions": [],
+  "intro": "Reading on yoga philosophy and on styles that are easy to confuse with one another.\n\nThe map is the [Yoga topic](/topics/yoga/). The pages below are the narrower reading. Use one page for one question, then come back if you need the wider argument. This collection is not a ladder and not a product.",
+  "sections": [
+    {
+      "heading": "Which pages are gathered here?",
+      "slug": "which-pages-are-gathered-here",
+      "content": "The current set includes [/articles/what-is-yoga-philosophy/](/articles/what-is-yoga-philosophy/), [/articles/yoga-philosophy-for-beginners/](/articles/yoga-philosophy-for-beginners/), [/articles/yoga-vs-meditation/](/articles/yoga-vs-meditation/), [/yoga/hatha-yoga/](/yoga/hatha-yoga/), [/yoga/kundalini-yoga/](/yoga/kundalini-yoga/), [/yoga/yin-yoga/](/yoga/yin-yoga/). Titles can be read on the pages themselves. If a link is the definition, prefer it to a secondary comment. If a link is a comparison, it assumes you have seen at least one of the things compared.\n\nNew pages will be added when they have a distinct job. A repeated city page or a keyword variant will not be added. The [editorial policy](/editorial-policy/) is the reason. Suggestions can go through the [contact](/contact/) page."
+    },
+    {
+      "heading": "How should health language be read?",
+      "slug": "how-should-health-language-be-read",
+      "content": "Where a practice is sold as medicine, read the [disclaimer](/disclaimer/) before you change your care. Government summaries and classical texts answer different questions, and this guide will not pretend they are one source. A traditional hope is labeled as a hope. A research summary is linked. Neither becomes a promise because it sits on a guide page."
+    }
+  ],
+  "key_takeaways": [
+    "The yoga topic pillar is the map.",
+    "Each linked page answers a narrower question.",
+    "Health claims stay tied to the disclaimer and the cited sources."
+  ],
+  "faq": [
+    {
+      "question": "Are these instructions for a course?",
+      "answer": "No. They are reading paths through the publication. They do not enroll you in a program."
+    },
+    {
+      "question": "What if two pages seem to overlap?",
+      "answer": "Use the pillar for the overview and the article for the specific question. They link to each other on purpose."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "sep-consciousness"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Guides for Reading about Yoga",
+    "meta_description": "Reading on yoga philosophy and on styles that are easy to confuse with one another. Start with the topic pillar, then use the linked pages for a narrower questi",
+    "canonical": "/guides/yoga/",
+    "robots": "index,follow",
+    "og_title": "Guides for Reading about Yoga",
+    "og_description": "Reading on yoga philosophy and on styles that are easy to confuse with one another. Start with the topic pillar, then use the linked pages for a narrower questi",
+    "og_image": "/images/guide-yoga.svg"
+  },
+  "media": {
+    "featured_image": "/images/guide-yoga.svg",
+    "featured_image_alt": "Abstract geometric illustration introducing the Yoga guide collection.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/yoga/",
+    "/editorial-policy/"
+  ],
+  "children": [
+    "/articles/what-is-yoga-philosophy/",
+    "/articles/yoga-philosophy-for-beginners/",
+    "/articles/yoga-vs-meditation/",
+    "/yoga/hatha-yoga/",
+    "/yoga/kundalini-yoga/",
+    "/yoga/yin-yoga/"
+  ],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

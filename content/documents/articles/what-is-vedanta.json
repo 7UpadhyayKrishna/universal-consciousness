@@ -1,0 +1,115 @@
+{
+  "id": "what-is-vedanta",
+  "kind": "explainer",
+  "status": "published",
+  "title": "What Is Vedanta? The Self and Ultimate Reality",
+  "slug": "what-is-vedanta",
+  "path": "/articles/what-is-vedanta/",
+  "h1": "What Is Vedanta? The Self and Ultimate Reality",
+  "excerpt": "Vedanta is a tradition of interpreting the Upanishads. Advaita, its famous non-dual school, is one reading among others.",
+  "quick_answer": {
+    "question": "What is Vedanta?",
+    "answer": "Vedanta is an Indian philosophical tradition that interprets the Upanishads, the Brahma Sutras, and the Bhagavad Gita. Advaita Vedanta teaches that the self and ultimate reality are not two."
+  },
+  "topic": "vedanta",
+  "category": {
+    "id": "vedanta",
+    "name": "Vedanta",
+    "slug": "vedanta"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is vedanta",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "vedanta"
+  ],
+  "mentions": [
+    "atman",
+    "brahman",
+    "upanishads"
+  ],
+  "intro": "Vedanta names schools that take a small canon seriously and then argue. The argument is the tradition. A sentence on a mug is not.",
+  "sections": [
+    {
+      "heading": "What texts define Vedanta?",
+      "slug": "what-texts-define-vedanta",
+      "content": "The canon is commonly the Upanishads, the Brahma Sutras, and the Bhagavad Gita. Advaita, associated with Shankara, says the deepest teaching identifies atman and brahman. Ignorance, on this view, makes a separate self seem obvious. Knowledge is said to remove that error. The Internet Encyclopedia of Philosophy outlines the school without recruiting you.\n\nThe neighboring page is [the Vedanta topic](/topics/vedanta/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What does Advaita claim?",
+      "slug": "what-does-advaita-claim",
+      "content": "Other Vedantas deny that the self and the ultimate are simply the same. Qualified non-dual and dual readings are part of the history. If a teacher says Vedanta as if only Advaita existed, you are hearing a party.\n\nA wider map lives at the [ancient wisdom topic](/topics/ancient-wisdom/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What do other readings refuse?",
+      "slug": "what-do-other-readings-refuse",
+      "content": "Study, reflection, and meditation appear in Advaita-influenced teaching, often after ethical preparation that popular extracts skip. You can read a public Upanishad translation without adopting the doctrine. Non-duality is not a reason to neglect people.\n\nIf you want a narrower practical or comparative page, use [Atman and Brahman](/articles/atman-vs-brahman/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not confuse the doctrine with every app that says you are awareness. An attention skill is not a theory of reality. This page will not call the doctrine a scientific result.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Vedanta is commentary on a canon.",
+    "Advaita is one school.",
+    "Atman and brahman are technical terms.",
+    "The teaching is not a productivity method."
+  ],
+  "faq": [
+    {
+      "question": "What is Vedanta?",
+      "answer": "Vedanta is an Indian philosophical tradition that interprets the Upanishads, the Brahma Sutras, and the Bhagavad Gita. Advaita Vedanta teaches that the self and ultimate reality are not two."
+    },
+    {
+      "question": "Is this medical advice?",
+      "answer": "No. It is an educational explanation. Health decisions belong with a qualified professional."
+    }
+  ],
+  "source_ids": [
+    "iep-advaita",
+    "britannica-vedanta",
+    "sacred-upanishads"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Is Vedanta? The Self and Ultimate Reality",
+    "meta_description": "Understand Vedanta as commentary on the Upanishads, and how Advaita describes the self and brahman.",
+    "canonical": "/articles/what-is-vedanta/",
+    "robots": "index,follow",
+    "og_title": "What Is Vedanta? The Self and Ultimate Reality",
+    "og_description": "Understand Vedanta as commentary on the Upanishads, and how Advaita describes the self and brahman.",
+    "og_image": "/images/what-is-vedanta.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-vedanta.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on vedanta.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/vedanta/",
+    "/articles/atman-vs-brahman/",
+    "/glossary/vedanta/",
+    "/glossary/non-duality/",
+    "/topics/ancient-wisdom/",
+    "/questions/how-do-vedanta-teachers-describe-the-self/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

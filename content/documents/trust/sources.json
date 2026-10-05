@@ -1,0 +1,94 @@
+{
+  "id": "sources-index",
+  "kind": "trust",
+  "status": "published",
+  "title": "Sources and References",
+  "slug": "sources",
+  "path": "/sources/",
+  "h1": "Sources and References",
+  "excerpt": "How Universal Consciousness cites texts, reference works, and research summaries, followed by the works used across the site.",
+  "quick_answer": {
+    "question": "What counts as a source here?",
+    "answer": "The publication cites primary texts, academic reference articles, government health explainers, and peer-reviewed reviews. A source documents a claim. It does not automatically prove a spiritual teaching."
+  },
+  "topic": "publication",
+  "category": {
+    "id": "publication",
+    "name": "Publication",
+    "slug": "publication"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "sources and references",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "Every substantive page ends with the works it relied on. This page explains the categories and gathers those works in one list so a reader can see the shelf the publication is using.\n\nThe list is a bibliography, not a ranking of spiritual authority. A government page about reiki and a classical yoga text answer different questions. Both can be cited, for different sentences.",
+  "sections": [
+    {
+      "heading": "Which categories are used?",
+      "slug": "categories",
+      "content": "Primary texts include public translations of the Yoga Sutras, the Bhagavad Gita, the Upanishads, and the Hatha Yoga Pradipika. Academic references include the Stanford Encyclopedia of Philosophy and the Internet Encyclopedia of Philosophy. Government and professional explainers include pages from the National Center for Complementary and Integrative Health and the American Psychological Association. Research papers are cited through stable records such as PubMed.\n\nThe [editorial policy](/editorial-policy/) says how those categories are weighed. The [disclaimer](/disclaimer/) says what a citation cannot do."
+    },
+    {
+      "heading": "What is missing on purpose?",
+      "slug": "what-is-missing",
+      "content": "The shelf does not include anonymous miracle testimonials, unsourced healing statistics, or commercial pages that exist to enroll a student. Those materials may describe a living scene. They are not used as proof of a mechanism.\n\nIf a better public source replaces a weaker one, the article and this list are updated together. The bibliography below is built from the pages that are actually published, so a source appears because some article relied on it. If a work is absent, it has not been cited yet. That absence is not a judgment that the work is worthless."
+    }
+  ],
+  "key_takeaways": [
+    "Citations are grouped by the kind of claim they support.",
+    "A classical text and a clinical review are not interchangeable.",
+    "The list below is generated from pages that are actually published."
+  ],
+  "faq": [
+    {
+      "question": "Why do some links leave this site?",
+      "answer": "So you can read the work itself. Universal Consciousness does not control those sites."
+    },
+    {
+      "question": "Can I suggest a source?",
+      "answer": "Yes, through the contact page. Name the claim it would support and why it is more reliable than the current citation."
+    }
+  ],
+  "source_ids": [
+    "sep-epistemology-india",
+    "nccih-meditation",
+    "sacred-yoga-sutras"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Sources and References",
+    "meta_description": "See how Universal Consciousness chooses sources and browse the works cited across the publication.",
+    "canonical": "/sources/",
+    "robots": "index,follow",
+    "og_title": "Sources and References",
+    "og_description": "See how Universal Consciousness chooses sources and browse the works cited across the publication.",
+    "og_image": "/images/sources-index.svg"
+  },
+  "media": {
+    "featured_image": "/images/sources-index.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the sources page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/editorial-policy/",
+    "/disclaimer/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

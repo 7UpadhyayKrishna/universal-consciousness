@@ -1,0 +1,102 @@
+{
+  "id": "guide-kundalini",
+  "kind": "hub",
+  "status": "published",
+  "title": "Guides for Reading about Kundalini",
+  "slug": "kundalini",
+  "path": "/guides/kundalini/",
+  "h1": "Guides for Reading about Kundalini",
+  "excerpt": "A careful path through kundalini language, beginner limits, and the modern class format.",
+  "quick_answer": {
+    "question": "Where should a kundalini reader start?",
+    "answer": "A careful path through kundalini language, beginner limits, and the modern class format."
+  },
+  "topic": "kundalini",
+  "category": {
+    "id": "kundalini",
+    "name": "Kundalini",
+    "slug": "kundalini"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "kundalini guide",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "kundalini"
+  ],
+  "mentions": [],
+  "intro": "A careful path through kundalini language, beginner limits, and the modern class format.\n\nThe map is the [Kundalini topic](/topics/kundalini/). The pages below are the narrower reading. Use one page for one question, then come back if you need the wider argument. This collection is not a ladder and not a product.",
+  "sections": [
+    {
+      "heading": "Which pages are gathered here?",
+      "slug": "which-pages-are-gathered-here",
+      "content": "The current set includes [/articles/what-is-kundalini/](/articles/what-is-kundalini/), [/articles/kundalini-for-beginners/](/articles/kundalini-for-beginners/), [/articles/is-kundalini-dangerous/](/articles/is-kundalini-dangerous/), [/articles/kundalini-yoga-vs-hatha-yoga/](/articles/kundalini-yoga-vs-hatha-yoga/), [/yoga/kundalini-yoga/](/yoga/kundalini-yoga/), [/topics/chakras/](/topics/chakras/). Titles can be read on the pages themselves. If a link is the definition, prefer it to a secondary comment. If a link is a comparison, it assumes you have seen at least one of the things compared.\n\nNew pages will be added when they have a distinct job. A repeated city page or a keyword variant will not be added. The [editorial policy](/editorial-policy/) is the reason. Suggestions can go through the [contact](/contact/) page."
+    },
+    {
+      "heading": "How should health language be read?",
+      "slug": "how-should-health-language-be-read",
+      "content": "Where a practice is sold as medicine, read the [disclaimer](/disclaimer/) before you change your care. Government summaries and classical texts answer different questions, and this guide will not pretend they are one source. A traditional hope is labeled as a hope. A research summary is linked. Neither becomes a promise because it sits on a guide page."
+    }
+  ],
+  "key_takeaways": [
+    "The kundalini topic pillar is the map.",
+    "Each linked page answers a narrower question.",
+    "Health claims stay tied to the disclaimer and the cited sources."
+  ],
+  "faq": [
+    {
+      "question": "Are these instructions for a course?",
+      "answer": "No. They are reading paths through the publication. They do not enroll you in a program."
+    },
+    {
+      "question": "What if two pages seem to overlap?",
+      "answer": "Use the pillar for the overview and the article for the specific question. They link to each other on purpose."
+    }
+  ],
+  "source_ids": [
+    "britannica-kundalini",
+    "nccih-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Guides for Reading about Kundalini",
+    "meta_description": "A careful path through kundalini language, beginner limits, and the modern class format. Start with the topic pillar, then use the linked pages for a narrower q",
+    "canonical": "/guides/kundalini/",
+    "robots": "index,follow",
+    "og_title": "Guides for Reading about Kundalini",
+    "og_description": "A careful path through kundalini language, beginner limits, and the modern class format. Start with the topic pillar, then use the linked pages for a narrower q",
+    "og_image": "/images/guide-kundalini.svg"
+  },
+  "media": {
+    "featured_image": "/images/guide-kundalini.svg",
+    "featured_image_alt": "Abstract geometric illustration introducing the Kundalini guide collection.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/kundalini/",
+    "/editorial-policy/"
+  ],
+  "children": [
+    "/articles/what-is-kundalini/",
+    "/articles/kundalini-for-beginners/",
+    "/articles/is-kundalini-dangerous/",
+    "/articles/kundalini-yoga-vs-hatha-yoga/",
+    "/yoga/kundalini-yoga/",
+    "/topics/chakras/"
+  ],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

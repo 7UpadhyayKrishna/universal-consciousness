@@ -1,0 +1,113 @@
+{
+  "id": "what-is-mindfulness",
+  "kind": "explainer",
+  "status": "published",
+  "title": "What Is Mindfulness? Meaning and Modern Use",
+  "slug": "what-is-mindfulness",
+  "path": "/articles/what-is-mindfulness/",
+  "h1": "What Is Mindfulness? Meaning and Modern Use",
+  "excerpt": "Mindfulness is an attention skill with Buddhist roots and a large secular afterlife in clinics, apps, and workplaces.",
+  "quick_answer": {
+    "question": "What is mindfulness?",
+    "answer": "Mindfulness is a way of paying attention to present experience. Buddhist sources treat it as one part of a larger training. Modern programs often teach a secular version aimed at stress."
+  },
+  "topic": "mindfulness",
+  "category": {
+    "id": "mindfulness",
+    "name": "Mindfulness",
+    "slug": "mindfulness"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is mindfulness",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "mindfulness"
+  ],
+  "mentions": [
+    "meditation"
+  ],
+  "intro": "Mindfulness became a household word in the United States through medicine and apps. The older use is narrower and sits inside a moral and contemplative training, not a productivity brand.",
+  "sections": [
+    {
+      "heading": "What does mindfulness mean?",
+      "slug": "what-does-mindfulness-mean",
+      "content": "In Buddhist lists, mindfulness is a faculty of keeping present experience in view so the rest of the path can work. It is not a mood and not a requirement to feel calm. Secular courses borrowed exercises such as watching the breath or scanning the body without asking patients to become Buddhists. That borrowing should be named rather than denied or exaggerated.\n\nThe neighboring page is [the mindfulness topic](/topics/mindfulness/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "How did clinics take it up?",
+      "slug": "how-did-clinics-take-it-up",
+      "content": "Mindfulness-based stress reduction is the famous clinical adaptation. The American Psychological Association describes mindfulness meditation as a researched approach to stress, which is narrower than most headlines. A neuroscience review indexed on PubMed surveys brain studies without turning them into pictures of enlightenment.\n\nA wider map lives at the [meditation topic](/topics/meditation/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How do you actually practice it?",
+      "slug": "how-do-you-actually-practice-it",
+      "content": "A common instruction is to notice a sensation and to return when attention leaves. Five to fifteen minutes is a real start. Longer sits are not more authentic. Apps can demonstrate the cue and can also turn it into a score. The beginner guide stays with the cue.\n\nIf you want a narrower practical or comparative page, use [mindfulness for beginners](/articles/mindfulness-for-beginners/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Research does not show that mindfulness cures disease, replaces therapy, or makes a workplace fair. Some people meet distress when they sit still. That is a reason to stop and get clinical help, not a reason to push harder.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Mindfulness is an attention skill with a Buddhist history.",
+    "Secular courses are adaptations, not the whole path.",
+    "Evidence is limited and should stay limited in the retelling.",
+    "Short daily practice is enough to learn the instruction."
+  ],
+  "faq": [
+    {
+      "question": "What is mindfulness?",
+      "answer": "Mindfulness is a way of paying attention to present experience. Buddhist sources treat it as one part of a larger training. Modern programs often teach a secular version aimed at stress."
+    },
+    {
+      "question": "Where does this page fit?",
+      "answer": "It answers one question and links to the wider topic. It is not a course and not a medical instruction."
+    }
+  ],
+  "source_ids": [
+    "apa-mindfulness",
+    "nccih-meditation",
+    "pubmed-tang-2015"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Is Mindfulness? Meaning and Modern Use",
+    "meta_description": "Learn what mindfulness means in Buddhist training and in modern clinics, and what the research does not prove.",
+    "canonical": "/articles/what-is-mindfulness/",
+    "robots": "index,follow",
+    "og_title": "What Is Mindfulness? Meaning and Modern Use",
+    "og_description": "Learn what mindfulness means in Buddhist training and in modern clinics, and what the research does not prove.",
+    "og_image": "/images/what-is-mindfulness.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-mindfulness.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on mindfulness.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/mindfulness/",
+    "/articles/mindfulness-for-beginners/",
+    "/meditation/mindfulness/",
+    "/articles/meditation-vs-mindfulness/",
+    "/articles/what-research-says-about-mindfulness/",
+    "/topics/meditation/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

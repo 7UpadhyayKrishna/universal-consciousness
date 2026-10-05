@@ -1,0 +1,113 @@
+{
+  "id": "mindfulness-for-beginners",
+  "kind": "guide",
+  "status": "published",
+  "title": "Mindfulness for Beginners: First Steps",
+  "slug": "mindfulness-for-beginners",
+  "path": "/articles/mindfulness-for-beginners/",
+  "h1": "Mindfulness for Beginners: First Steps",
+  "excerpt": "A beginner mindfulness practice is a short period of noticing present sensation and returning when the mind leaves.",
+  "quick_answer": {
+    "question": "How do beginners practice mindfulness?",
+    "answer": "Beginners can spend five to ten minutes noticing the breath or body sensations and returning when attention wanders. The aim is clearer attention, not a blank mind or a cure."
+  },
+  "topic": "mindfulness",
+  "category": {
+    "id": "mindfulness",
+    "name": "Mindfulness",
+    "slug": "mindfulness"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "mindfulness for beginners",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "mindfulness"
+  ],
+  "mentions": [
+    "meditation"
+  ],
+  "intro": "Mindfulness for beginners is smaller than the industry around it. You are learning to notice where attention is. You are not joining a philosophy and you are not treating a disease.",
+  "sections": [
+    {
+      "heading": "What is the basic instruction?",
+      "slug": "what-is-the-basic-instruction",
+      "content": "Pick a sensation, often the breath at the nostrils or the rise of the belly. Stay with it lightly. When you find yourself elsewhere, that finding is a moment of mindfulness, and then you return. The body scan is a slower cousin if a single spot feels too thin.\n\nThe neighboring page is [what mindfulness is](/articles/what-is-mindfulness/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What should you skip at the start?",
+      "slug": "what-should-you-skip-at-the-start",
+      "content": "The exercise has Buddhist roots and a clinical afterlife. You can learn the exercise without settling the religious question. If you want the Buddhist frame, seek it on purpose rather than assuming an app included it.\n\nA wider map lives at the [mindfulness topic](/topics/mindfulness/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How do you know it is going normally?",
+      "slug": "how-do-you-know-it-is-going-normally",
+      "content": "Use a quiet timer. Sit or lie down. Do not add music that becomes the real object unless you have chosen sound on purpose. Ignore streaks and scores for the first month. Read the research page before you repeat a health claim.\n\nIf you want a narrower practical or comparative page, use [the body scan](/meditation/body-scan/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Stop if practice brings panic, dissociation, or a worsening of trauma symptoms. Intensity is not a badge. Mindfulness does not replace therapy or fair working conditions.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Noticing and returning is the whole basic skill.",
+    "Five minutes is a real practice.",
+    "Secular and Buddhist frames should be named.",
+    "Distress is a signal to get help, not to push."
+  ],
+  "faq": [
+    {
+      "question": "How do beginners practice mindfulness?",
+      "answer": "Beginners can spend five to ten minutes noticing the breath or body sensations and returning when attention wanders. The aim is clearer attention, not a blank mind or a cure."
+    },
+    {
+      "question": "Do I need a teacher to read this?",
+      "answer": "No. A teacher can help with practice. This page only explains the idea and points to longer reading."
+    }
+  ],
+  "source_ids": [
+    "apa-mindfulness",
+    "nccih-meditation",
+    "pubmed-tang-2015"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Mindfulness for Beginners: First Steps",
+    "meta_description": "Learn a simple mindfulness practice, what the word does and does not mean, and how to keep the first weeks modest.",
+    "canonical": "/articles/mindfulness-for-beginners/",
+    "robots": "index,follow",
+    "og_title": "Mindfulness for Beginners: First Steps",
+    "og_description": "Learn a simple mindfulness practice, what the word does and does not mean, and how to keep the first weeks modest.",
+    "og_image": "/images/mindfulness-for-beginners.svg"
+  },
+  "media": {
+    "featured_image": "/images/mindfulness-for-beginners.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on mindfulness.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/mindfulness/",
+    "/articles/what-is-mindfulness/",
+    "/meditation/mindfulness/",
+    "/articles/meditation-for-beginners/",
+    "/articles/what-research-says-about-mindfulness/",
+    "/meditation/body-scan/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

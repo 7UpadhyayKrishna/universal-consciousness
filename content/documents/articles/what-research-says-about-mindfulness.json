@@ -1,0 +1,114 @@
+{
+  "id": "what-research-says-about-mindfulness",
+  "kind": "misconception",
+  "status": "published",
+  "title": "What Research Says About Mindfulness",
+  "slug": "what-research-says-about-mindfulness",
+  "path": "/articles/what-research-says-about-mindfulness/",
+  "h1": "What Research Says About Mindfulness",
+  "excerpt": "Mindfulness research supports modest claims about some structured programs and rejects cure-all headlines. Trials vary in quality.",
+  "quick_answer": {
+    "question": "What does research say about mindfulness?",
+    "answer": "Structured mindfulness programs have been studied for stress, anxiety, and depression, with modest benefits in some trials and important limits. The research does not show that mindfulness cures disease or works the same way in every app."
+  },
+  "topic": "mindfulness",
+  "category": {
+    "id": "mindfulness",
+    "name": "Mindfulness",
+    "slug": "mindfulness"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "mindfulness research",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "mindfulness"
+  ],
+  "mentions": [
+    "meditation"
+  ],
+  "intro": "Mindfulness has a larger research literature than most practices on this site. That literature is still narrower than the advertising. The honest summary is interested and unimpressed by miracles.",
+  "sections": [
+    {
+      "heading": "What do the better summaries say?",
+      "slug": "what-do-the-better-summaries-say",
+      "content": "The American Psychological Association describes mindfulness meditation as a researched way some people work with stress. A 2014 review of meditation programs, indexed on PubMed, found moderate evidence for some anxiety and depression outcomes and weaker evidence for many other claims. NCCIH tells the public a similar caution.\n\nThe neighboring page is [what mindfulness is](/articles/what-is-mindfulness/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What do brain studies not prove?",
+      "slug": "what-do-brain-studies-not-prove",
+      "content": "A 2015 review surveyed brain measures associated with mindfulness training. Brain measures are not pictures of wisdom, and many studies are small. Workplace programs add a further problem: attention training offered instead of fixing the work.\n\nA wider map lives at the [mindfulness topic](/topics/mindfulness/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How should you read a headline?",
+      "slug": "how-should-you-read-a-headline",
+      "content": "If you want the effect that was studied, look for a structured program rather than a random ten-minute file, and still expect a modest result. Keep your clinician if you have one. The beginner guide is for the skill, not for a promise.\n\nIf you want a narrower practical or comparative page, use [mindfulness for beginners](/articles/mindfulness-for-beginners/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not say mindfulness is proven to cure pain, insomnia, relationships, or productivity. Do not ignore dropouts. Do not use a scan as decoration. Some people feel worse and should stop.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Some programs show modest mental health benefits.",
+    "Many popular claims are stronger than the trials.",
+    "Brain images are not the result by themselves.",
+    "Apps are not identical to studied courses."
+  ],
+  "faq": [
+    {
+      "question": "Is mindfulness better than other meditation?",
+      "answer": "It is better studied in clinics. Better studied is not the same as universally better for every aim."
+    },
+    {
+      "question": "Where is the overview?",
+      "answer": "Use the mindfulness pillar and the myths page."
+    }
+  ],
+  "source_ids": [
+    "apa-mindfulness",
+    "pubmed-goyal-2014",
+    "pubmed-tang-2015",
+    "nccih-meditation"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Research Says About Mindfulness",
+    "meta_description": "Summarize what mindfulness research can support, using public reviews, and what headlines add without evidence.",
+    "canonical": "/articles/what-research-says-about-mindfulness/",
+    "robots": "index,follow",
+    "og_title": "What Research Says About Mindfulness",
+    "og_description": "Summarize what mindfulness research can support, using public reviews, and what headlines add without evidence.",
+    "og_image": "/images/what-research-says-about-mindfulness.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-research-says-about-mindfulness.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on mindfulness.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/mindfulness/",
+    "/articles/what-is-mindfulness/",
+    "/articles/mindfulness-for-beginners/",
+    "/articles/common-meditation-myths/",
+    "/topics/meditation/",
+    "/sources/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

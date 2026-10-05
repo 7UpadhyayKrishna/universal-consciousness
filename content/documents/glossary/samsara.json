@@ -1,0 +1,110 @@
+{
+  "id": "glossary-samsara",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Samsara: Meaning and Context",
+  "slug": "samsara",
+  "path": "/glossary/samsara/",
+  "h1": "Samsara: Meaning and Context",
+  "excerpt": "Samsara is the cycle of birth, death, and rebirth in Indian religions. Moksha is a name for release from that cycle.",
+  "quick_answer": {
+    "question": "What does Samsara mean?",
+    "answer": "Samsara is the round of rebirth. Traditions that teach it usually pair it with karma. It is not a metaphor this site treats as a proven natural history."
+  },
+  "topic": "moksha",
+  "category": {
+    "id": "moksha",
+    "name": "Samsara",
+    "slug": "moksha"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "samsara meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "moksha"
+  ],
+  "mentions": [
+    "karma"
+  ],
+  "intro": "Samsara is the wandering through lives. The teaching is cosmological and moral at once.",
+  "sections": [
+    {
+      "heading": "What does Samsara mean?",
+      "slug": "what-does-samsara-mean",
+      "content": "Karma is the momentum said to continue the round. Moksha is release from it. Schools disagree about what is released and how. Britannica's samsara article is the short public version. The Gita assumes a world in which the round is real.\n\nThe neighboring page is [the moksha entry](/glossary/moksha/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "English speakers sometimes say samsara for a busy week. The joke is clear. The doctrine is about birth and death, not about email. This publication reports the doctrine and does not claim to confirm rebirth.\n\nA wider map lives at the [moksha topic](/topics/moksha/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "Use the word when you are explaining a tradition. If you do not accept rebirth, say that you are describing someone else's cosmology. The explainer on moksha keeps the disagreement among schools.\n\nIf you want a narrower practical or comparative page, use [the karma entry](/glossary/karma/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not tell someone their suffering is samsara they failed to exit. Do not use the word as a shrug. A cosmology is not a substitute for help.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Samsara has a traditional job that popular English often widens.",
+    "Context decides which school is speaking.",
+    "This entry defines the word and points to a longer page."
+  ],
+  "faq": [
+    {
+      "question": "Is Samsara a scientific term?",
+      "answer": "No. Rebirth is a religious claim. History and biology do not establish it on this site's evidence."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the moksha explainer. The longer linked page carries the rest of the context."
+    }
+  ],
+  "source_ids": [
+    "britannica-samsara",
+    "britannica-moksha",
+    "britannica-karma"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Samsara: Meaning and Context",
+    "meta_description": "Samsara is the cycle of birth, death, and rebirth in Indian religions. Moksha is a name for release from that cycle.",
+    "canonical": "/glossary/samsara/",
+    "robots": "index,follow",
+    "og_title": "Samsara: Meaning and Context",
+    "og_description": "Samsara is the cycle of birth, death, and rebirth in Indian religions. Moksha is a name for release from that cycle.",
+    "og_image": "/images/glossary-samsara.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-samsara.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on samsara.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/glossary/moksha/",
+    "/glossary/karma/",
+    "/topics/moksha/",
+    "/articles/what-is-moksha/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

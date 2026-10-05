@@ -1,0 +1,110 @@
+{
+  "id": "glossary-shiva",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Shiva: Meaning and Context",
+  "slug": "shiva",
+  "path": "/glossary/shiva/",
+  "h1": "Shiva: Meaning and Context",
+  "excerpt": "Shiva is a major Hindu deity associated with asceticism, destruction, and yoga. The name is not a generic word for consciousness.",
+  "quick_answer": {
+    "question": "What does Shiva mean?",
+    "answer": "Shiva is a principal Hindu god, worshiped in many forms. Some yogic and tantric texts also use Shaiva theology. The name is not a synonym for a private state of mind."
+  },
+  "topic": "ancient-wisdom",
+  "category": {
+    "id": "ancient-wisdom",
+    "name": "Shiva",
+    "slug": "ancient-wisdom"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "shiva meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "shiva"
+  ],
+  "mentions": [
+    "shakti"
+  ],
+  "intro": "Shiva is a god. In Shaiva traditions he is ultimate in a theological sense. In a studio he is sometimes reduced to a mood of detachment.",
+  "sections": [
+    {
+      "heading": "What does Shiva mean?",
+      "slug": "what-does-shiva-mean",
+      "content": "Stories, temples, and philosophical schools do not agree on one portrait. Shakti is often paired with him as power. Tantric practice may be Shaiva without being the same as a yoga class that chants his name once.\n\nThe neighboring page is [the shakti entry](/glossary/shakti/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "Britannica's article is a better start than a tattoo glossary. Yoga's historical ties to Shaiva milieus are real and are not a claim that every posture sequence is worship.\n\nA wider map lives at the [ancient wisdom topic](/topics/ancient-wisdom/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "If you chant a name, know that you are using a divine name. If you are only reading, keep the theology distinct from a breathing exercise. Do not treat the god as a personality type.\n\nIf you want a narrower practical or comparative page, use [the tantra entry](/glossary/tantra/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not use Shiva as a brand of calm masculinity. Do not strip the worship and keep the aesthetic. A deity is not a wellness aesthetic.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Shiva is defined here in its traditional or philosophical sense.",
+    "Popular English often widens the word until it means a mood.",
+    "Longer pages on this site carry the disagreements."
+  ],
+  "faq": [
+    {
+      "question": "Is Shiva a scientific term?",
+      "answer": "No. Shiva is a religious name. States of attention are a different subject."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the shakti and tantra entries. The longer linked page carries the rest of the context."
+    }
+  ],
+  "source_ids": [
+    "britannica-shiva",
+    "britannica-shakti",
+    "britannica-tantra"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Shiva: Meaning and Context",
+    "meta_description": "Shiva is a major Hindu deity associated with asceticism, destruction, and yoga. The name is not a generic word for consciousness.",
+    "canonical": "/glossary/shiva/",
+    "robots": "index,follow",
+    "og_title": "Shiva: Meaning and Context",
+    "og_description": "Shiva is a major Hindu deity associated with asceticism, destruction, and yoga. The name is not a generic word for consciousness.",
+    "og_image": "/images/glossary-shiva.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-shiva.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on shiva.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/glossary/shakti/",
+    "/glossary/tantra/",
+    "/topics/ancient-wisdom/",
+    "/topics/yoga/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

@@ -1,0 +1,113 @@
+{
+  "id": "how-do-traditions-describe-prana",
+  "kind": "question",
+  "status": "published",
+  "title": "How Traditions Describe Prana",
+  "slug": "how-do-traditions-describe-prana",
+  "path": "/questions/how-do-traditions-describe-prana/",
+  "h1": "How Traditions Describe Prana",
+  "excerpt": "Yoga and Ayurveda describe prana as breath and vitality moving through the living body. That description is traditional, not a lab measurement.",
+  "quick_answer": {
+    "question": "How do traditions describe prana?",
+    "answer": "Yoga and Ayurveda describe prana as breath and as a vitality that animates the body, sometimes mapped through channels. The description belongs to those traditions. It is not a measurement of a gas or a proof of a product."
+  },
+  "topic": "breathwork",
+  "category": {
+    "id": "breathwork",
+    "name": "Breathwork",
+    "slug": "breathwork"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what traditions say about prana",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "breathwork"
+  ],
+  "mentions": [
+    "prana",
+    "yoga",
+    "ayurveda"
+  ],
+  "intro": "Prana is discussed as if everyone with a yoga mat meant the same diagram. The traditions are closer to each other than to a supplement label, and they are still not one diagram.",
+  "sections": [
+    {
+      "heading": "What do the words say?",
+      "slug": "what-do-the-words-say",
+      "content": "The word covers breath and life. Ayurveda speaks of vitality in relation to digestion, routine, and the doshas. Yoga speaks of pranayama as regulation of breath and prana. Britannica's short article is a public orientation. Neither tradition is thereby shown to have found a force physiology can meter.\n\nThe neighboring page is [what prana is](/articles/what-is-prana/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "How does practice use the description?",
+      "slug": "how-does-practice-use-the-description",
+      "content": "Hatha texts add technical practices and cautions. They assume a teacher. Channels and centers are part of some maps and not a requirement of every use of the word breath. The glossary keeps the definition small enough to carry.\n\nA wider map lives at the [breathwork topic](/topics/breathwork/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What do modern sellers add?",
+      "slug": "what-do-modern-sellers-add",
+      "content": "You can watch the breath without signing the cosmology. If you study the cosmology, cite the tradition you mean. Do not buy a product said to boost prana. Do not use forceful breathing as a test of faith.\n\nIf you want a narrower practical or comparative page, use [the prana glossary](/glossary/prana/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Ayurvedic products have their own safety problems, including contamination in some preparations. Prana language does not make them gentle. Breath practices that make you dizzy are physiology, not proof.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Prana means breath and vitality in traditional use.",
+    "Yoga and Ayurveda are related, not identical.",
+    "The map is not a measurement.",
+    "Products and intense breathing need ordinary caution."
+  ],
+  "faq": [
+    {
+      "question": "Is prana oxygen?",
+      "answer": "No. Oxygen is a chemical element. Prana is a traditional category that includes breath and more than breath."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal instruction or medical advice."
+    }
+  ],
+  "source_ids": [
+    "britannica-prana",
+    "iep-yoga",
+    "nccih-ayurveda"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "How Traditions Describe Prana",
+    "meta_description": "Learn how yoga and Ayurveda describe prana, and how that description differs from oxygen and from modern energy products.",
+    "canonical": "/questions/how-do-traditions-describe-prana/",
+    "robots": "index,follow",
+    "og_title": "How Traditions Describe Prana",
+    "og_description": "Learn how yoga and Ayurveda describe prana, and how that description differs from oxygen and from modern energy products.",
+    "og_image": "/images/how-do-traditions-describe-prana.svg"
+  },
+  "media": {
+    "featured_image": "/images/how-do-traditions-describe-prana.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on breathwork.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/glossary/prana/",
+    "/articles/what-is-prana/",
+    "/topics/breathwork/",
+    "/topics/ayurveda/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

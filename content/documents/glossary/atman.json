@@ -1,0 +1,110 @@
+{
+  "id": "glossary-atman",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Atman: Meaning and Context",
+  "slug": "atman",
+  "path": "/glossary/atman/",
+  "h1": "Atman: Meaning and Context",
+  "excerpt": "Atman is the Sanskrit word for the self in Hindu philosophy, especially the self that is not merely the body or the social role.",
+  "quick_answer": {
+    "question": "What does Atman mean?",
+    "answer": "Atman means the self. In Vedanta it is often distinguished from the personality, and in Advaita it is taught as not different from brahman."
+  },
+  "topic": "vedanta",
+  "category": {
+    "id": "vedanta",
+    "name": "Atman",
+    "slug": "vedanta"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "atman meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "vedanta"
+  ],
+  "mentions": [
+    "brahman"
+  ],
+  "intro": "Atman names the self a tradition says is more than the body, the roles, and the stream of thoughts.",
+  "sections": [
+    {
+      "heading": "What does Atman mean?",
+      "slug": "what-does-atman-mean",
+      "content": "Advaita teachers use atman for the reality that ignorance misreads as a separate person. Other Vedanta teachers use it for a self that remains related to God. The English word soul is only a rough gloss and imports Christian pictures the texts may not share.\n\nThe neighboring page is [Atman and Brahman](/articles/atman-vs-brahman/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "The Upanishads and their commentators made the word technical. Britannica's atman article is a short public map. The pair with brahman is the Vedantic habit, not a feature of every Indian school.\n\nA wider map lives at the [Vedanta topic](/topics/vedanta/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "When a class says you are not your thoughts, ask whether the next sentence identifies atman with brahman. That next sentence is Advaita. Write it down as a doctrine, not as a lab note.\n\nIf you want a narrower practical or comparative page, use [the brahman entry](/glossary/brahman/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not use atman to mean self-esteem. Do not use it to dismiss the body as unimportant in ethics or medicine. The word is a philosophical term with rival definitions.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Atman is a traditional term with a narrower meaning than popular English often allows.",
+    "Schools and modern classes do not all use it the same way.",
+    "The glossary states the limit. Longer pages carry the argument."
+  ],
+  "faq": [
+    {
+      "question": "Is Atman a scientific term?",
+      "answer": "No. It is a philosophical and religious term. Neuroscience does not use it as a measurement."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the comparison article and the Vedanta explainer."
+    }
+  ],
+  "source_ids": [
+    "iep-advaita",
+    "britannica-atman",
+    "britannica-brahman"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Atman: Meaning and Context",
+    "meta_description": "Atman is the Sanskrit word for the self in Hindu philosophy, especially the self that is not merely the body or the social role.",
+    "canonical": "/glossary/atman/",
+    "robots": "index,follow",
+    "og_title": "Atman: Meaning and Context",
+    "og_description": "Atman is the Sanskrit word for the self in Hindu philosophy, especially the self that is not merely the body or the social role.",
+    "og_image": "/images/glossary-atman.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-atman.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on atman.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/atman-vs-brahman/",
+    "/glossary/brahman/",
+    "/topics/vedanta/",
+    "/articles/what-is-vedanta/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

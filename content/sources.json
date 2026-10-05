@@ -1,0 +1,275 @@
+[
+  {
+    "id": "sep-consciousness",
+    "name": "Stanford Encyclopedia of Philosophy",
+    "title": "Consciousness",
+    "url": "https://plato.stanford.edu/entries/consciousness/",
+    "type": "academic"
+  },
+  {
+    "id": "sep-self-consciousness",
+    "name": "Stanford Encyclopedia of Philosophy",
+    "title": "Self-Consciousness",
+    "url": "https://plato.stanford.edu/entries/self-consciousness/",
+    "type": "academic"
+  },
+  {
+    "id": "sep-mysticism",
+    "name": "Stanford Encyclopedia of Philosophy",
+    "title": "Mysticism",
+    "url": "https://plato.stanford.edu/entries/mysticism/",
+    "type": "academic"
+  },
+  {
+    "id": "sep-panpsychism",
+    "name": "Stanford Encyclopedia of Philosophy",
+    "title": "Panpsychism",
+    "url": "https://plato.stanford.edu/entries/panpsychism/",
+    "type": "academic"
+  },
+  {
+    "id": "sep-epistemology-india",
+    "name": "Stanford Encyclopedia of Philosophy",
+    "title": "Epistemology in Classical Indian Philosophy",
+    "url": "https://plato.stanford.edu/entries/epistemology-india/",
+    "type": "academic"
+  },
+  {
+    "id": "iep-yoga",
+    "name": "Internet Encyclopedia of Philosophy",
+    "title": "Yoga",
+    "url": "https://iep.utm.edu/yoga/",
+    "type": "academic"
+  },
+  {
+    "id": "iep-advaita",
+    "name": "Internet Encyclopedia of Philosophy",
+    "title": "Advaita Vedanta",
+    "url": "https://iep.utm.edu/advaita/",
+    "type": "academic"
+  },
+  {
+    "id": "nccih-meditation",
+    "name": "National Center for Complementary and Integrative Health",
+    "title": "Meditation and Mindfulness: What You Need To Know",
+    "url": "https://www.nccih.nih.gov/health/meditation-and-mindfulness-what-you-need-to-know",
+    "type": "government"
+  },
+  {
+    "id": "nccih-meditation-depth",
+    "name": "National Center for Complementary and Integrative Health",
+    "title": "Meditation: In Depth",
+    "url": "https://www.nccih.nih.gov/health/meditation-in-depth",
+    "type": "government"
+  },
+  {
+    "id": "nccih-yoga",
+    "name": "National Center for Complementary and Integrative Health",
+    "title": "Yoga: What You Need To Know",
+    "url": "https://www.nccih.nih.gov/health/yoga-what-you-need-to-know",
+    "type": "government"
+  },
+  {
+    "id": "nccih-reiki",
+    "name": "National Center for Complementary and Integrative Health",
+    "title": "Reiki",
+    "url": "https://www.nccih.nih.gov/health/reiki",
+    "type": "government"
+  },
+  {
+    "id": "nccih-ayurveda",
+    "name": "National Center for Complementary and Integrative Health",
+    "title": "Ayurvedic Medicine: In Depth",
+    "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+    "type": "government"
+  },
+  {
+    "id": "apa-mindfulness",
+    "name": "American Psychological Association",
+    "title": "Mindfulness meditation: A research-proven way to reduce stress",
+    "url": "https://www.apa.org/topics/mindfulness/meditation",
+    "type": "official-organization"
+  },
+  {
+    "id": "apa-mindfulness-topic",
+    "name": "American Psychological Association",
+    "title": "Mindfulness",
+    "url": "https://www.apa.org/topics/mindfulness",
+    "type": "official-organization"
+  },
+  {
+    "id": "pubmed-goyal-2014",
+    "name": "PubMed",
+    "title": "Meditation programs for psychological stress and well-being: a systematic review and meta-analysis",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24395196/",
+    "type": "research-paper"
+  },
+  {
+    "id": "pubmed-tang-2015",
+    "name": "PubMed",
+    "title": "The neuroscience of mindfulness meditation",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25783612/",
+    "type": "research-paper"
+  },
+  {
+    "id": "britannica-kundalini",
+    "name": "Encyclopaedia Britannica",
+    "title": "Kundalini",
+    "url": "https://www.britannica.com/topic/kundalini",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-chakra",
+    "name": "Encyclopaedia Britannica",
+    "title": "Chakra",
+    "url": "https://www.britannica.com/topic/chakra",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-vedanta",
+    "name": "Encyclopaedia Britannica",
+    "title": "Vedanta",
+    "url": "https://www.britannica.com/topic/Vedanta",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-moksha",
+    "name": "Encyclopaedia Britannica",
+    "title": "Moksha",
+    "url": "https://www.britannica.com/topic/moksha",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-atman",
+    "name": "Encyclopaedia Britannica",
+    "title": "Atman",
+    "url": "https://www.britannica.com/topic/atman",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-brahman",
+    "name": "Encyclopaedia Britannica",
+    "title": "Brahman",
+    "url": "https://www.britannica.com/topic/Brahman-Hindu-concept",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-yoga",
+    "name": "Encyclopaedia Britannica",
+    "title": "Yoga",
+    "url": "https://www.britannica.com/topic/Yoga",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-reiki",
+    "name": "Encyclopaedia Britannica",
+    "title": "Reiki",
+    "url": "https://www.britannica.com/topic/Reiki",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-ayurveda",
+    "name": "Encyclopaedia Britannica",
+    "title": "Ayurveda",
+    "url": "https://www.britannica.com/science/Ayurveda",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-mantra",
+    "name": "Encyclopaedia Britannica",
+    "title": "Mantra",
+    "url": "https://www.britannica.com/topic/mantra",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-upanishad",
+    "name": "Encyclopaedia Britannica",
+    "title": "Upanishad",
+    "url": "https://www.britannica.com/topic/Upanishad",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-dharma",
+    "name": "Encyclopaedia Britannica",
+    "title": "Dharma",
+    "url": "https://www.britannica.com/topic/dharma-religious-concept",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-karma",
+    "name": "Encyclopaedia Britannica",
+    "title": "Karma",
+    "url": "https://www.britannica.com/topic/karma",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-prana",
+    "name": "Encyclopaedia Britannica",
+    "title": "Prana",
+    "url": "https://www.britannica.com/topic/prana",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-samadhi",
+    "name": "Encyclopaedia Britannica",
+    "title": "Samadhi",
+    "url": "https://www.britannica.com/topic/samadhi-Buddhism-Hinduism",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-tantra",
+    "name": "Encyclopaedia Britannica",
+    "title": "Tantra",
+    "url": "https://www.britannica.com/topic/tantra",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-shakti",
+    "name": "Encyclopaedia Britannica",
+    "title": "Shakti",
+    "url": "https://www.britannica.com/topic/Shakti",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-shiva",
+    "name": "Encyclopaedia Britannica",
+    "title": "Shiva",
+    "url": "https://www.britannica.com/topic/Shiva",
+    "type": "reference"
+  },
+  {
+    "id": "britannica-samsara",
+    "name": "Encyclopaedia Britannica",
+    "title": "Samsara",
+    "url": "https://www.britannica.com/topic/samsara",
+    "type": "reference"
+  },
+  {
+    "id": "sacred-yoga-sutras",
+    "name": "Sacred Texts Archive",
+    "title": "The Yoga Sutras of Patanjali",
+    "url": "https://www.sacred-texts.com/hin/ysp/index.htm",
+    "type": "primary-text"
+  },
+  {
+    "id": "sacred-gita",
+    "name": "Sacred Texts Archive",
+    "title": "The Bhagavad Gita",
+    "url": "https://www.sacred-texts.com/hin/gita/index.htm",
+    "type": "primary-text"
+  },
+  {
+    "id": "sacred-upanishads",
+    "name": "Sacred Texts Archive",
+    "title": "The Upanishads, Part 2",
+    "url": "https://www.sacred-texts.com/hin/sbe15/index.htm",
+    "type": "primary-text"
+  },
+  {
+    "id": "sacred-hatha",
+    "name": "Sacred Texts Archive",
+    "title": "Hatha Yoga Pradipika",
+    "url": "https://www.sacred-texts.com/hin/hyp/index.htm",
+    "type": "primary-text"
+  }
+]

@@ -1,0 +1,110 @@
+{
+  "id": "why-does-meditation-feel-difficult",
+  "kind": "question",
+  "status": "published",
+  "title": "Why Does Meditation Feel Difficult?",
+  "slug": "why-does-meditation-feel-difficult",
+  "path": "/questions/why-does-meditation-feel-difficult/",
+  "h1": "Why Does Meditation Feel Difficult?",
+  "excerpt": "Meditation feels difficult because attention is untrained and because sitting still reveals a mind that was already busy.",
+  "quick_answer": {
+    "question": "Why does meditation feel difficult?",
+    "answer": "It feels difficult because the instruction asks you to notice a mind that is already busy. Distraction is the material, not proof you are unfit. Pain, panic, or despair are different and should not be pushed through."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "why meditation is hard",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness"
+  ],
+  "intro": "Difficulty is the most predictable part of practice and the part marketing mentions last. If the session were only pleasant, there would be little to train.",
+  "sections": [
+    {
+      "heading": "Why does the mind not stay put?",
+      "slug": "why-does-the-mind-not-stay-put",
+      "content": "Attention has been rehearsing plans and memories for years. A new cue loses that contest at first. Each return is the repetition that matters. Comparing yourself with a recording of someone else's calm is a second, optional difficulty. Drop the comparison.\n\nThe neighboring page is [meditation myths](/articles/common-meditation-myths/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Which difficulty is useful?",
+      "slug": "which-difficulty-is-useful",
+      "content": "Teachers in several traditions say the early stage is restless. They do not all agree about what the restlessness means. You can use the practical reading without adopting a theory of karma or sin. The beginner guide assumes restlessness.\n\nA wider map lives at the [beginner guide](/articles/meditation-for-beginners/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "Which difficulty is a stop sign?",
+      "slug": "which-difficulty-is-a-stop-sign",
+      "content": "Shorten the session until it is possible. Change posture if the body is the whole problem. Practice at a time when you are not exhausted. One week of possible sessions teaches more than one impossible hour.\n\nIf you want a narrower practical or comparative page, use [what happens in a session](/questions/what-happens-during-meditation/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "If difficulty means panic, traumatic memory, or a wish to harm yourself, stop and get qualified help. Grit is the wrong virtue there. This publication is not a crisis service.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Restlessness is expected.",
+    "Returning is the skill.",
+    "Make the dose possible.",
+    "Some difficulty is a health warning."
+  ],
+  "faq": [
+    {
+      "question": "Will it become easy?",
+      "answer": "It often becomes more familiar. Familiar is not the same as permanently calm, and calm is not the only aim."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal advice."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "apa-mindfulness"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Why Does Meditation Feel Difficult?",
+    "meta_description": "Understand why meditation feels difficult, why distraction is the material of practice, and when difficulty is a warning.",
+    "canonical": "/questions/why-does-meditation-feel-difficult/",
+    "robots": "index,follow",
+    "og_title": "Why Does Meditation Feel Difficult?",
+    "og_description": "Understand why meditation feels difficult, why distraction is the material of practice, and when difficulty is a warning.",
+    "og_image": "/images/why-does-meditation-feel-difficult.svg"
+  },
+  "media": {
+    "featured_image": "/images/why-does-meditation-feel-difficult.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/common-meditation-myths/",
+    "/articles/meditation-for-beginners/",
+    "/topics/meditation/",
+    "/questions/what-happens-during-meditation/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

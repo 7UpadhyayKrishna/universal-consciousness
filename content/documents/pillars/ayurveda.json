@@ -1,0 +1,119 @@
+{
+  "id": "pillar-ayurveda",
+  "kind": "pillar",
+  "status": "published",
+  "title": "Ayurveda: Classical Ideas and Modern Cautions",
+  "slug": "ayurveda",
+  "path": "/topics/ayurveda/",
+  "h1": "Ayurveda: Classical Ideas and Modern Cautions",
+  "excerpt": "What Ayurveda is as a classical Indian medical tradition, how doshas are used, and which safety warnings belong beside the philosophy.",
+  "quick_answer": {
+    "question": "What is Ayurveda?",
+    "answer": "Ayurveda is a classical Indian medical tradition organized around constitution, digestion, daily routine, and balance among bodily forces called doshas. It is a historical system of medicine, not a proven cure, and some modern products raise safety concerns."
+  },
+  "topic": "ayurveda",
+  "category": {
+    "id": "ayurveda",
+    "name": "Ayurveda",
+    "slug": "ayurveda"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is ayurveda",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "ayurveda"
+  ],
+  "mentions": [
+    "prana",
+    "ancient-wisdom"
+  ],
+  "intro": "Ayurveda, often translated as knowledge of life or longevity, is a classical South Asian medical tradition. Its literature discusses constitution, digestion, seasonal routine, and a wide materia medica. In the United States it is frequently encountered as a wellness aesthetic: oils, teas, and a quiz that names you vata, pitta, or kapha. The aesthetic is not the tradition, and neither is a license to skip medical care.\n\nThe [explainer](/articles/what-is-ayurveda/) keeps the definition short. This pillar adds the cautions that belong in the same breath as the philosophy. [Prana](/glossary/prana/) is part of the vitality language Ayurveda shares with yoga, and it is not a measured gas.",
+  "sections": [
+    {
+      "heading": "What are the doshas?",
+      "slug": "what-are-the-doshas",
+      "content": "Classical teaching describes three doshas, vata, pitta, and kapha, as patterns of movement, transformation, and stability in the body. A practitioner may say someone has a mixed constitution and recommend food, sleep, or seasonal habits on that basis. The categories organize experience. They are not blood types, and a website quiz is not a clinical evaluation.\n\nReaders can learn the vocabulary without granting it diagnostic authority. If you are ill, the relevant categories are the ones your clinician uses. Ayurveda can be studied as history and as a living tradition beside that care, not instead of it."
+    },
+    {
+      "heading": "What does a classical approach care about?",
+      "slug": "what-does-a-classical-approach-care-about",
+      "content": "Texts and practitioners spend attention on digestion, routine, and environment. Meals, sleep, and the pace of a day are treated as medicine. That emphasis can look like ordinary good sense, and sometimes it is. It can also slide into rigid rules that blame a sick person for being the wrong type. A tradition's insight and a tradition's harshness can travel together. This site will name both.\n\nThe [ancient wisdom](/topics/ancient-wisdom/) pages put Ayurveda next to philosophical sources without pretending one Sanskrit shelf agrees with itself. [Yoga](/topics/yoga/) is a neighbor, not a synonym."
+    },
+    {
+      "heading": "What do modern regulators warn about?",
+      "slug": "what-do-modern-regulators-warn-about",
+      "content": "The National Center for Complementary and Integrative Health explains Ayurveda for a U.S. audience and warns that some products have contained toxic metals, whether as contaminants or as ingredients in certain formulations. That warning is not a footnote. It is a reason to avoid buying medicines online because a label sounds traditional.\n\nHerbs can interact with drugs. They can harm the liver. They can be the wrong product in the bottle. None of this is solved by the word natural. The [disclaimer](/disclaimer/) and the [sources](/sources/) page exist so the warning stays attached to a public document you can read yourself."
+    },
+    {
+      "heading": "How should this publication talk about treatment?",
+      "slug": "how-should-this-publication-talk-about-treatment",
+      "content": "It will describe what the tradition says a regimen is for. It will not say the regimen treats a named disease. It will not recommend a cleanse, a purge, or a metal-containing preparation. Panchakarma and similar intensive procedures are traditional therapies with risks. They are not detox in the marketing sense, and this site does not offer instructions for them.\n\nIf a sentence would send you to a product, it does not belong here. If a sentence helps you recognize a dosha chart as a traditional tool, it does. The [editorial policy](/editorial-policy/) is the rule. Britannica's Ayurveda article is a general reference for the historical frame, not a prescription."
+    },
+    {
+      "heading": "What is a reasonable way to learn more?",
+      "slug": "what-is-a-reasonable-way-to-learn-more",
+      "content": "Learn the history before you buy a product. Read the NCCIH page on Ayurvedic medicine and notice how much of it is a safety document. If you consult a practitioner, ask what they recommend you keep doing with your existing clinicians. A good answer leaves your prescriptions alone unless a qualified prescriber changes them.\n\nUse this cluster to understand a tradition, not to assemble a pharmacy. The [explainer](/articles/what-is-ayurveda/) repeats the cautions in shorter form because people often land there first. Either page should leave you more careful than you arrived, not more certain that an ancient label settles a modern illness."
+    }
+  ],
+  "key_takeaways": [
+    "Ayurveda is a classical medical tradition, not a spa menu.",
+    "The three doshas are explanatory categories, not lab results.",
+    "Some products have been found to contain harmful metals.",
+    "It should not replace emergency or conventional care."
+  ],
+  "faq": [
+    {
+      "question": "Are doshas scientific types?",
+      "answer": "They are traditional categories used to guide regimen. They are not a substitute for medical diagnosis."
+    },
+    {
+      "question": "Is Ayurveda safe because it is natural?",
+      "answer": "No. Natural does not mean safe. NCCIH warns that some Ayurvedic products have contained lead, mercury, or arsenic."
+    }
+  ],
+  "source_ids": [
+    "nccih-ayurveda",
+    "britannica-ayurveda",
+    "britannica-prana"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Ayurveda: Classical Ideas and Modern Cautions",
+    "meta_description": "Learn what Ayurveda teaches about constitution and routine, and which safety warnings matter for modern products.",
+    "canonical": "/topics/ayurveda/",
+    "robots": "index,follow",
+    "og_title": "Ayurveda: Classical Ideas and Modern Cautions",
+    "og_description": "Learn what Ayurveda teaches about constitution and routine, and which safety warnings matter for modern products.",
+    "og_image": "/images/pillar-ayurveda.svg"
+  },
+  "media": {
+    "featured_image": "/images/pillar-ayurveda.svg",
+    "featured_image_alt": "Abstract geometric illustration for the Ayurveda topic, with circles and a quiet horizon.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-ayurveda/",
+    "/glossary/prana/",
+    "/topics/ancient-wisdom/",
+    "/disclaimer/",
+    "/topics/yoga/",
+    "/sources/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

@@ -1,0 +1,113 @@
+{
+  "id": "what-is-reiki",
+  "kind": "explainer",
+  "status": "published",
+  "title": "What Is Reiki? Origins, Practice, and Evidence",
+  "slug": "what-is-reiki",
+  "path": "/articles/what-is-reiki/",
+  "h1": "What Is Reiki? Origins, Practice, and Evidence",
+  "excerpt": "Reiki is a Japanese hand-placement practice that claims to work through a life-force energy science has not established.",
+  "quick_answer": {
+    "question": "What is Reiki?",
+    "answer": "Reiki is a Japanese spiritual practice in which a practitioner places hands on or near a person, aiming to support healing through a claimed universal energy. That energy system is not an established physical fact."
+  },
+  "topic": "reiki",
+  "category": {
+    "id": "reiki",
+    "name": "Reiki",
+    "slug": "reiki"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is reiki",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "reiki"
+  ],
+  "mentions": [
+    "prana"
+  ],
+  "intro": "Reiki is often sold beside chakras in American shops. Its history is Japanese and modern, associated with Mikao Usui in the early twentieth century, not with an ancient Indian anatomy.",
+  "sections": [
+    {
+      "heading": "What happens in a Reiki session?",
+      "slug": "what-happens-in-a-reiki-session",
+      "content": "A recipient usually remains clothed while hands rest on or above the body. There is no required massage and no diagnosis. Practitioners say they offer healing energy. Recipients sometimes report warmth or calm. Calm can be real without the theory that explains it.\n\nThe neighboring page is [the Reiki topic](/topics/reiki/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where did Reiki come from?",
+      "slug": "where-did-reiki-come-from",
+      "content": "Lineages pass the practice through initiation. In the United States it also spread through short trainings. Some teachers later added chakra words because students already knew them. Addition is not origin. Prana is an older Sanskrit term and only an approximate translation.\n\nA wider map lives at the [sources list](/sources/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What does the evidence summary say?",
+      "slug": "what-does-the-evidence-summary-say",
+      "content": "Ask what it costs, what will not be done, and whether you will be told to delay medical care. The acceptable answer to the last question is no. You can understand the page without an attunement. Secrecy and escalating fees are institutional habits, not proof of energy.\n\nIf you want a narrower practical or comparative page, use [what research says about Reiki](/articles/what-research-says-about-reiki/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "NCCIH says Reiki has not been clearly shown to be effective for any health-related purpose and should not replace conventional care. Kind attention is not nothing. It is also not a subtle-body mechanism.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Reiki is a modern Japanese practice.",
+    "Sessions are quiet hand placements.",
+    "Evidence does not establish a healing energy.",
+    "It must not replace medical care."
+  ],
+  "faq": [
+    {
+      "question": "What is Reiki?",
+      "answer": "Reiki is a Japanese spiritual practice in which a practitioner places hands on or near a person, aiming to support healing through a claimed universal energy. That energy system is not an established physical fact."
+    },
+    {
+      "question": "Is this medical advice?",
+      "answer": "No. It is an educational explanation. Health decisions belong with a qualified professional."
+    }
+  ],
+  "source_ids": [
+    "nccih-reiki",
+    "britannica-reiki",
+    "nccih-meditation"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Is Reiki? Origins, Practice, and Evidence",
+    "meta_description": "Learn what Reiki is, how a session is described, and why health agencies do not call it an effective treatment.",
+    "canonical": "/articles/what-is-reiki/",
+    "robots": "index,follow",
+    "og_title": "What Is Reiki? Origins, Practice, and Evidence",
+    "og_description": "Learn what Reiki is, how a session is described, and why health agencies do not call it an effective treatment.",
+    "og_image": "/images/what-is-reiki.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-reiki.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on reiki.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/reiki/",
+    "/articles/what-research-says-about-reiki/",
+    "/articles/reiki-vs-pranic-healing/",
+    "/questions/what-should-you-know-before-trying-reiki/",
+    "/glossary/prana/",
+    "/disclaimer/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

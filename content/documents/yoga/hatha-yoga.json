@@ -1,0 +1,113 @@
+{
+  "id": "tradition-hatha-yoga",
+  "kind": "yoga",
+  "status": "published",
+  "title": "Hatha Yoga: History and Class Format",
+  "slug": "hatha-yoga",
+  "path": "/yoga/hatha-yoga/",
+  "h1": "Hatha Yoga: History and Class Format",
+  "excerpt": "Hatha yoga names medieval techniques of posture, breath, and seal, and also a vague modern label for slower classes.",
+  "quick_answer": {
+    "question": "What is Hatha Yoga?",
+    "answer": "Hatha yoga refers to body and breath disciplines in texts such as the Hatha Yoga Pradipika, and, loosely, to many contemporary classes. The text and the class are not the same thing."
+  },
+  "topic": "yoga",
+  "category": {
+    "id": "yoga",
+    "name": "Yoga",
+    "slug": "yoga"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "hatha yoga explained",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "yoga"
+  ],
+  "mentions": [
+    "hatha-yoga"
+  ],
+  "intro": "Hatha yoga names medieval techniques of posture, breath, and seal, and also a vague modern label for slower classes.",
+  "sections": [
+    {
+      "heading": "What does Hatha Yoga refer to?",
+      "slug": "what-does-hatha-yoga-refer-to",
+      "content": "Hatha yoga refers to body and breath disciplines in texts such as the Hatha Yoga Pradipika, and, loosely, to many contemporary classes. The text and the class are not the same thing. Ask whether the hour in front of you is exercise, worship, textual study, or a branded method. The yoga topic keeps those layers from merging. A public source is more trustworthy than a schedule blurb.\n\nThe neighboring page is [the yoga topic](/topics/yoga/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "How is a class or a text actually shaped?",
+      "slug": "how-is-a-class-or-a-text-actually-shaped",
+      "content": "The Yoga Sutras list posture as one limb. Hatha texts expand the body. Modern classes expand it again into fitness. The philosophy explainer is the textual door. NCCIH discusses safety and the limits of health claims.\n\nA wider map lives at the [yoga guides](/guides/yoga/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should you not assume?",
+      "slug": "what-should-you-not-assume",
+      "content": "If you attend, leave any pain that is sharp, and ask what tradition is actually being taught. If you read, take one passage and one reference article. You do not need a certificate to read, and a certificate is not a lineage.\n\nIf you want a narrower practical or comparative page, use [yoga philosophy](/articles/what-is-yoga-philosophy/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not claim the style cures disease or awakens a proven energy. Do not backdate a modern brand into the medieval books. The disclaimer applies whenever health or kundalini language enters the room.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Hatha Yoga should be dated and described specifically.",
+    "A class format and a classical text are different objects.",
+    "Pain is not progress.",
+    "Health claims stay inside the public evidence."
+  ],
+  "faq": [
+    {
+      "question": "Is this style ancient?",
+      "answer": "Parts of the textual tradition are old. The class you find in a studio may be new. Say which one you mean."
+    },
+    {
+      "question": "Is this medical advice?",
+      "answer": "No. It explains a traditional or modern practice. It does not diagnose, treat, or replace professional care."
+    }
+  ],
+  "source_ids": [
+    "iep-yoga",
+    "sacred-yoga-sutras",
+    "nccih-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Hatha Yoga: History and Class Format",
+    "meta_description": "Hatha yoga names medieval techniques of posture, breath, and seal, and also a vague modern label for slower classes.",
+    "canonical": "/yoga/hatha-yoga/",
+    "robots": "index,follow",
+    "og_title": "Hatha Yoga: History and Class Format",
+    "og_description": "Hatha yoga names medieval techniques of posture, breath, and seal, and also a vague modern label for slower classes.",
+    "og_image": "/images/tradition-hatha-yoga.svg"
+  },
+  "media": {
+    "featured_image": "/images/tradition-hatha-yoga.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on yoga.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/yoga/",
+    "/articles/what-is-yoga-philosophy/",
+    "/articles/yoga-vs-meditation/",
+    "/guides/yoga/",
+    "/yoga/hatha-yoga/",
+    "/topics/meditation/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

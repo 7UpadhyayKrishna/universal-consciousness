@@ -1,0 +1,113 @@
+{
+  "id": "meditation-for-beginners",
+  "kind": "guide",
+  "status": "published",
+  "title": "Meditation for Beginners: A First Week",
+  "slug": "meditation-for-beginners",
+  "path": "/articles/meditation-for-beginners/",
+  "h1": "Meditation for Beginners: A First Week",
+  "excerpt": "A first week of meditation needs one method, a short timer, and no promise of a new personality.",
+  "quick_answer": {
+    "question": "How should a beginner meditate?",
+    "answer": "Choose one simple method, sit or lie comfortably, and practice for about five to ten minutes. Notice distraction and return. That is a complete beginner session."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "meditation for beginners",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness"
+  ],
+  "intro": "A beginner does not need a cushion brand, a belief, or an hour of silence. A beginner needs a repeatable instruction.",
+  "sections": [
+    {
+      "heading": "What should the first session include?",
+      "slug": "what-should-the-first-session-include",
+      "content": "Sit in a chair if the floor hurts. Pain is not progress. Choose the breath as the object. When you notice planning or memory, label that as distraction once and come back. Five minutes is enough to learn the shape.\n\nThe neighboring page is [what meditation is](/articles/what-is-meditation/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Which myths should you ignore?",
+      "slug": "which-myths-should-you-ignore",
+      "content": "Apps and classes often imply that thoughts are a failure. They are the material. Research summaries support modest stress language for some programs and reject cure language. Read that before you recruit a friend.\n\nA wider map lives at the [meditation guides](/guides/meditation/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How do you continue after a week?",
+      "slug": "how-do-you-continue-after-a-week",
+      "content": "After seven short days you will know whether the instruction is clear. If it is, keep the same method for a month rather than collecting techniques. If it brings panic, stop and talk with a clinician.\n\nIf you want a narrower practical or comparative page, use [a daily practice](/articles/daily-meditation-practice/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not fast, isolate, or breathe to dizziness because a video called that commitment. Do not replace therapy. Do not judge the week by whether you felt special. A plain chair and a short timer are the whole equipment list. Keep the same small dose for seven days before you decide the method is empty.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "One method is enough.",
+    "Short sessions count.",
+    "Thoughts are not failure.",
+    "Health claims stay modest."
+  ],
+  "faq": [
+    {
+      "question": "How should a beginner meditate?",
+      "answer": "Choose one simple method, sit or lie comfortably, and practice for about five to ten minutes. Notice distraction and return. That is a complete beginner session."
+    },
+    {
+      "question": "Do I need a teacher to read this?",
+      "answer": "No. A teacher can help with practice. This page only explains the idea and points to longer reading."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "nccih-meditation-depth",
+    "pubmed-goyal-2014"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Meditation for Beginners: A First Week",
+    "meta_description": "Start meditation with one method, a few quiet minutes, and expectations small enough to keep.",
+    "canonical": "/articles/meditation-for-beginners/",
+    "robots": "index,follow",
+    "og_title": "Meditation for Beginners: A First Week",
+    "og_description": "Start meditation with one method, a few quiet minutes, and expectations small enough to keep.",
+    "og_image": "/images/meditation-for-beginners.svg"
+  },
+  "media": {
+    "featured_image": "/images/meditation-for-beginners.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/meditation/",
+    "/articles/what-is-meditation/",
+    "/articles/daily-meditation-practice/",
+    "/meditation/breath-awareness/",
+    "/guides/meditation/",
+    "/questions/can-beginners-meditate/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

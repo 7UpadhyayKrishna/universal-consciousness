@@ -1,0 +1,90 @@
+{
+  "id": "corrections",
+  "kind": "trust",
+  "status": "published",
+  "title": "Corrections at Universal Consciousness",
+  "slug": "corrections",
+  "path": "/corrections/",
+  "h1": "Corrections at Universal Consciousness",
+  "excerpt": "How to report an error in Universal Consciousness, and how the publication records a substantive fix.",
+  "quick_answer": {
+    "question": "How do corrections work?",
+    "answer": "Email the page URL, the sentence you believe is wrong, and a source if you have one. If the desk confirms an error, it updates the page and the modified date."
+  },
+  "topic": "publication",
+  "category": {
+    "id": "publication",
+    "name": "Publication",
+    "slug": "publication"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "corrections policy",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "Reference writing fails when an error stays invisible. Universal Consciousness corrects pages in public and keeps the correction attached to the page that changed.\n\nThis page explains how to send a report and what a reader should expect afterward. There is no separate list of corrections yet, because the publication is at its first release.",
+  "sections": [
+    {
+      "heading": "What should a report include?",
+      "slug": "what-to-include",
+      "content": "Write to the address on the [contact](/contact/) page. Include the full URL, the passage, and why you think it is wrong. A link to a primary text, a university reference, or a government health page is the most useful attachment.\n\nA disagreement with a tradition's theology is not, by itself, a correction. The page's job is often to describe a view it does not share. A correction is for a false citation, a mixed-up date, a misnamed school, or a health claim that outruns its source."
+    },
+    {
+      "heading": "What happens after a report?",
+      "slug": "what-happens-next",
+      "content": "The desk reads the note and checks the cited source against the [editorial policy](/editorial-policy/). If the page is wrong, the sentence is rewritten. The modified date changes. A short note can be added on this page when the error would have misled a reader about a health or historical claim.\n\nTypos may be fixed without a public log. Invented updates, meaning date changes with no real edit, are not part of the process. The page you are reading will stay short until there is a real correction to record."
+    }
+  ],
+  "key_takeaways": [
+    "Send the URL, the sentence, and a source.",
+    "Confirmed factual errors are fixed on the page.",
+    "Modified dates track real changes only."
+  ],
+  "faq": [
+    {
+      "question": "Can I correct a definition I simply dislike?",
+      "answer": "You can write. The desk will change the page when the criticism shows an inaccuracy, not when it asks the publication to take sides in a doctrine."
+    },
+    {
+      "question": "Are corrections deleted from the page history?",
+      "answer": "The live page shows the corrected text. Substantive health or history fixes can also be noted on this page."
+    }
+  ],
+  "source_ids": [],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Corrections at Universal Consciousness",
+    "meta_description": "See how Universal Consciousness corrects factual errors and how readers can send a correction.",
+    "canonical": "/corrections/",
+    "robots": "index,follow",
+    "og_title": "Corrections at Universal Consciousness",
+    "og_description": "See how Universal Consciousness corrects factual errors and how readers can send a correction.",
+    "og_image": "/images/corrections.svg"
+  },
+  "media": {
+    "featured_image": "/images/corrections.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the corrections page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/editorial-policy/",
+    "/contact/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

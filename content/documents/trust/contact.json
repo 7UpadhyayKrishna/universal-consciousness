@@ -1,0 +1,90 @@
+{
+  "id": "contact",
+  "kind": "trust",
+  "status": "published",
+  "title": "Contact the Universal Consciousness Editors",
+  "slug": "contact",
+  "path": "/contact/",
+  "h1": "Contact the Universal Consciousness Editors",
+  "excerpt": "Write to the Universal Consciousness editors about corrections, permissions, and general questions. No phone number or street address is listed.",
+  "quick_answer": {
+    "question": "How do I contact the publication?",
+    "answer": "Email editors@universalconsciousness.com. The publication does not list a phone number, a studio address, or a counseling line."
+  },
+  "topic": "publication",
+  "category": {
+    "id": "publication",
+    "name": "Publication",
+    "slug": "publication"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "contact universal consciousness",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "The editors read mail about factual errors, reuse of pages, and questions about how the publication works. Mail is not a channel for spiritual direction or medical advice.\n\nUse [editors@universalconsciousness.com](mailto:editors@universalconsciousness.com). If you are reporting an error, follow the notes on the [corrections](/corrections/) page so the message can be checked.",
+  "sections": [
+    {
+      "heading": "What can I write about?",
+      "slug": "what-can-i-write",
+      "content": "Appropriate messages include a correction with a source, a question about quoting a page, and a note about a broken citation. The [editorial policy](/editorial-policy/) already answers most questions about how pages are made.\n\nThe desk does not provide initiations, healing sessions, or personalized practice prescriptions. If you are in immediate danger or need clinical care, contact local emergency services or a licensed professional. This inbox is not monitored as a crisis line. Write during ordinary hours and expect a reply only when the question is about a page, a citation, or a correction. A spiritual emergency still belongs with local help, not with this mailbox. Please include the page address in the subject line so the note can be matched to the sentence you mean. Thank you for the care."
+    },
+    {
+      "heading": "What will the reply include?",
+      "slug": "what-a-reply-includes",
+      "content": "If a correction is accepted, the reply can point to the updated page. If a request is outside the publication's role, the reply will say so briefly. Response time is not guaranteed.\n\nPlease do not send sensitive medical records or documents you would not want stored in an ordinary email inbox."
+    }
+  ],
+  "key_takeaways": [
+    "Email is the only contact method listed.",
+    "Corrections should include the URL and a source.",
+    "The inbox is not a clinic, hotline, or teaching relationship."
+  ],
+  "faq": [
+    {
+      "question": "Do you have a street address?",
+      "answer": "No public street address, phone number, or event venue is listed, because this release of the publication does not operate a local studio."
+    },
+    {
+      "question": "Can I pitch a guest essay?",
+      "answer": "You may write. A pitch is considered only if the writer can be identified and the piece meets the editorial policy, including the rule against invented credentials."
+    }
+  ],
+  "source_ids": [],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Contact the Universal Consciousness Editors",
+    "meta_description": "Contact the Universal Consciousness editors by email for corrections, permissions, and publication questions.",
+    "canonical": "/contact/",
+    "robots": "index,follow",
+    "og_title": "Contact the Universal Consciousness Editors",
+    "og_description": "Contact the Universal Consciousness editors by email for corrections, permissions, and publication questions.",
+    "og_image": "/images/contact.svg"
+  },
+  "media": {
+    "featured_image": "/images/contact.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the contact page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/corrections/",
+    "/editorial-policy/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

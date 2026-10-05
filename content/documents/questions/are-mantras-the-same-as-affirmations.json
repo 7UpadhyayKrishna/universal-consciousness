@@ -1,0 +1,110 @@
+{
+  "id": "are-mantras-the-same-as-affirmations",
+  "kind": "question",
+  "status": "published",
+  "title": "Are Mantras the Same as Affirmations?",
+  "slug": "are-mantras-the-same-as-affirmations",
+  "path": "/questions/are-mantras-the-same-as-affirmations/",
+  "h1": "Are Mantras the Same as Affirmations?",
+  "excerpt": "No. A mantra is a traditional formula of sound and rite. An affirmation is a modern statement meant to change a self-image.",
+  "quick_answer": {
+    "question": "Are mantras the same as affirmations?",
+    "answer": "No. Affirmations are modern self-statements repeated to shift attitude. Mantras are sacred formulas embedded in traditions of sound and ritual. Repetition is the only obvious similarity."
+  },
+  "topic": "mantras",
+  "category": {
+    "id": "mantras",
+    "name": "Mantras",
+    "slug": "mantras"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "mantra vs affirmation",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "mantras"
+  ],
+  "mentions": [
+    "mantra"
+  ],
+  "intro": "Both can be said again and again, so the market treats them as one product. The histories do not.",
+  "sections": [
+    {
+      "heading": "What is each one for?",
+      "slug": "what-is-each-one-for",
+      "content": "An affirmation often says something about you that you want to believe. A mantra is often a name, a syllable, or a verse that a tradition treats as effective sound, not as a description of your personality. Britannica's mantra article keeps that ritual sense.\n\nThe neighboring page is [the mantras topic](/topics/mantras/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Why does repetition confuse people?",
+      "slug": "why-does-repetition-confuse-people",
+      "content": "The Yoga Sutras mention om in a contemplative setting. That is not a worksheet of English sentences about success. Devotional repetition of divine names is older than the affirmation industry and is not trying to do the same job.\n\nA wider map lives at the [beginner guide](/articles/beginners-guide-to-mantras/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What may a beginner repeat?",
+      "slug": "what-may-a-beginner-repeat",
+      "content": "You may repeat a sentence you wrote. Call it an affirmation or a phrase. Call it a mantra only if you are actually using a traditional formula and understand that claim. Steadiness of attention can happen either way and proves neither metaphysics.\n\nIf you want a narrower practical or comparative page, use [mantra practice](/meditation/mantra/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not expect either practice to treat disease or to rewrite reality. Do not sell a made-up syllable as an ancient initiation. Respect communities that do not want their formulas used as decor.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Repetition is not identity.",
+    "Affirmations target self-image.",
+    "Mantras belong to traditions of sound.",
+    "Attention can steady without a miracle."
+  ],
+  "faq": [
+    {
+      "question": "Can an affirmation be useful?",
+      "answer": "It can focus attention or mood. Usefulness is not the same as being a mantra."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal instruction or medical advice."
+    }
+  ],
+  "source_ids": [
+    "britannica-mantra",
+    "sacred-yoga-sutras"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Are Mantras the Same as Affirmations?",
+    "meta_description": "See why mantras and affirmations are not the same practice, even when both are repeated.",
+    "canonical": "/questions/are-mantras-the-same-as-affirmations/",
+    "robots": "index,follow",
+    "og_title": "Are Mantras the Same as Affirmations?",
+    "og_description": "See why mantras and affirmations are not the same practice, even when both are repeated.",
+    "og_image": "/images/are-mantras-the-same-as-affirmations.svg"
+  },
+  "media": {
+    "featured_image": "/images/are-mantras-the-same-as-affirmations.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on mantras.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/mantras/",
+    "/glossary/mantra/",
+    "/articles/beginners-guide-to-mantras/",
+    "/meditation/mantra/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

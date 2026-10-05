@@ -1,0 +1,104 @@
+{
+  "id": "about",
+  "kind": "trust",
+  "status": "published",
+  "title": "About Universal Consciousness",
+  "slug": "about",
+  "path": "/about/",
+  "h1": "About Universal Consciousness",
+  "excerpt": "Universal Consciousness is a United States publication explaining meditation, consciousness, yoga philosophy, and related traditions without selling a spiritual service.",
+  "quick_answer": {
+    "question": "What is Universal Consciousness?",
+    "answer": "Universal Consciousness is a modern guide to consciousness, meditation, spirituality, ancient wisdom, and inner transformation, written as an educational publication for readers in the United States."
+  },
+  "topic": "publication",
+  "category": {
+    "id": "publication",
+    "name": "Publication",
+    "slug": "publication"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "about universal consciousness",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "consciousness"
+  ],
+  "mentions": [
+    "meditation",
+    "yoga"
+  ],
+  "intro": "Universal Consciousness explains ideas that readers meet through meditation apps, yoga classes, books, and search. The publication's job is to say what a term has meant, who has used it, and which claims are traditional rather than demonstrated.\n\nIt is not a retreat center, a healing practice, or a catalog of courses. Pages do not ask you to awaken an energy, join a lineage, or buy a program.",
+  "sections": [
+    {
+      "heading": "Who is the publication for?",
+      "slug": "who-it-is-for",
+      "content": "The first audience is people in the United States searching for clear explanations of spirituality, meditation, mindfulness, consciousness, yoga philosophy, chakras, kundalini, reiki, Ayurveda, mantras, and related ideas. The writing uses American spelling and assumes a reader who may have no Sanskrit and no temple background.\n\nThat reader still deserves precision. A popular chart of seven rainbow chakras is described as a modern convention. A classical yoga text is described as a text, with a link to a public translation when one is cited. A clinical summary from a government health page is not rewritten as a spiritual promise."
+    },
+    {
+      "heading": "How is the site organized?",
+      "slug": "how-the-site-is-organized",
+      "content": "Each major subject has a pillar under Topics. Guides collect practical reading. The glossary defines single terms. Question pages answer narrower queries that are not the same as the main explainer. Chakras, meditation techniques, and yoga traditions have their own reference pages so a short definition is not forced to carry an entire history.\n\nStart with [consciousness](/topics/consciousness/) or [meditation](/topics/meditation/) if you want the two widest doors. The [editorial policy](/editorial-policy/) explains the rules underneath the pages."
+    },
+    {
+      "heading": "What does the publication refuse to claim?",
+      "slug": "what-it-refuses",
+      "content": "It does not claim that a practice cures disease, removes toxins, or repairs a mental health condition. It does not invent student counts, years of experience, or founding dates. It does not present a staff desk as a guru.\n\nWhere a tradition teaches a metaphysical idea, the page can explain that teaching. The explanation is not an endorsement, and it is not evidence. The [disclaimer](/disclaimer/) states the limit in one place. Individual pages repeat it when the subject touches health or safety."
+    }
+  ],
+  "key_takeaways": [
+    "The site is a publication, not a spiritual service.",
+    "The first readers are in the United States, and the language is American English.",
+    "Traditional claims and research findings are kept apart."
+  ],
+  "faq": [
+    {
+      "question": "Is Universal Consciousness a religious organization?",
+      "answer": "No. It publishes explanatory writing about religious and philosophical traditions. It does not conduct worship, initiations, or pastoral care."
+    },
+    {
+      "question": "Where should I start reading?",
+      "answer": "Choose a topic pillar that matches your question, then follow the related guides and glossary terms linked from that page."
+    }
+  ],
+  "source_ids": [
+    "sep-consciousness",
+    "nccih-meditation"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "About Universal Consciousness",
+    "meta_description": "Learn what Universal Consciousness publishes, who it is for, and why it reads as a reference rather than a service site.",
+    "canonical": "/about/",
+    "robots": "index,follow",
+    "og_title": "About Universal Consciousness",
+    "og_description": "Learn what Universal Consciousness publishes, who it is for, and why it reads as a reference rather than a service site.",
+    "og_image": "/images/about.svg"
+  },
+  "media": {
+    "featured_image": "/images/about.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the about page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/editorial-policy/",
+    "/authors/editorial-team/",
+    "/topics/consciousness/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

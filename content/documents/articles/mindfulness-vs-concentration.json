@@ -1,0 +1,114 @@
+{
+  "id": "mindfulness-vs-concentration",
+  "kind": "comparison",
+  "status": "published",
+  "title": "Mindfulness and Concentration Compared",
+  "slug": "mindfulness-vs-concentration",
+  "path": "/articles/mindfulness-vs-concentration/",
+  "h1": "Mindfulness and Concentration Compared",
+  "excerpt": "Mindfulness notices what is present, including distraction. Concentration steadies attention on one chosen object and treats distraction as something to leave.",
+  "quick_answer": {
+    "question": "What is the difference between mindfulness and concentration?",
+    "answer": "Mindfulness, in a common instruction, notices present experience and includes the fact of wandering. Concentration practices choose one object and return to it by excluding what does not belong. Both train attention. They do not give the same cue."
+  },
+  "topic": "mindfulness",
+  "category": {
+    "id": "mindfulness",
+    "name": "Mindfulness",
+    "slug": "mindfulness"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "mindfulness vs concentration",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "mindfulness"
+  ],
+  "mentions": [
+    "meditation",
+    "samadhi"
+  ],
+  "intro": "Both words get used for sitting still. The cue in the middle of the sit is different, and the cue is the practice.",
+  "sections": [
+    {
+      "heading": "What is each instruction?",
+      "slug": "what-is-each-instruction",
+      "content": "A mindfulness cue often sounds like: note the breath, note that you left, and note the leaving without a fight. A concentration cue often sounds like: stay with the breath or the phrase and set other objects down. One widens the field. The other narrows it. A session can move from one to the other, which is not the same as their being identical.\n\nThe neighboring page is [what mindfulness is](/articles/what-is-mindfulness/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where do traditions place them?",
+      "slug": "where-do-traditions-place-them",
+      "content": "Buddhist training discusses mindfulness and concentration as partners, not as rivals in a product line. Classical yoga's language of dharana and dhyana leans toward steadying. Samadhi is a further term, not a synonym for either English word. Clinics usually studied mindfulness programs, not every concentration method.\n\nA wider map lives at the [meditation topic](/topics/meditation/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "Why does the difference matter in research?",
+      "slug": "why-does-the-difference-matter-in-research",
+      "content": "If you are a beginner, pick one cue and keep it for a week. Switching every minute teaches neither. The mindfulness technique page and the breath awareness page are concrete versions.\n\nIf you want a narrower practical or comparative page, use [mindfulness practice](/meditation/mindfulness/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not quote a mindfulness trial as evidence for a concentration retreat you invented. Do not assume the narrower practice is more advanced. Advancement is a tradition's judgment, not a feeling of force.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "The cue differs: include distraction, or exclude it.",
+    "Traditions often train both, for different jobs.",
+    "Research follows specific programs.",
+    "Beginners should keep one cue."
+  ],
+  "faq": [
+    {
+      "question": "Is concentration the same as samadhi?",
+      "answer": "No. Samadhi is a technical term for absorptive states in yoga and related literature. Concentration is the ordinary English word for steadiness."
+    },
+    {
+      "question": "Where is the overview?",
+      "answer": "Use the mindfulness topic and the meditation comparison."
+    }
+  ],
+  "source_ids": [
+    "apa-mindfulness",
+    "iep-yoga",
+    "nccih-meditation"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Mindfulness and Concentration Compared",
+    "meta_description": "Compare mindfulness and concentration as two ways of training attention, with different instructions and aims.",
+    "canonical": "/articles/mindfulness-vs-concentration/",
+    "robots": "index,follow",
+    "og_title": "Mindfulness and Concentration Compared",
+    "og_description": "Compare mindfulness and concentration as two ways of training attention, with different instructions and aims.",
+    "og_image": "/images/mindfulness-vs-concentration.svg"
+  },
+  "media": {
+    "featured_image": "/images/mindfulness-vs-concentration.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on mindfulness.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/mindfulness/",
+    "/articles/meditation-vs-mindfulness/",
+    "/meditation/mindfulness/",
+    "/glossary/samadhi/",
+    "/topics/meditation/",
+    "/articles/what-is-mindfulness/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

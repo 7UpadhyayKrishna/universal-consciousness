@@ -1,0 +1,107 @@
+{
+  "id": "hub-questions",
+  "kind": "hub",
+  "status": "published",
+  "title": "Questions About Practice and Tradition",
+  "slug": "questions",
+  "path": "/questions/",
+  "h1": "Questions About Practice and Tradition",
+  "excerpt": "Direct answers to specific questions, each written so the short answer can stand alone and the rest of the page shows its limits.",
+  "quick_answer": {
+    "question": "What is in Questions About Practice and Tradition?",
+    "answer": "Direct answers to specific questions, each written so the short answer can stand alone and the rest of the page shows its limits."
+  },
+  "topic": "publication",
+  "category": {
+    "id": "publication",
+    "name": "Publication",
+    "slug": "publication"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "spirituality questions",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "These pages answer one question each. They exist for readers who arrive with a specific query, and they point back to the pillar or explainer that carries the wider context.\n\nThey are not a second copy of [what meditation is](/articles/what-is-meditation/). If a question is really the main definition, the explainer is the page that should rank for it.",
+  "sections": [
+    {
+      "heading": "How should these pages be read?",
+      "slug": "how-to-read",
+      "content": "Start with the short answer on a page, then read the sections that match your question. Follow the related links when you need the longer argument. A collection page is a map. The individual pages are the reference.\n\nIf a sentence touches health or a contested spiritual mechanism, read it beside the disclaimer. The [editorial policy](/editorial-policy/) is the rule for how those sentences are written."
+    },
+    {
+      "heading": "What is not collected here?",
+      "slug": "what-is-absent",
+      "content": "This collection does not include city-by-city studio directories, miracle rankings, or pages that exist only to repeat a keyword. If a subject does not yet have a page, it is because a distinct page was not ready, not because every search phrase deserves a URL. A missing page is preferable to a thin one.\n\nSuggestions can be sent through the [contact](/contact/) page."
+    }
+  ],
+  "key_takeaways": [
+    "Each linked page should be able to stand as its own explanation.",
+    "The collection does not add doorway pages or repeated city guides.",
+    "Health-related claims stay tied to the disclaimer and the cited sources."
+  ],
+  "faq": [
+    {
+      "question": "Are these pages medical guidance?",
+      "answer": "No. They are educational descriptions. Decisions about health belong with a qualified professional."
+    },
+    {
+      "question": "Where is the longer overview?",
+      "answer": "Use the matching topic pillar linked in the introduction. This page is the index of narrower references."
+    }
+  ],
+  "source_ids": [],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Questions About Practice and Tradition",
+    "meta_description": "Short answers on meditation, kundalini, chakras, mantras, and related questions that are narrower than the main guides.",
+    "canonical": "/questions/",
+    "robots": "index,follow",
+    "og_title": "Questions About Practice and Tradition",
+    "og_description": "Short answers on meditation, kundalini, chakras, mantras, and related questions that are narrower than the main guides.",
+    "og_image": "/images/hub-questions.svg"
+  },
+  "media": {
+    "featured_image": "/images/hub-questions.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the Questions About Practice and Tradition page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/about/",
+    "/editorial-policy/"
+  ],
+  "children": [
+    "/questions/how-long-should-you-meditate/",
+    "/questions/what-happens-during-meditation/",
+    "/questions/why-does-meditation-feel-difficult/",
+    "/questions/how-does-meditation-work/",
+    "/questions/can-beginners-meditate/",
+    "/questions/is-there-a-best-time-to-meditate/",
+    "/questions/what-do-practitioners-report-about-kundalini/",
+    "/questions/how-is-kundalini-yoga-structured/",
+    "/questions/how-are-the-seven-chakras-usually-listed/",
+    "/questions/what-is-the-difference-between-pranayama-and-meditation/",
+    "/questions/how-do-vedanta-teachers-describe-the-self/",
+    "/questions/what-does-it-mean-to-study-a-spiritual-text/",
+    "/questions/are-mantras-the-same-as-affirmations/",
+    "/questions/what-should-you-know-before-trying-reiki/",
+    "/questions/what-is-a-meditation-retreat/",
+    "/questions/how-do-traditions-describe-prana/"
+  ],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

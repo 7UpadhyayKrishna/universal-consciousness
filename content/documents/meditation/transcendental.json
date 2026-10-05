@@ -1,0 +1,113 @@
+{
+  "id": "practice-transcendental",
+  "kind": "meditation",
+  "status": "published",
+  "title": "Transcendental Meditation: A Clear Description",
+  "slug": "transcendental",
+  "path": "/meditation/transcendental/",
+  "h1": "Transcendental Meditation: A Clear Description",
+  "excerpt": "Transcendental Meditation is a branded mantra method taught for a fee. This page describes it without revealing mantras or claiming it is superior.",
+  "quick_answer": {
+    "question": "What is transcendental meditation?",
+    "answer": "Transcendental Meditation is a standardized mantra practice taught commercially. Research on it is contested. It is not the definition of all mantra meditation."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "transcendental meditation practice",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mantras"
+  ],
+  "intro": "Transcendental Meditation is a branded mantra method taught for a fee. This page describes it without revealing mantras or claiming it is superior.",
+  "sections": [
+    {
+      "heading": "How is transcendental meditation practiced?",
+      "slug": "how-is-transcendental-meditation-practiced",
+      "content": "Teachers in that organization give a mantra privately and instruct a effortless repetition, typically for about twenty minutes twice a day. The mantras are not published here. The fee and the trademark are part of the method's modern identity. Other mantra practices are older and are not this brand.\n\nThe neighboring page is [what meditation is](/articles/what-is-meditation/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the method come from?",
+      "slug": "where-does-the-method-come-from",
+      "content": "The method was taught widely in the late twentieth century and studied often, with enthusiastic and critical readings of the evidence. NCCIH discusses meditation programs in general terms and does not crown a brand. A 2014 review looked across programs and stayed modest.\n\nA wider map lives at the [meditation topic](/topics/meditation/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should a beginner expect?",
+      "slug": "what-should-a-beginner-expect",
+      "content": "Sit or lie comfortably. Use a few minutes. If you are learning mindfulness or the body scan, notice and return. If you are repeating a phrase, keep the phrase and skip the scorekeeping. Stop if you panic. The myths page is the corrective to empty-mind demands.\n\nIf you want a narrower practical or comparative page, use [meditation for beginners](/articles/meditation-for-beginners/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not assume a branded course is superior because it is standardized or expensive. Do not repeat health claims the studies do not support. Do not share or hunt secret mantras. Calm, if it happens, is not enlightenment.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Transcendental Meditation is a specific method, not all of meditation.",
+    "A short session is a legitimate start.",
+    "Traditional and clinical frames should be named.",
+    "The method is not a cure."
+  ],
+  "faq": [
+    {
+      "question": "How long should a session be?",
+      "answer": "Five to ten minutes is enough to learn. Branded courses may prescribe longer. Longer is not more virtuous by itself."
+    },
+    {
+      "question": "Is this medical advice?",
+      "answer": "No. It explains a traditional or modern practice. It does not diagnose, treat, or replace professional care."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "pubmed-goyal-2014",
+    "apa-mindfulness"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Transcendental Meditation: A Clear Description",
+    "meta_description": "Transcendental Meditation is a branded mantra method taught for a fee. This page describes it without revealing mantras or claiming it is superior.",
+    "canonical": "/meditation/transcendental/",
+    "robots": "index,follow",
+    "og_title": "Transcendental Meditation: A Clear Description",
+    "og_description": "Transcendental Meditation is a branded mantra method taught for a fee. This page describes it without revealing mantras or claiming it is superior.",
+    "og_image": "/images/practice-transcendental.svg"
+  },
+  "media": {
+    "featured_image": "/images/practice-transcendental.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/meditation/",
+    "/articles/what-is-meditation/",
+    "/articles/meditation-for-beginners/",
+    "/glossary/meditation/",
+    "/guides/meditation/",
+    "/questions/how-long-should-you-meditate/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

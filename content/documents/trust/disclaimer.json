@@ -1,0 +1,96 @@
+{
+  "id": "disclaimer",
+  "kind": "trust",
+  "status": "published",
+  "title": "Universal Consciousness Disclaimer",
+  "slug": "disclaimer",
+  "path": "/disclaimer/",
+  "h1": "Universal Consciousness Disclaimer",
+  "excerpt": "Universal Consciousness explains traditions and summarizes public research. It does not provide medical, psychological, or religious advice.",
+  "quick_answer": {
+    "question": "What does the disclaimer say?",
+    "answer": "Articles are educational. They are not medical, psychological, or religious advice, and they are not a substitute for care from a qualified professional."
+  },
+  "topic": "publication",
+  "category": {
+    "id": "publication",
+    "name": "Publication",
+    "slug": "publication"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "disclaimer",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "Universal Consciousness describes ideas and practices that people sometimes pursue for health, meaning, or both. Description is not a recommendation, and it is not a finding that a practice works.\n\nThis disclaimer applies to the whole site. Pages about kundalini, chakras, reiki, Ayurveda, breathwork, and disputed health claims repeat a shorter version beside the article.",
+  "sections": [
+    {
+      "heading": "What is not advice?",
+      "slug": "not-advice",
+      "content": "Nothing here diagnoses, treats, cures, or prevents any disease or mental health condition. Breathing practices, fasting traditions, herbal preparations, and intense meditation can be inappropriate for some people. Talk with a qualified clinician before changing care, medication, or a treatment plan.\n\nIf you are in crisis, contact local emergency services. The publication has no clinicians on call. The [contact](/contact/) address is not a crisis service."
+    },
+    {
+      "heading": "How should spiritual claims be read?",
+      "slug": "spiritual-claims",
+      "content": "A sentence about prana, kundalini, or a chakra reports how a tradition or a modern teacher talks. It does not establish that an invisible anatomy has been measured. Practitioner stories are identified as reports of experience. They are not generalized into outcomes for every reader.\n\nThe [editorial policy](/editorial-policy/) explains how those distinctions are edited. The [terms](/terms/) explain the limits on liability."
+    },
+    {
+      "heading": "What about external sources?",
+      "slug": "external-sources",
+      "content": "Links to universities, government agencies, and public-domain texts are provided so you can read further. Those organizations do not operate this publication, and a link is not an endorsement of every page on their sites or of every page on this one.\n\nResearch summaries go out of date. The modified date on an article tells you when this publication last revised it, not when every underlying study was published."
+    }
+  ],
+  "key_takeaways": [
+    "The site does not give medical or psychological advice.",
+    "Traditional metaphysics are explained, not verified.",
+    "Crisis care belongs with local emergency services."
+  ],
+  "faq": [
+    {
+      "question": "Can an article tell me whether to practice?",
+      "answer": "No. An article can describe how a practice is taught and what sources say. The decision is yours, ideally with qualified help when health is involved."
+    },
+    {
+      "question": "Does a cited study mean the practice is proven?",
+      "answer": "No. A citation shows that a particular paper or explainer exists. The article should also say what that source does not establish."
+    }
+  ],
+  "source_ids": [],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Universal Consciousness Disclaimer",
+    "meta_description": "Read the Universal Consciousness disclaimer on health claims, spiritual practices, and the limits of the articles.",
+    "canonical": "/disclaimer/",
+    "robots": "index,follow",
+    "og_title": "Universal Consciousness Disclaimer",
+    "og_description": "Read the Universal Consciousness disclaimer on health claims, spiritual practices, and the limits of the articles.",
+    "og_image": "/images/disclaimer.svg"
+  },
+  "media": {
+    "featured_image": "/images/disclaimer.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the disclaimer page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/editorial-policy/",
+    "/terms/",
+    "/topics/meditation/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

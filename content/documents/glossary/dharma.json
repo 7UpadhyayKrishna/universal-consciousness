@@ -1,0 +1,110 @@
+{
+  "id": "glossary-dharma",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Dharma: Meaning and Context",
+  "slug": "dharma",
+  "path": "/glossary/dharma/",
+  "h1": "Dharma: Meaning and Context",
+  "excerpt": "Dharma is a Sanskrit term for duty, law, or the way things should hold together. The Gita argues about it. It is not a lifestyle brand.",
+  "quick_answer": {
+    "question": "What does Dharma mean?",
+    "answer": "Dharma means duty, order, or the right way of living in Hindu and Buddhist uses, and those uses are not identical. In the Gita it is the problem the poem will not let Arjuna escape."
+  },
+  "topic": "ancient-wisdom",
+  "category": {
+    "id": "ancient-wisdom",
+    "name": "Dharma",
+    "slug": "ancient-wisdom"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "dharma meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "ancient-wisdom"
+  ],
+  "mentions": [
+    "karma"
+  ],
+  "intro": "Dharma is the word for what holds a role, a ritual, or a life in its proper shape. English duty is close and still thinner.",
+  "sections": [
+    {
+      "heading": "What does Dharma mean?",
+      "slug": "what-does-dharma-mean",
+      "content": "The Bhagavad Gita opens on a conflict of dharma. Buddhist traditions use the same Sanskrit word for the teaching and for the elements of experience. One spelling, more than one job. A public Gita translation shows the Hindu epic sense.\n\nThe neighboring page is [ancient wisdom](/topics/ancient-wisdom/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "Later philosophy argues about how you know dharma, not only about how you feel aligned. The Stanford Encyclopedia's epistemology article is a reminder that these were arguments. A poster that says follow your dharma usually means follow a preference.\n\nA wider map lives at the [moksha topic](/topics/moksha/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "If you use the word, say whose dharma and in which text. Pair it with karma only when you mean consequence, and with moksha only when you mean the aim that might outrank duty.\n\nIf you want a narrower practical or comparative page, use [the karma entry](/glossary/karma/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not use dharma as a synonym for personal brand. Do not pretend the Gita solved every modern career question. The poem is harder than a caption.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Dharma is a traditional term with a narrower meaning than popular English often allows.",
+    "Schools and modern classes do not all use it the same way.",
+    "The glossary states the limit. Longer pages carry the argument."
+  ],
+  "faq": [
+    {
+      "question": "Is Dharma a scientific term?",
+      "answer": "No. It is an ethical and religious term with several traditional senses."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the ancient wisdom pillar and the Gita in a cited translation."
+    }
+  ],
+  "source_ids": [
+    "sacred-gita",
+    "britannica-dharma",
+    "sep-epistemology-india"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Dharma: Meaning and Context",
+    "meta_description": "Dharma is a Sanskrit term for duty, law, or the way things should hold together. The Gita argues about it. It is not a lifestyle brand.",
+    "canonical": "/glossary/dharma/",
+    "robots": "index,follow",
+    "og_title": "Dharma: Meaning and Context",
+    "og_description": "Dharma is a Sanskrit term for duty, law, or the way things should hold together. The Gita argues about it. It is not a lifestyle brand.",
+    "og_image": "/images/glossary-dharma.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-dharma.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on dharma.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/ancient-wisdom/",
+    "/glossary/karma/",
+    "/topics/moksha/",
+    "/articles/what-is-yoga-philosophy/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

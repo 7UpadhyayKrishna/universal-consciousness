@@ -1,0 +1,111 @@
+{
+  "id": "pillar-breathwork",
+  "kind": "pillar",
+  "status": "published",
+  "title": "Breathwork: Pranayama and Modern Breathing",
+  "slug": "breathwork",
+  "path": "/topics/breathwork/",
+  "h1": "Breathwork: Pranayama and Modern Breathing",
+  "excerpt": "How yogic pranayama differs from quiet breath awareness and from intense modern breathwork, including safety limits.",
+  "quick_answer": {
+    "question": "What is breathwork?",
+    "answer": "Breathwork is a loose modern name for practices that deliberately change or watch the breath. Yogic pranayama is one traditional family. Quiet breath awareness is another. Intense fast-breathing methods are a third, and they carry more risk."
+  },
+  "topic": "breathwork",
+  "category": {
+    "id": "breathwork",
+    "name": "Breathwork",
+    "slug": "breathwork"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is breathwork",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "breathwork"
+  ],
+  "mentions": [
+    "prana",
+    "yoga",
+    "meditation"
+  ],
+  "intro": "Breathwork is an English umbrella. It can mean a yoga class that lengthens the exhale, a meditation that simply notices the breath, or a workshop that asks you to breathe hard for a long time until your hands tingle. Those are different acts with different risks. The umbrella is convenient for marketing and inconvenient for safety.\n\nThis pillar sorts the umbrella. [Prana](/glossary/prana/) is the traditional word for vitality or breath-energy. [How traditions describe prana](/questions/how-do-traditions-describe-prana/) stays with that language. [Breath awareness](/meditation/breath-awareness/) is the quiet method. [Pranayama versus meditation](/questions/what-is-the-difference-between-pranayama-and-meditation/) is the comparison.",
+  "sections": [
+    {
+      "heading": "What is pranayama?",
+      "slug": "what-is-pranayama",
+      "content": "In classical yoga, pranayama is regulation of the breath and, in the tradition's terms, of prana. The Yoga Sutras list it as a limb. Hatha texts add techniques, retentions, and warnings that assume a teacher. A public hatha translation sits in the [sources](/sources/). None of this is a license for an app to invent a ratio and call it ancient.\n\nThe Internet Encyclopedia of Philosophy's yoga article keeps the philosophical frame. NCCIH's yoga page is the health-context frame: yoga practices, including breathing, are not a reason to skip care, and instruction matters. Tingling, cramps, and lightheadedness during forceful breathing are body events. They are not proof that energy has risen."
+    },
+    {
+      "heading": "How is quiet awareness different?",
+      "slug": "how-is-quiet-awareness-different",
+      "content": "Noticing the breath, as in many mindfulness and Buddhist exercises, does not try to maximize air or to hold it until you are dizzy. The aim is attention. You can do it lying down. You can stop. It is closer to [meditation](/topics/meditation/) than to a stamina drill. People still call it breathwork, which is why the word has become muddy.\n\nIf your only goal is to calm down before sleep, a slightly longer exhale while awake and safe is a modest tool. It is not a treatment for a sleep disorder, and it is not pranayama in the full traditional sense."
+    },
+    {
+      "heading": "What deserves extra caution?",
+      "slug": "what-deserves-extra-caution",
+      "content": "Methods that use prolonged fast breathing, strong locks, or underwater-style holds have a different risk profile. They can provoke panic, fainting, or, rarely, more serious events in vulnerable people. They are sometimes wrapped in liberation language borrowed from [kundalini](/topics/kundalini/) imagery. The wrapping does not change the physiology of carbon dioxide and blood pressure.\n\nThis site will not give ratios, hold times, or a sequence for intense practice. The [disclaimer](/disclaimer/) applies. If you have a medical condition, ask a clinician before you change how you breathe on purpose. [Yoga](/topics/yoga/) classes that include a few calm breaths are a separate, usually milder case. The [editorial policy](/editorial-policy/) is why those cases stay in different sentences. If you want a next step, choose the quiet page, not the most dramatic video. The quiet page is [breath awareness](/meditation/breath-awareness/)."
+    }
+  ],
+  "key_takeaways": [
+    "Breathwork is an umbrella, not one technique.",
+    "Pranayama belongs to yoga and assumes a traditional frame.",
+    "Watching the breath is not the same as forcing the breath.",
+    "Fast or held breathing can cause dizziness and is not a cure."
+  ],
+  "faq": [
+    {
+      "question": "Is breathwork safe for everyone?",
+      "answer": "No. Vigorous breathing and long breath holds can be a bad idea in pregnancy, with some heart or lung conditions, and with panic. Quiet observation is a different practice."
+    },
+    {
+      "question": "Does pranayama prove prana?",
+      "answer": "Pranayama is a discipline taught inside a tradition that speaks of prana. Doing the exercise does not scientifically establish a life-force substance."
+    }
+  ],
+  "source_ids": [
+    "iep-yoga",
+    "sacred-hatha",
+    "nccih-yoga",
+    "nccih-meditation"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Breathwork: Pranayama and Modern Breathing",
+    "meta_description": "Compare pranayama, simple breath awareness, and intense breathwork, and learn the safety limits of changing your breathing.",
+    "canonical": "/topics/breathwork/",
+    "robots": "index,follow",
+    "og_title": "Breathwork: Pranayama and Modern Breathing",
+    "og_description": "Compare pranayama, simple breath awareness, and intense breathwork, and learn the safety limits of changing your breathing.",
+    "og_image": "/images/pillar-breathwork.svg"
+  },
+  "media": {
+    "featured_image": "/images/pillar-breathwork.svg",
+    "featured_image_alt": "Abstract geometric illustration for the Breathwork pillar, using circles and a fine rule.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/glossary/prana/",
+    "/meditation/breath-awareness/",
+    "/questions/what-is-the-difference-between-pranayama-and-meditation/",
+    "/topics/yoga/",
+    "/topics/meditation/",
+    "/questions/how-do-traditions-describe-prana/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

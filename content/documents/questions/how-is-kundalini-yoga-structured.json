@@ -1,0 +1,111 @@
+{
+  "id": "how-is-kundalini-yoga-structured",
+  "kind": "question",
+  "status": "published",
+  "title": "How Is Kundalini Yoga Structured?",
+  "slug": "how-is-kundalini-yoga-structured",
+  "path": "/questions/how-is-kundalini-yoga-structured/",
+  "h1": "How Is Kundalini Yoga Structured?",
+  "excerpt": "A typical Kundalini Yoga class combines breath patterns, posture, chant, and relaxation. It is a modern class format, not the whole tradition.",
+  "quick_answer": {
+    "question": "How is Kundalini Yoga structured?",
+    "answer": "Studio Kundalini Yoga often sequences tuning in, vigorous or repeated breath, postures, chanting, and a rest. The format is a twentieth-century teaching, not a transcript of medieval tantra."
+  },
+  "topic": "kundalini",
+  "category": {
+    "id": "kundalini",
+    "name": "Kundalini",
+    "slug": "kundalini"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "kundalini yoga class structure",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "kundalini"
+  ],
+  "mentions": [
+    "kundalini-yoga"
+  ],
+  "intro": "The class has a recognizable shape in many American studios. Recognizing the shape is more useful than believing the shape is ancient law.",
+  "sections": [
+    {
+      "heading": "What is a typical hour?",
+      "slug": "what-is-a-typical-hour",
+      "content": "Students may chant a short opening, practice a breath pattern, hold or repeat postures, chant, and lie down. Teachers vary. Strong breathing is common enough to mention as a safety issue. The style page describes the format without turning it into a scripture.\n\nThe neighboring page is [Kundalini Yoga](/yoga/kundalini-yoga/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What is this format not?",
+      "slug": "what-is-this-format-not",
+      "content": "The branded class spread in the West in the twentieth century. Hatha texts are older and are not the same sequence. The comparison page keeps those histories apart. Ethical questions about some organizations are about institutions, not about whether a class had a rest at the end.\n\nA wider map lives at the [comparison with hatha](/articles/kundalini-yoga-vs-hatha-yoga/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should a visitor ask?",
+      "slug": "what-should-a-visitor-ask",
+      "content": "If you visit, ask what the breath pattern is and whether you may opt out. Sit out anything that makes you dizzy. You do not need the class to understand the classical word kundalini.\n\nIf you want a narrower practical or comparative page, use [what kundalini is](/articles/what-is-kundalini/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not treat tingling or emotion as proof of a risen energy. Do not let a class replace medical care. Leave if a teacher demands secrecy or isolation.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "The class is a modern sequence.",
+    "Breath, posture, chant, and rest are typical parts.",
+    "It is not identical to medieval texts.",
+    "You may opt out of intense breathing."
+  ],
+  "faq": [
+    {
+      "question": "Is every kundalini class this format?",
+      "answer": "No. The branded studio style is common in the United States. Other teachers use the word differently."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal instruction or medical advice."
+    }
+  ],
+  "source_ids": [
+    "britannica-kundalini",
+    "nccih-yoga",
+    "sacred-hatha"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "How Is Kundalini Yoga Structured?",
+    "meta_description": "See how a Kundalini Yoga class is usually structured and how that format differs from older kundalini literature.",
+    "canonical": "/questions/how-is-kundalini-yoga-structured/",
+    "robots": "index,follow",
+    "og_title": "How Is Kundalini Yoga Structured?",
+    "og_description": "See how a Kundalini Yoga class is usually structured and how that format differs from older kundalini literature.",
+    "og_image": "/images/how-is-kundalini-yoga-structured.svg"
+  },
+  "media": {
+    "featured_image": "/images/how-is-kundalini-yoga-structured.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on kundalini.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/yoga/kundalini-yoga/",
+    "/articles/kundalini-yoga-vs-hatha-yoga/",
+    "/topics/kundalini/",
+    "/articles/what-is-kundalini/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

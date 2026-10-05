@@ -1,0 +1,110 @@
+{
+  "id": "glossary-yoga",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Yoga: Meaning and Context",
+  "slug": "yoga",
+  "path": "/glossary/yoga/",
+  "h1": "Yoga: Meaning and Context",
+  "excerpt": "Yoga is a family of Indian disciplines of ethics, attention, and, in many later forms, the body. A fitness class is one descendant, not the whole.",
+  "quick_answer": {
+    "question": "What does Yoga mean?",
+    "answer": "Yoga names disciplined practice and philosophy. Classical lists include more than posture. Modern classes often mean posture and may be honest about that limit."
+  },
+  "topic": "yoga",
+  "category": {
+    "id": "yoga",
+    "name": "Yoga",
+    "slug": "yoga"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "yoga meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "yoga"
+  ],
+  "mentions": [
+    "meditation"
+  ],
+  "intro": "Yoga is a discipline. The Yoga Sutras organize a path in which posture is one limb. The Gita uses the word for ways of acting, knowing, and devoting.",
+  "sections": [
+    {
+      "heading": "What does Yoga mean?",
+      "slug": "what-does-yoga-mean",
+      "content": "Hatha literature adds bodily technique. American studios add a class format. Those are three layers. Samadhi and meditation are technical neighbors, not synonyms for a stretch. The philosophy explainer follows the texts.\n\nThe neighboring page is [what yoga philosophy is](/articles/what-is-yoga-philosophy/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "The Internet Encyclopedia of Philosophy is a better map than a schedule of class names. NCCIH discusses yoga as a practice people use for health and warns against replacing care. Health talk and philosophy talk should not be fused.\n\nA wider map lives at the [yoga topic](/topics/yoga/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "If you take a class, ask whether it is exercise, worship, or textual study. All three can be legitimate. Surprise is the problem. Read one passage if you want the philosophy.\n\nIf you want a narrower practical or comparative page, use [Hatha yoga](/yoga/hatha-yoga/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not say yoga cures disease. Do not say a weekend made you a lineage holder. Do not quote a sutra as a medical claim.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Yoga is defined here in its traditional or philosophical sense.",
+    "Popular English often widens the word until it means a mood.",
+    "Longer pages on this site carry the disagreements."
+  ],
+  "faq": [
+    {
+      "question": "Is Yoga a scientific term?",
+      "answer": "No. Yoga is a tradition and a set of practices. Some programs have been studied. The word itself is not a clinical finding."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the yoga pillar and the philosophy explainer."
+    }
+  ],
+  "source_ids": [
+    "iep-yoga",
+    "sacred-yoga-sutras",
+    "britannica-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Yoga: Meaning and Context",
+    "meta_description": "Yoga is a family of Indian disciplines of ethics, attention, and, in many later forms, the body. A fitness class is one descendant, not the whole.",
+    "canonical": "/glossary/yoga/",
+    "robots": "index,follow",
+    "og_title": "Yoga: Meaning and Context",
+    "og_description": "Yoga is a family of Indian disciplines of ethics, attention, and, in many later forms, the body. A fitness class is one descendant, not the whole.",
+    "og_image": "/images/glossary-yoga.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-yoga.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on yoga.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/yoga/",
+    "/articles/what-is-yoga-philosophy/",
+    "/glossary/samadhi/",
+    "/yoga/hatha-yoga/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

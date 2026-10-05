@@ -1,0 +1,92 @@
+{
+  "id": "hub-authors",
+  "kind": "hub",
+  "status": "published",
+  "title": "Authors and Contributors",
+  "slug": "authors",
+  "path": "/authors/",
+  "h1": "Authors and Contributors",
+  "excerpt": "Profiles of the people and desks responsible for Universal Consciousness. The first profile is the staff editorial desk.",
+  "quick_answer": {
+    "question": "Who are the authors?",
+    "answer": "Universal Consciousness currently lists one author profile, the staff editorial desk. Additional profiles will appear only when a real contributor can be described without invented credentials."
+  },
+  "topic": "publication",
+  "category": {
+    "id": "publication",
+    "name": "Publication",
+    "slug": "publication"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "universal consciousness authors",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "Author pages tell a reader who stands behind a sentence. This publication starts with a single honest profile rather than a cast of fictional specialists.\n\nThe [editorial team](/authors/editorial-team/) page explains the desk, its limits, and how corrections work.",
+  "sections": [
+    {
+      "heading": "Why is there only one profile?",
+      "slug": "why-one-profile",
+      "content": "A spirituality site can look more authoritative by attaching stock portraits and borrowed degrees to articles. That would mislead readers and mislead search engines about who created the work. Universal Consciousness does not do that. A missing biography is more trustworthy than a polished fiction, and this index will stay short until there is someone real to add.\n\nUntil a named writer, historian, or clinician agrees to be identified, articles carry the desk byline. The [editorial policy](/editorial-policy/) describes how that desk uses sources and what it will not invent."
+    },
+    {
+      "heading": "What will a future profile include?",
+      "slug": "future-profiles",
+      "content": "A future profile can include a biography, areas of study, and links the person actually maintains. It will not include honorary titles, initiation claims, or medical specialties that the publication cannot confirm. The [about](/about/) page explains the publication's scope."
+    }
+  ],
+  "key_takeaways": [
+    "One staff profile is live.",
+    "Credentials are not invented to strengthen a byline.",
+    "Future contributors get their own pages."
+  ],
+  "faq": [
+    {
+      "question": "Does the desk review every page?",
+      "answer": "Yes. A page is published under the desk byline only after it has been edited for clarity, sourcing, and the publication's claim rules."
+    },
+    {
+      "question": "Where do I send a biography?",
+      "answer": "Use the contact page. A biography is considered only if the person can be identified and the relevant experience can be described accurately."
+    }
+  ],
+  "source_ids": [],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Authors and Contributors",
+    "meta_description": "See who writes Universal Consciousness and how contributor profiles are limited to checkable experience.",
+    "canonical": "/authors/",
+    "robots": "index,follow",
+    "og_title": "Authors and Contributors",
+    "og_description": "See who writes Universal Consciousness and how contributor profiles are limited to checkable experience.",
+    "og_image": "/images/hub-authors.svg"
+  },
+  "media": {
+    "featured_image": "/images/hub-authors.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the authors page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/editorial-policy/",
+    "/about/"
+  ],
+  "children": [
+    "/authors/editorial-team/"
+  ],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

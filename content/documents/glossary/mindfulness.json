@@ -1,0 +1,110 @@
+{
+  "id": "glossary-mindfulness",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Mindfulness: Meaning and Context",
+  "slug": "mindfulness",
+  "path": "/glossary/mindfulness/",
+  "h1": "Mindfulness: Meaning and Context",
+  "excerpt": "Mindfulness is paying attention to present experience. Buddhist sources treat it as one part of a path. Clinics often teach a secular exercise.",
+  "quick_answer": {
+    "question": "What does Mindfulness mean?",
+    "answer": "Mindfulness means a way of noticing present experience. It is one kind of meditation and, in Buddhist lists, one mental quality. It is not every practice and not a cure."
+  },
+  "topic": "mindfulness",
+  "category": {
+    "id": "mindfulness",
+    "name": "Mindfulness",
+    "slug": "mindfulness"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "mindfulness meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "mindfulness"
+  ],
+  "mentions": [
+    "meditation"
+  ],
+  "intro": "Mindfulness is attentive presence. The technical idea includes remembering what is happening, not performing calm.",
+  "sections": [
+    {
+      "heading": "What does Mindfulness mean?",
+      "slug": "what-does-mindfulness-mean",
+      "content": "Secular programs adapted exercises for patients who were not asked to become Buddhists. The adaptation should be named. Research supports modest claims about some programs. The comparison with meditation stops the words from collapsing.\n\nThe neighboring page is [what mindfulness is](/articles/what-is-mindfulness/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "A neuroscience review is not a picture of enlightenment. Workplace courses are not a repaired workplace. The technique page gives the session shape.\n\nA wider map lives at the [mindfulness topic](/topics/mindfulness/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "Notice a sensation and return when you leave. Five minutes counts. If distress rises, stop and get help. Do not use the word for every audio file.\n\nIf you want a narrower practical or comparative page, use [meditation and mindfulness](/articles/meditation-vs-mindfulness/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not claim mindfulness cures disease or replaces therapy. Do not assume an app included a Buddhist path. Do not call acceptance of harm a virtue the technique requires.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Mindfulness is defined here in its traditional or philosophical sense.",
+    "Popular English often widens the word until it means a mood.",
+    "Longer pages on this site carry the disagreements."
+  ],
+  "faq": [
+    {
+      "question": "Is Mindfulness a scientific term?",
+      "answer": "Partly. It is a psychological construct in modern research and a term in Buddhist thought. Those are related and not identical."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the explainer and the topic pillar."
+    }
+  ],
+  "source_ids": [
+    "apa-mindfulness",
+    "nccih-meditation",
+    "pubmed-tang-2015"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Mindfulness: Meaning and Context",
+    "meta_description": "Mindfulness is paying attention to present experience. Buddhist sources treat it as one part of a path. Clinics often teach a secular exercise.",
+    "canonical": "/glossary/mindfulness/",
+    "robots": "index,follow",
+    "og_title": "Mindfulness: Meaning and Context",
+    "og_description": "Mindfulness is paying attention to present experience. Buddhist sources treat it as one part of a path. Clinics often teach a secular exercise.",
+    "og_image": "/images/glossary-mindfulness.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-mindfulness.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on mindfulness.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/mindfulness/",
+    "/articles/what-is-mindfulness/",
+    "/articles/meditation-vs-mindfulness/",
+    "/meditation/mindfulness/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

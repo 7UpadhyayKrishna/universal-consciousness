@@ -1,0 +1,111 @@
+{
+  "id": "glossary-shakti",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Shakti: Meaning and Context",
+  "slug": "shakti",
+  "path": "/glossary/shakti/",
+  "h1": "Shakti: Meaning and Context",
+  "excerpt": "Shakti is power, often divine power personified as goddess in Hindu traditions. Kundalini is one way some yogic texts picture that power.",
+  "quick_answer": {
+    "question": "What does Shakti mean?",
+    "answer": "Shakti means power, especially divine energy, often as goddess. It is broader than kundalini and broader than a workshop's use of the word energy."
+  },
+  "topic": "kundalini",
+  "category": {
+    "id": "kundalini",
+    "name": "Shakti",
+    "slug": "kundalini"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "shakti meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "shakti"
+  ],
+  "mentions": [
+    "kundalini",
+    "tantra"
+  ],
+  "intro": "Shakti is power. In many Hindu settings she is a goddess, not a private battery.",
+  "sections": [
+    {
+      "heading": "What does Shakti mean?",
+      "slug": "what-does-shakti-mean",
+      "content": "Tantric traditions give shakti a ritual and theological life. Kundalini is one image of latent power in yogic maps, not the definition of the goddess traditions. Vedanta comparisons go wrong when they treat shakti as a mood Advaita forgot.\n\nThe neighboring page is [the kundalini entry](/glossary/kundalini/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "English energy flattens a theology into a sensation. Britannica's shakti article keeps the religious sense. A class that says raise your shakti may be teaching a modern sequence, a devotional practice, or a metaphor. Ask which.\n\nA wider map lives at the [kundalini topic](/topics/kundalini/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "Study the word as theology before you use it as a personal fuel. Do not force breath or isolation to prove you have it. The tantra glossary stops the word from meaning intensity in general.\n\nIf you want a narrower practical or comparative page, use [the tantra entry](/glossary/tantra/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not sell shakti as a measurable current. Do not detach the goddess traditions from the word and keep only the thrill. Power language can also excuse harmful teachers. It should not.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Shakti has a traditional job that popular English often widens.",
+    "Context decides which school is speaking.",
+    "This entry defines the word and points to a longer page."
+  ],
+  "faq": [
+    {
+      "question": "Is Shakti a scientific term?",
+      "answer": "No. Shakti is a theological term. Sensations do not confirm it as physics."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the tantra and kundalini entries. The longer linked page carries the rest of the context."
+    }
+  ],
+  "source_ids": [
+    "britannica-shakti",
+    "britannica-kundalini",
+    "britannica-tantra"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Shakti: Meaning and Context",
+    "meta_description": "Shakti is power, often divine power personified as goddess in Hindu traditions. Kundalini is one way some yogic texts picture that power.",
+    "canonical": "/glossary/shakti/",
+    "robots": "index,follow",
+    "og_title": "Shakti: Meaning and Context",
+    "og_description": "Shakti is power, often divine power personified as goddess in Hindu traditions. Kundalini is one way some yogic texts picture that power.",
+    "og_image": "/images/glossary-shakti.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-shakti.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on shakti.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/glossary/kundalini/",
+    "/glossary/tantra/",
+    "/topics/kundalini/",
+    "/articles/vedanta-vs-tantra/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

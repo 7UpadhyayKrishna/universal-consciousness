@@ -1,0 +1,109 @@
+{
+  "id": "pillar-mantras",
+  "kind": "pillar",
+  "status": "published",
+  "title": "Mantras: Sound, Recitation, and Meaning",
+  "slug": "mantras",
+  "path": "/topics/mantras/",
+  "h1": "Mantras: Sound, Recitation, and Meaning",
+  "excerpt": "How mantras function as sacred formulas, how recitation is practiced, and why an affirmation is not the same thing.",
+  "quick_answer": {
+    "question": "What is a mantra?",
+    "answer": "A mantra is a sacred syllable, verse, or formula recited in ritual or meditation. In many traditions the sound is not merely a reminder of a meaning. It is treated as effective in its own right."
+  },
+  "topic": "mantras",
+  "category": {
+    "id": "mantras",
+    "name": "Mantras",
+    "slug": "mantras"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is a mantra",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "mantras"
+  ],
+  "mentions": [
+    "mantra",
+    "meditation"
+  ],
+  "intro": "Mantra is a Sanskrit word for a ritual formula. Britannica describes mantras as sacred utterances used in prayer, meditation, and ceremony. That is a better start than the idea that a mantra is any sentence you like and repeat in order to feel confident. Confidence might follow repetition. It is not what makes a formula a mantra.\n\nThis pillar sits between [meditation](/topics/meditation/) and [yoga](/topics/yoga/). The [technique page](/meditation/mantra/) describes a session. The [beginner guide](/articles/beginners-guide-to-mantras/) is the practical introduction. The [glossary](/glossary/mantra/) is the one-screen definition.",
+  "sections": [
+    {
+      "heading": "How is recitation understood?",
+      "slug": "how-is-recitation-understood",
+      "content": "In Vedic ritual, a mantra is tied to precise sound and to a rite. In later devotional practice, people repeat divine names, sometimes with a mala, sometimes aloud, sometimes silently. In some yogic and tantric settings, a syllable is planted in a subtle-body map and may be given in initiation. Those settings do not share one rule about secrecy or about whether you must know a translation.\n\nThe Yoga Sutras mention the syllable om in connection with contemplation of Ishvara. That passage is famous and narrow. It does not turn every English affirmation into a sutra. A public translation is in the [sources](/sources/)."
+    },
+    {
+      "heading": "What happens if you repeat a phrase?",
+      "slug": "what-happens-if-you-repeat-a-phrase",
+      "content": "Attention often steadies when the mind has a simple rhythmic object. That psychological description does not require the phrase to be divine, and it does not prove that the phrase is divine. You can value the steadiness and remain agnostic about the metaphysics. You can also accept a tradition's account. This site's job is to keep the two accounts labeled.\n\n[Are mantras the same as affirmations?](/questions/are-mantras-the-same-as-affirmations/) answers the comparison people actually search. Short version: an affirmation is a modern self-statement. A mantra is a formula embedded, or claimed to be embedded, in a tradition of sound and rite."
+    },
+    {
+      "heading": "What should a beginner respect?",
+      "slug": "what-should-a-beginner-respect",
+      "content": "Respect pronunciation enough to learn it, and respect the possibility that some communities do not want their formulas used as decor. Respect also means not scaring yourself with internet lists of syllables that are supposed to force an awakening. The [kundalini](/topics/kundalini/) material is full of that advertising. A quiet repetition of a name you understand, or of the breath, is enough to learn what repetition feels like.\n\nIf a teacher sells a secret mantra as the only door and ties it to escalating fees, you are looking at an institution's economics. You are not looking at a requirement of the Sanskrit language. The [editorial policy](/editorial-policy/) covers how this page will talk about those claims. The [disclaimer](/disclaimer/) matters if someone promises that a sound will treat an illness. It will not, on the evidence this publication is willing to cite. A sound can focus a mind. A sound is not a pharmacy, and this pillar will not become one."
+    }
+  ],
+  "key_takeaways": [
+    "A mantra is a recited formula, not a personal slogan.",
+    "Traditions differ on secrecy, meaning, and who may teach a formula.",
+    "Repetition can steady attention even when a metaphysical claim is set aside.",
+    "Om is one famous syllable, not the definition of all mantra practice."
+  ],
+  "faq": [
+    {
+      "question": "Can I invent a mantra?",
+      "answer": "You can invent a phrase to repeat. Calling it a mantra claims a traditional status the phrase may not have. The [affirmation question](/questions/are-mantras-the-same-as-affirmations/) explains the difference."
+    },
+    {
+      "question": "Must a mantra be in Sanskrit?",
+      "answer": "Many famous ones are. Other religions have their own repeated prayers. Sanskrit is not a magic requirement for attention, and it is not a costume."
+    }
+  ],
+  "source_ids": [
+    "britannica-mantra",
+    "sacred-yoga-sutras",
+    "iep-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Mantras: Sound, Recitation, and Meaning",
+    "meta_description": "Learn what a mantra is, how recitation is used in yoga and worship, and how it differs from an affirmation.",
+    "canonical": "/topics/mantras/",
+    "robots": "index,follow",
+    "og_title": "Mantras: Sound, Recitation, and Meaning",
+    "og_description": "Learn what a mantra is, how recitation is used in yoga and worship, and how it differs from an affirmation.",
+    "og_image": "/images/pillar-mantras.svg"
+  },
+  "media": {
+    "featured_image": "/images/pillar-mantras.svg",
+    "featured_image_alt": "Abstract geometric illustration for the Mantras pillar, using circles and a fine rule.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/beginners-guide-to-mantras/",
+    "/glossary/mantra/",
+    "/meditation/mantra/",
+    "/questions/are-mantras-the-same-as-affirmations/",
+    "/topics/meditation/",
+    "/topics/yoga/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

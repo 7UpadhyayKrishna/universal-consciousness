@@ -1,0 +1,112 @@
+{
+  "id": "what-does-it-mean-to-study-a-spiritual-text",
+  "kind": "question",
+  "status": "published",
+  "title": "What It Means to Study a Spiritual Text",
+  "slug": "what-does-it-mean-to-study-a-spiritual-text",
+  "path": "/questions/what-does-it-mean-to-study-a-spiritual-text/",
+  "h1": "What It Means to Study a Spiritual Text",
+  "excerpt": "Studying a spiritual text means reading a named passage in context, not collecting quotations that match a mood.",
+  "quick_answer": {
+    "question": "What does it mean to study a spiritual text?",
+    "answer": "It means reading an identified passage in a translation you can cite, noticing its context, and checking what a tradition argued about it. A loose quotation is not yet study."
+  },
+  "topic": "ancient-wisdom",
+  "category": {
+    "id": "ancient-wisdom",
+    "name": "Ancient Wisdom",
+    "slug": "ancient-wisdom"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "study a spiritual text",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "ancient-wisdom"
+  ],
+  "mentions": [
+    "upanishads",
+    "bhagavad-gita"
+  ],
+  "intro": "Study is slower than inspiration. Inspiration can start the reading. It cannot replace the passage.",
+  "sections": [
+    {
+      "heading": "What is the smallest real study?",
+      "slug": "what-is-the-smallest-real-study",
+      "content": "Pick a short unit of the Gita or an Upanishad. Read it twice. Write what it requires a reader to already believe. Then read one reference article and see which belief is controversial. That is a week of study. The ancient wisdom pillar is the shelf, not a pile of captions.\n\nThe neighboring page is [ancient wisdom](/topics/ancient-wisdom/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What do commentaries add?",
+      "slug": "what-do-commentaries-add",
+      "content": "Indian philosophical schools exist because the sources are short and the arguments are long. The Stanford Encyclopedia's piece on classical Indian epistemology shows that these traditions argued about knowledge itself. A meme skips that argument.\n\nA wider map lives at the [Vedanta topic](/topics/vedanta/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What habit should you drop?",
+      "slug": "what-habit-should-you-drop",
+      "content": "Keep a note of title, passage, and translation. When a teacher quotes, ask for the same three things. Look up dharma or karma if the English word is doing too much work. Stop when you can say what you read, not when you feel finished.\n\nIf you want a narrower practical or comparative page, use [yoga philosophy](/articles/what-is-yoga-philosophy/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not treat a text as a medical or financial instruction. Do not assume one verse speaks for every school. Antiquity is not accuracy about your life.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Name the passage and the translation.",
+    "Context includes what the text assumes.",
+    "Commentaries disagree on purpose.",
+    "Quotations are prompts, not study."
+  ],
+  "faq": [
+    {
+      "question": "Do I need a guru to read?",
+      "answer": "You need honesty about being a beginner. A teacher can help. A teacher is not a substitute for the passage."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal instruction or medical advice."
+    }
+  ],
+  "source_ids": [
+    "sep-epistemology-india",
+    "sacred-gita",
+    "sacred-upanishads"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What It Means to Study a Spiritual Text",
+    "meta_description": "Learn what it means to study a spiritual text slowly, with context, disagreement, and a citable translation.",
+    "canonical": "/questions/what-does-it-mean-to-study-a-spiritual-text/",
+    "robots": "index,follow",
+    "og_title": "What It Means to Study a Spiritual Text",
+    "og_description": "Learn what it means to study a spiritual text slowly, with context, disagreement, and a citable translation.",
+    "og_image": "/images/what-does-it-mean-to-study-a-spiritual-text.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-does-it-mean-to-study-a-spiritual-text.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on ancient wisdom.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/ancient-wisdom/",
+    "/topics/vedanta/",
+    "/articles/what-is-yoga-philosophy/",
+    "/glossary/dharma/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

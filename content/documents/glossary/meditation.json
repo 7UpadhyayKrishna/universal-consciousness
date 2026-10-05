@@ -1,0 +1,110 @@
+{
+  "id": "glossary-meditation",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Meditation: Meaning and Context",
+  "slug": "meditation",
+  "path": "/glossary/meditation/",
+  "h1": "Meditation: Meaning and Context",
+  "excerpt": "Meditation is a family of practices that train attention or devotion. It is not one script and not a cure.",
+  "quick_answer": {
+    "question": "What does Meditation mean?",
+    "answer": "Meditation names methods that train attention, awareness, or devotion. Traditions disagree about the aim. Research studies programs, not the word as a whole."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "meditation meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness"
+  ],
+  "intro": "Meditation is practice with a method. Sitting while ruminating is not yet the method. Breath, mantra, and kindness are different methods.",
+  "sections": [
+    {
+      "heading": "What does Meditation mean?",
+      "slug": "what-does-meditation-mean",
+      "content": "Religious histories and clinical courses both use the word. NCCIH describes that double life. A 2014 review supports limited stress-related claims and not cure claims. Mindfulness is one family inside the larger word.\n\nThe neighboring page is [what meditation is](/articles/what-is-meditation/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "The beginner guide is the practical door. The topic pillar is the map. Myths about empty minds are handled on their own page and should not be imported into the definition.\n\nA wider map lives at the [meditation topic](/topics/meditation/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "Five to ten minutes of one cue is enough to learn what the word means in practice. Stop if the sit brings panic. Do not replace professional care.\n\nIf you want a narrower practical or comparative page, use [mindfulness](/glossary/mindfulness/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not say meditation cures disease. Do not say one tradition's aim has been proved by another tradition's study. Do not require pain or a blank mind.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Meditation is defined here in its traditional or philosophical sense.",
+    "Popular English often widens the word until it means a mood.",
+    "Longer pages on this site carry the disagreements."
+  ],
+  "faq": [
+    {
+      "question": "Is Meditation a scientific term?",
+      "answer": "Partly. Specific programs have been studied for some outcomes. The word as a whole is not one treatment."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the explainer and the beginner guide."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "nccih-meditation-depth",
+    "pubmed-goyal-2014"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Meditation: Meaning and Context",
+    "meta_description": "Meditation is a family of practices that train attention or devotion. It is not one script and not a cure.",
+    "canonical": "/glossary/meditation/",
+    "robots": "index,follow",
+    "og_title": "Meditation: Meaning and Context",
+    "og_description": "Meditation is a family of practices that train attention or devotion. It is not one script and not a cure.",
+    "og_image": "/images/glossary-meditation.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-meditation.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/meditation/",
+    "/articles/what-is-meditation/",
+    "/glossary/mindfulness/",
+    "/articles/meditation-for-beginners/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

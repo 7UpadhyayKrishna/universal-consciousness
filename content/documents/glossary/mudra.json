@@ -1,0 +1,110 @@
+{
+  "id": "glossary-mudra",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Mudra: Meaning and Context",
+  "slug": "mudra",
+  "path": "/glossary/mudra/",
+  "h1": "Mudra: Meaning and Context",
+  "excerpt": "A mudra is a seal, often a hand gesture or a bodily technique in ritual and hatha practice. A pretty hand shape in a photo is not the whole term.",
+  "quick_answer": {
+    "question": "What does Mudra mean?",
+    "answer": "A mudra is a seal: a gesture or technique used in ritual, dance, and some yogic practices. Studio photographs show only the most visible kind."
+  },
+  "topic": "yoga",
+  "category": {
+    "id": "yoga",
+    "name": "Mudra",
+    "slug": "yoga"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "mudra meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "yoga"
+  ],
+  "mentions": [
+    "hatha-yoga"
+  ],
+  "intro": "Mudra means seal. In practice it can be a hand gesture, a bodily lock, or a ritual attitude that is said to hold energy or meaning in place.",
+  "sections": [
+    {
+      "heading": "What does Mudra mean?",
+      "slug": "what-does-mudra-mean",
+      "content": "Hatha texts discuss mudras beside postures and breath, with aims that are yogic rather than photographic. Classical dance uses hand mudras as a lexicon of meaning. A fitness class that borrows a hand shape may be doing neither text.\n\nThe neighboring page is [Hatha yoga](/yoga/hatha-yoga/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "The word traveled into wellness as a set of finger positions said to change mood. That claim is a modern simplification. The yoga topic explains how technical terms get widened.\n\nA wider map lives at the [yoga topic](/topics/yoga/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "You can learn a traditional gesture from a teacher who can name the source. You should not expect a hand position to treat anxiety or to move prana in a measurable way.\n\nIf you want a narrower practical or comparative page, use [yoga philosophy](/articles/what-is-yoga-philosophy/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not invent medical results for a gesture. Do not assume every photo of hands is a mudra from a text you could cite.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Mudra has a traditional job that popular English often widens.",
+    "Context decides which school is speaking.",
+    "This entry defines the word and points to a longer page."
+  ],
+  "faq": [
+    {
+      "question": "Is Mudra a scientific term?",
+      "answer": "No. Mudra is a term of practice and iconography, not a clinical intervention."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the hatha page and the yoga pillar."
+    }
+  ],
+  "source_ids": [
+    "sacred-hatha",
+    "iep-yoga",
+    "britannica-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Mudra: Meaning and Context",
+    "meta_description": "A mudra is a seal, often a hand gesture or a bodily technique in ritual and hatha practice. A pretty hand shape in a photo is not the whole term.",
+    "canonical": "/glossary/mudra/",
+    "robots": "index,follow",
+    "og_title": "Mudra: Meaning and Context",
+    "og_description": "A mudra is a seal, often a hand gesture or a bodily technique in ritual and hatha practice. A pretty hand shape in a photo is not the whole term.",
+    "og_image": "/images/glossary-mudra.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-mudra.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on mudra.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/yoga/hatha-yoga/",
+    "/topics/yoga/",
+    "/glossary/yoga/",
+    "/articles/what-is-yoga-philosophy/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

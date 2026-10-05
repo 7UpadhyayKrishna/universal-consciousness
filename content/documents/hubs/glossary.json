@@ -1,0 +1,115 @@
+{
+  "id": "hub-glossary",
+  "kind": "hub",
+  "status": "published",
+  "title": "Glossary of Spiritual and Yogic Terms",
+  "slug": "glossary",
+  "path": "/glossary/",
+  "h1": "Glossary of Spiritual and Yogic Terms",
+  "excerpt": "Short reference entries for terms used across Universal Consciousness, written to be precise without pretending that one lineage owns the only meaning.",
+  "quick_answer": {
+    "question": "What is in Glossary of Spiritual and Yogic Terms?",
+    "answer": "Short reference entries for terms used across Universal Consciousness, written to be precise without pretending that one lineage owns the only meaning."
+  },
+  "topic": "publication",
+  "category": {
+    "id": "publication",
+    "name": "Publication",
+    "slug": "publication"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "spiritual glossary",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "This glossary defines terms a reader meets in yoga classes, books, and search results. Each entry gives a working meaning, a note on origin, and the disagreements that a one-line definition would hide.\n\nUse it beside the longer [topic pillars](/topics/consciousness/). A glossary page is a reference. It is not the whole argument.",
+  "sections": [
+    {
+      "heading": "How should these pages be read?",
+      "slug": "how-to-read",
+      "content": "Start with the short answer on a page, then read the sections that match your question. Follow the related links when you need the longer argument. A collection page is a map. The individual pages are the reference.\n\nIf a sentence touches health or a contested spiritual mechanism, read it beside the disclaimer. The [editorial policy](/editorial-policy/) is the rule for how those sentences are written."
+    },
+    {
+      "heading": "What is not collected here?",
+      "slug": "what-is-absent",
+      "content": "This collection does not include city-by-city studio directories, miracle rankings, or pages that exist only to repeat a keyword. If a subject does not yet have a page, it is because a distinct page was not ready, not because every search phrase deserves a URL. A missing page is preferable to a thin one.\n\nSuggestions can be sent through the [contact](/contact/) page."
+    }
+  ],
+  "key_takeaways": [
+    "Each linked page should be able to stand as its own explanation.",
+    "The collection does not add doorway pages or repeated city guides.",
+    "Health-related claims stay tied to the disclaimer and the cited sources."
+  ],
+  "faq": [
+    {
+      "question": "Are these pages medical guidance?",
+      "answer": "No. They are educational descriptions. Decisions about health belong with a qualified professional."
+    },
+    {
+      "question": "Where is the longer overview?",
+      "answer": "Use the matching topic pillar linked in the introduction. This page is the index of narrower references."
+    }
+  ],
+  "source_ids": [],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Glossary of Spiritual and Yogic Terms",
+    "meta_description": "Definitions of Atman, Brahman, prana, kundalini, and other terms, each linked to a longer article.",
+    "canonical": "/glossary/",
+    "robots": "index,follow",
+    "og_title": "Glossary of Spiritual and Yogic Terms",
+    "og_description": "Definitions of Atman, Brahman, prana, kundalini, and other terms, each linked to a longer article.",
+    "og_image": "/images/hub-glossary.svg"
+  },
+  "media": {
+    "featured_image": "/images/hub-glossary.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the Glossary of Spiritual and Yogic Terms page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/about/",
+    "/editorial-policy/"
+  ],
+  "children": [
+    "/glossary/atman/",
+    "/glossary/brahman/",
+    "/glossary/chakra/",
+    "/glossary/dharma/",
+    "/glossary/karma/",
+    "/glossary/kundalini/",
+    "/glossary/mantra/",
+    "/glossary/moksha/",
+    "/glossary/mudra/",
+    "/glossary/nadi/",
+    "/glossary/prana/",
+    "/glossary/samadhi/",
+    "/glossary/samsara/",
+    "/glossary/sattva/",
+    "/glossary/shakti/",
+    "/glossary/shiva/",
+    "/glossary/tantra/",
+    "/glossary/vedanta/",
+    "/glossary/yoga/",
+    "/glossary/awareness/",
+    "/glossary/consciousness/",
+    "/glossary/non-duality/",
+    "/glossary/meditation/",
+    "/glossary/mindfulness/"
+  ],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

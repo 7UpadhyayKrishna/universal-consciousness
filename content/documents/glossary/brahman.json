@@ -1,0 +1,110 @@
+{
+  "id": "glossary-brahman",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Brahman: Meaning and Context",
+  "slug": "brahman",
+  "path": "/glossary/brahman/",
+  "h1": "Brahman: Meaning and Context",
+  "excerpt": "Brahman is the Sanskrit term for ultimate reality in Vedanta, not a member of the priestly class, which is a different word.",
+  "quick_answer": {
+    "question": "What does Brahman mean?",
+    "answer": "Brahman means ultimate reality in Vedanta. Advaita says the self is not other than it. Other schools describe a real relationship rather than simple identity."
+  },
+  "topic": "vedanta",
+  "category": {
+    "id": "vedanta",
+    "name": "Brahman",
+    "slug": "vedanta"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "brahman meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "vedanta"
+  ],
+  "mentions": [
+    "atman"
+  ],
+  "intro": "Brahman, in this philosophical sense, is the ultimate that Vedanta argues about. It is not a mood and not the caste title brahmin.",
+  "sections": [
+    {
+      "heading": "What does Brahman mean?",
+      "slug": "what-does-brahman-mean",
+      "content": "Advaita treats brahman as without a second, so the apparent world of separate selves is ignorance. Theistic Vedanta can speak of brahman in personal terms and refuse the claim that devotion is only a ladder to be discarded. The spelling is the same in English for more than one Sanskrit form, which is why context matters.\n\nThe neighboring page is [the Vedanta explainer](/articles/what-is-vedanta/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "Upanishadic language gestures more than it defines. Commentaries do the defining, and they fight. Britannica's brahman article keeps the philosophical sense distinct from other uses of similar words.\n\nA wider map lives at the [ancient wisdom topic](/topics/ancient-wisdom/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "If a sentence says everything is brahman, ask which school and what follows for ethics. A metaphysical slogan is not a reason to ignore a person in front of you.\n\nIf you want a narrower practical or comparative page, use [Atman and Brahman](/articles/atman-vs-brahman/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not equate the word with the universe in a casual physics sense. Do not treat a class affirmation as an Upanishad. The claim is doctrinal.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Brahman is a traditional term with a narrower meaning than popular English often allows.",
+    "Schools and modern classes do not all use it the same way.",
+    "The glossary states the limit. Longer pages carry the argument."
+  ],
+  "faq": [
+    {
+      "question": "Is Brahman a scientific term?",
+      "answer": "No. It is a term of Vedanta, not a scientific variable."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the atman entry and the Vedanta topic."
+    }
+  ],
+  "source_ids": [
+    "britannica-brahman",
+    "iep-advaita",
+    "britannica-vedanta"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Brahman: Meaning and Context",
+    "meta_description": "Brahman is the Sanskrit term for ultimate reality in Vedanta, not a member of the priestly class, which is a different word.",
+    "canonical": "/glossary/brahman/",
+    "robots": "index,follow",
+    "og_title": "Brahman: Meaning and Context",
+    "og_description": "Brahman is the Sanskrit term for ultimate reality in Vedanta, not a member of the priestly class, which is a different word.",
+    "og_image": "/images/glossary-brahman.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-brahman.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on brahman.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/glossary/atman/",
+    "/articles/atman-vs-brahman/",
+    "/topics/vedanta/",
+    "/articles/what-is-vedanta/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

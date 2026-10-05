@@ -1,0 +1,111 @@
+{
+  "id": "glossary-moksha",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Moksha: Meaning and Context",
+  "slug": "moksha",
+  "path": "/glossary/moksha/",
+  "h1": "Moksha: Meaning and Context",
+  "excerpt": "Moksha is liberation in Hindu thought, usually freedom from the cycle of rebirth. Schools disagree about what is freed.",
+  "quick_answer": {
+    "question": "What does Moksha mean?",
+    "answer": "Moksha means liberation, especially from samsara. It is not a mood of relief, and it is not a single doctrine shared by every school."
+  },
+  "topic": "moksha",
+  "category": {
+    "id": "moksha",
+    "name": "Moksha",
+    "slug": "moksha"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "moksha meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "moksha"
+  ],
+  "mentions": [
+    "samsara",
+    "karma"
+  ],
+  "intro": "Moksha names liberation. In classical lists of human aims it is the aim that can outrank duty, success, and pleasure.",
+  "sections": [
+    {
+      "heading": "What does Moksha mean?",
+      "slug": "what-does-moksha-mean",
+      "content": "Advaita may say the self was never bound. A theistic school may say the self is freed into relationship with God. Yoga may speak of isolation of consciousness. The Gita stages the argument rather than ending it in one line.\n\nThe neighboring page is [what moksha is](/articles/what-is-moksha/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "The idea usually assumes rebirth and karma. This site reports that assumption and does not claim to verify it. Popular English uses the word for inner freedom this weekend.\n\nA wider map lives at the [moksha topic](/topics/moksha/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "Study the school before you use the word for your own life. A website cannot confer liberation. Feeling lighter after a holiday is not the doctrine.\n\nIf you want a narrower practical or comparative page, use [samsara](/glossary/samsara/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not use moksha to dismiss obligations or pain. Do not rank other people as bound. The word is a teaching, not a score.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Moksha has a traditional job that popular English often widens.",
+    "Context decides which school is speaking.",
+    "This entry defines the word and points to a longer page."
+  ],
+  "faq": [
+    {
+      "question": "Is Moksha a scientific term?",
+      "answer": "No. It is a religious aim. Psychology may describe relief. It should not be renamed moksha without the cosmology."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the explainer and the topic pillar."
+    }
+  ],
+  "source_ids": [
+    "britannica-moksha",
+    "britannica-samsara",
+    "britannica-karma"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Moksha: Meaning and Context",
+    "meta_description": "Moksha is liberation in Hindu thought, usually freedom from the cycle of rebirth. Schools disagree about what is freed.",
+    "canonical": "/glossary/moksha/",
+    "robots": "index,follow",
+    "og_title": "Moksha: Meaning and Context",
+    "og_description": "Moksha is liberation in Hindu thought, usually freedom from the cycle of rebirth. Schools disagree about what is freed.",
+    "og_image": "/images/glossary-moksha.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-moksha.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on moksha.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/moksha/",
+    "/articles/what-is-moksha/",
+    "/glossary/samsara/",
+    "/topics/vedanta/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

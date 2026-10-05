@@ -1,0 +1,113 @@
+{
+  "id": "understanding-chakras",
+  "kind": "guide",
+  "status": "published",
+  "title": "Understanding Chakras Without the Hype",
+  "slug": "understanding-chakras",
+  "path": "/articles/understanding-chakras/",
+  "h1": "Understanding Chakras Without the Hype",
+  "excerpt": "A beginner path through the seven-center chart that teaches the names and refuses the medical and moral claims.",
+  "quick_answer": {
+    "question": "How should a beginner understand chakras?",
+    "answer": "Learn the chart as a modern teaching picture with Sanskrit names and traditional associations, and do not treat colors, stones, or emotional slogans as anatomy or diagnosis."
+  },
+  "topic": "chakras",
+  "category": {
+    "id": "chakras",
+    "name": "Chakras",
+    "slug": "chakras"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "understanding chakras",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "chakras"
+  ],
+  "mentions": [
+    "chakra"
+  ],
+  "intro": "Understanding chakras begins by slowing the poster down. Seven names are enough for literacy. Seven products are not required for literacy.",
+  "sections": [
+    {
+      "heading": "What is worth memorizing?",
+      "slug": "what-is-worth-memorizing",
+      "content": "The usual English list runs from root to crown: muladhara, svadhisthana, manipura, anahata, vishuddha, ajna, sahasrara. Each center page on this site gives the Sanskrit name and a traditional location, then says where the color psychology is modern. Memorize the names. Hold the slogans lightly.\n\nThe neighboring page is [what chakras are](/articles/what-are-chakras/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What is later than it looks?",
+      "slug": "what-is-later-than-it-looks",
+      "content": "Hatha and tantric sources discuss centers, lotuses, and syllables without agreeing on one poster. The rainbow sequence is a modern synthesis. Kundalini imagery often travels with the chart and has the same limit: traditional picture, not a scan.\n\nA wider map lives at the [chakras topic](/topics/chakras/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How can you use the map without believing it is medicine?",
+      "slug": "how-can-you-use-the-map-without-believing-it-is-medicine",
+      "content": "If a class uses the words while you stretch and breathe, you can treat the words as poetry or set them aside. You do not need to open anything. Breath awareness works without a ladder of centers. Stones do not treat organs.\n\nIf you want a narrower practical or comparative page, use [whether chakras are scientific](/articles/are-chakras-scientific/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Refuse any claim that a blocked chakra explains a disease or a moral failure. Refuse rankings of how open you are. The glossary and the center pages are for recognition, not for a treatment plan.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Learn the seven names as a chart, not as organs.",
+    "The rainbow scheme is modern.",
+    "You can practice without the chart.",
+    "Disease and character are not chakra scores."
+  ],
+  "faq": [
+    {
+      "question": "How should a beginner understand chakras?",
+      "answer": "Learn the chart as a modern teaching picture with Sanskrit names and traditional associations, and do not treat colors, stones, or emotional slogans as anatomy or diagnosis."
+    },
+    {
+      "question": "Do I need a teacher to read this?",
+      "answer": "No. A teacher can help with practice. This page only explains the idea and points to longer reading."
+    }
+  ],
+  "source_ids": [
+    "britannica-chakra",
+    "sacred-hatha",
+    "britannica-kundalini"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Understanding Chakras Without the Hype",
+    "meta_description": "Understand the popular chakra chart, learn the Sanskrit names, and see which claims do not belong to the tradition.",
+    "canonical": "/articles/understanding-chakras/",
+    "robots": "index,follow",
+    "og_title": "Understanding Chakras Without the Hype",
+    "og_description": "Understand the popular chakra chart, learn the Sanskrit names, and see which claims do not belong to the tradition.",
+    "og_image": "/images/understanding-chakras.svg"
+  },
+  "media": {
+    "featured_image": "/images/understanding-chakras.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on chakras.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/chakras/",
+    "/articles/what-are-chakras/",
+    "/articles/are-chakras-scientific/",
+    "/chakras/root-chakra/",
+    "/glossary/chakra/",
+    "/guides/chakras/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

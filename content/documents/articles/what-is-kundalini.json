@@ -1,0 +1,114 @@
+{
+  "id": "what-is-kundalini",
+  "kind": "explainer",
+  "status": "published",
+  "title": "What Is Kundalini? Meaning, Origins, and Myths",
+  "slug": "what-is-kundalini",
+  "path": "/articles/what-is-kundalini/",
+  "h1": "What Is Kundalini? Meaning, Origins, and Myths",
+  "excerpt": "Kundalini is a traditional image of latent spiritual power, not a laboratory finding and not identical to every modern class.",
+  "quick_answer": {
+    "question": "What is kundalini?",
+    "answer": "Kundalini is a concept in some Indian yogic and tantric traditions naming a latent power, often pictured as coiled energy. Traditions disagree about it, and science has not established the picture as anatomy."
+  },
+  "topic": "kundalini",
+  "category": {
+    "id": "kundalini",
+    "name": "Kundalini",
+    "slug": "kundalini"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is kundalini",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "kundalini"
+  ],
+  "mentions": [
+    "chakras",
+    "shakti"
+  ],
+  "intro": "Kundalini is a traditional metaphor that American marketing often treats as a body part. The metaphor can be explained. The body part has not been demonstrated.",
+  "sections": [
+    {
+      "heading": "What does kundalini mean?",
+      "slug": "what-does-kundalini-mean",
+      "content": "The word is tied to shakti, the language of power, and to images of coiling and rising. Inside those traditions the aim is a change in awareness, not a spectacle. There is no single ancient checklist called an awakening that every text shares. Britannica's article is a calmer public summary than a symptom thread.\n\nThe neighboring page is [the kundalini topic](/topics/kundalini/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the image come from?",
+      "slug": "where-does-the-image-come-from",
+      "content": "Tantric and hatha literature developed subtle-body maps with channels and centers. The Hatha Yoga Pradipika is one public window, not a beginner's script. Later English interpreters systematized the images. Systematizing is authorship and should be labeled as such.\n\nA wider map lives at the [chakras topic](/topics/chakras/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What do modern classes add?",
+      "slug": "what-do-modern-classes-add",
+      "content": "People report heat, movement, emotion, and sleep changes. Reports are reports. Similar sensations have ordinary medical causes. A studio class called Kundalini Yoga is largely a twentieth-century teaching, described on its own page, not the whole archive. Do not chase an experience because a video promised bliss.\n\nIf you want a narrower practical or comparative page, use [kundalini for beginners](/articles/kundalini-for-beginners/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "No scientific consensus establishes a serpent energy. Intense breathing can make you dizzy without proving a mechanism. If you cannot sleep or function, see a clinician. A teacher who calls all distress a spiritual test is asking you to skip ordinary safety.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Kundalini is a traditional concept, not an anatomical organ.",
+    "Texts and modern classes do not match one script.",
+    "Reports of sensation are not proof of a mechanism.",
+    "Safety belongs with ordinary medical sense."
+  ],
+  "faq": [
+    {
+      "question": "What is kundalini?",
+      "answer": "Kundalini is a concept in some Indian yogic and tantric traditions naming a latent power, often pictured as coiled energy. Traditions disagree about it, and science has not established the picture as anatomy."
+    },
+    {
+      "question": "Where does this page fit?",
+      "answer": "It answers one question and links to the wider topic. It is not a course and not a medical instruction."
+    }
+  ],
+  "source_ids": [
+    "britannica-kundalini",
+    "sacred-hatha",
+    "britannica-tantra"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Is Kundalini? Meaning, Origins, and Myths",
+    "meta_description": "Learn what kundalini means in yogic tradition, where the serpent image comes from, and which claims are myths.",
+    "canonical": "/articles/what-is-kundalini/",
+    "robots": "index,follow",
+    "og_title": "What Is Kundalini? Meaning, Origins, and Myths",
+    "og_description": "Learn what kundalini means in yogic tradition, where the serpent image comes from, and which claims are myths.",
+    "og_image": "/images/what-is-kundalini.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-kundalini.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on kundalini.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/kundalini/",
+    "/articles/kundalini-for-beginners/",
+    "/articles/is-kundalini-dangerous/",
+    "/glossary/kundalini/",
+    "/topics/chakras/",
+    "/yoga/kundalini-yoga/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

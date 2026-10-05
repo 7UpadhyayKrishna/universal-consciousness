@@ -1,0 +1,113 @@
+{
+  "id": "yoga-philosophy-for-beginners",
+  "kind": "guide",
+  "status": "published",
+  "title": "Yoga Philosophy for Beginners",
+  "slug": "yoga-philosophy-for-beginners",
+  "path": "/articles/yoga-philosophy-for-beginners/",
+  "h1": "Yoga Philosophy for Beginners",
+  "excerpt": "A beginner path into yoga philosophy through one text, one reference article, and no claim that a class replaced the reading.",
+  "quick_answer": {
+    "question": "How should beginners study yoga philosophy?",
+    "answer": "Read a short identified passage from the Yoga Sutras or the Bhagavad Gita and one scholarly summary. Keep posture classes in a separate category unless the class is actually teaching the text."
+  },
+  "topic": "yoga",
+  "category": {
+    "id": "yoga",
+    "name": "Yoga",
+    "slug": "yoga"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "yoga philosophy for beginners",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "yoga"
+  ],
+  "mentions": [
+    "yoga-sutras"
+  ],
+  "intro": "Beginners meet yoga as exercise and then hear that it is really a philosophy. Both can be true only if you let the philosophy be a text rather than a vibe.",
+  "sections": [
+    {
+      "heading": "What should you read first?",
+      "slug": "what-should-you-read-first",
+      "content": "Choose either the eight-limb outline in the Yoga Sutras or a short chapter of the Gita. Read a public translation linked from the sources, then the Internet Encyclopedia of Philosophy article on yoga. Write down one claim the text makes and one claim you are tempted to add.\n\nThe neighboring page is [what yoga philosophy is](/articles/what-is-yoga-philosophy/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What pace works?",
+      "slug": "what-pace-works",
+      "content": "The Sutras are interested in stilling mental fluctuation. The Gita is interested in how to act, know, and devote. Later hatha texts care more about the body. A beginner who blends them on day one will not notice the blend.\n\nA wider map lives at the [yoga topic](/topics/yoga/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should you not expect from a studio?",
+      "slug": "what-should-you-not-expect-from-a-studio",
+      "content": "One passage a week is enough. Look up dharma, karma, or samadhi in the glossary when a word blocks you. Do not buy a commentary that promises the only true reading until you have seen that schools disagree.\n\nIf you want a narrower practical or comparative page, use [the tradition page](/yoga/yoga-philosophy/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "A posture teacher may be excellent at teaching shapes and uninterested in these arguments. That is not a fraud if the class is described as exercise. It is a fraud if the class claims to transmit the Sutras by sweating.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Start with one primary passage.",
+    "Use one scholarly summary beside it.",
+    "Do not fuse the Sutras, the Gita, and a fitness class.",
+    "Disagreement among schools is part of the subject."
+  ],
+  "faq": [
+    {
+      "question": "Do I need Sanskrit?",
+      "answer": "No. You need a translation you can cite and the humility to know it is a translation."
+    },
+    {
+      "question": "Where should I read next?",
+      "answer": "Use the yoga topic pillar and the public translations on the sources page."
+    }
+  ],
+  "source_ids": [
+    "iep-yoga",
+    "sacred-yoga-sutras",
+    "sacred-gita"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Yoga Philosophy for Beginners",
+    "meta_description": "Start yoga philosophy with the Yoga Sutras or the Gita, a reliable summary, and a modest reading pace.",
+    "canonical": "/articles/yoga-philosophy-for-beginners/",
+    "robots": "index,follow",
+    "og_title": "Yoga Philosophy for Beginners",
+    "og_description": "Start yoga philosophy with the Yoga Sutras or the Gita, a reliable summary, and a modest reading pace.",
+    "og_image": "/images/yoga-philosophy-for-beginners.svg"
+  },
+  "media": {
+    "featured_image": "/images/yoga-philosophy-for-beginners.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on yoga.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-yoga-philosophy/",
+    "/yoga/yoga-philosophy/",
+    "/topics/yoga/",
+    "/topics/ancient-wisdom/",
+    "/articles/yoga-vs-meditation/",
+    "/guides/yoga/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

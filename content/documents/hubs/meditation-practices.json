@@ -1,0 +1,97 @@
+{
+  "id": "hub-meditation",
+  "kind": "hub",
+  "status": "published",
+  "title": "Meditation Practice Guides",
+  "slug": "meditation-practices",
+  "path": "/meditation/",
+  "h1": "Meditation Practice Guides",
+  "excerpt": "Technique pages for common meditation methods, written as descriptions of practice rather than as treatment protocols.",
+  "quick_answer": {
+    "question": "What is in Meditation Practice Guides?",
+    "answer": "Technique pages for common meditation methods, written as descriptions of practice rather than as treatment protocols."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "meditation practices",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "Meditation is a family of methods, not one exercise with a single script. These pages describe methods readers in the United States are likely to meet by name.\n\nFor the wider history, use the [meditation topic](/topics/meditation/). For a first practical overview, use [meditation for beginners](/articles/meditation-for-beginners/). None of these pages is a medical protocol.",
+  "sections": [
+    {
+      "heading": "How should these pages be read?",
+      "slug": "how-to-read",
+      "content": "Start with the short answer on a page, then read the sections that match your question. Follow the related links when you need the longer argument. A collection page is a map. The individual pages are the reference.\n\nIf a sentence touches health or a contested spiritual mechanism, read it beside the disclaimer. The [editorial policy](/editorial-policy/) is the rule for how those sentences are written."
+    },
+    {
+      "heading": "What is not collected here?",
+      "slug": "what-is-absent",
+      "content": "This collection does not include city-by-city studio directories, miracle rankings, or pages that exist only to repeat a keyword. If a subject does not yet have a page, it is because a distinct page was not ready, not because every search phrase deserves a URL. A missing page is preferable to a thin one.\n\nSuggestions can be sent through the [contact](/contact/) page."
+    }
+  ],
+  "key_takeaways": [
+    "Each linked page should be able to stand as its own explanation.",
+    "The collection does not add doorway pages or repeated city guides.",
+    "Health-related claims stay tied to the disclaimer and the cited sources."
+  ],
+  "faq": [
+    {
+      "question": "Are these pages medical guidance?",
+      "answer": "No. They are educational descriptions. Decisions about health belong with a qualified professional."
+    },
+    {
+      "question": "Where is the longer overview?",
+      "answer": "Use the matching topic pillar linked in the introduction. This page is the index of narrower references."
+    }
+  ],
+  "source_ids": [],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Meditation Practice Guides",
+    "meta_description": "Guides to mindfulness, mantra, breath awareness, the body scan, loving-kindness, and Transcendental Meditation.",
+    "canonical": "/meditation/",
+    "robots": "index,follow",
+    "og_title": "Meditation Practice Guides",
+    "og_description": "Guides to mindfulness, mantra, breath awareness, the body scan, loving-kindness, and Transcendental Meditation.",
+    "og_image": "/images/hub-meditation.svg"
+  },
+  "media": {
+    "featured_image": "/images/hub-meditation.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the Meditation Practice Guides page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/about/",
+    "/editorial-policy/"
+  ],
+  "children": [
+    "/meditation/mindfulness/",
+    "/meditation/mantra/",
+    "/meditation/breath-awareness/",
+    "/meditation/body-scan/",
+    "/meditation/loving-kindness/",
+    "/meditation/transcendental/"
+  ],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

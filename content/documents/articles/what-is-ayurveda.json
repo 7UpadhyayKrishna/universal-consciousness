@@ -1,0 +1,113 @@
+{
+  "id": "what-is-ayurveda",
+  "kind": "explainer",
+  "status": "published",
+  "title": "What Is Ayurveda? Ideas, History, and Cautions",
+  "slug": "what-is-ayurveda",
+  "path": "/articles/what-is-ayurveda/",
+  "h1": "What Is Ayurveda? Ideas, History, and Cautions",
+  "excerpt": "Ayurveda is a classical Indian medical tradition organized around constitution, routine, and the doshas, with modern safety warnings attached.",
+  "quick_answer": {
+    "question": "What is Ayurveda?",
+    "answer": "Ayurveda is a classical Indian medical system built around constitution, digestion, and balance among forces called doshas. It is a historical tradition, not a proven cure, and some products have contained toxic metals."
+  },
+  "topic": "ayurveda",
+  "category": {
+    "id": "ayurveda",
+    "name": "Ayurveda",
+    "slug": "ayurveda"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is ayurveda",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "ayurveda"
+  ],
+  "mentions": [
+    "prana"
+  ],
+  "intro": "Ayurveda is often met in the United States as a quiz and a shelf of teas. The tradition is a classical medicine with a literature, a regimen, and risks that the aesthetic leaves out.",
+  "sections": [
+    {
+      "heading": "What are the doshas?",
+      "slug": "what-are-the-doshas",
+      "content": "Vata, pitta, and kapha are traditional patterns of movement, transformation, and stability. A practitioner may recommend food or sleep on that basis. The categories organize experience. They are not lab results, and a website quiz is not a clinical evaluation.\n\nThe neighboring page is [the Ayurveda topic](/topics/ayurveda/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What did the tradition care about?",
+      "slug": "what-did-the-tradition-care-about",
+      "content": "Classical teaching spends attention on digestion, season, and daily rhythm. That can look like ordinary sense and can also become a way to blame a sick person for being the wrong type. Yoga is a neighbor, not a synonym. Prana is shared vitality language, not a measured gas.\n\nA wider map lives at the [ancient wisdom topic](/topics/ancient-wisdom/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What do modern warnings say?",
+      "slug": "what-do-modern-warnings-say",
+      "content": "Learn the history before you buy a medicine. NCCIH warns that some Ayurvedic products have contained lead, mercury, or arsenic. Herbs interact with drugs. This site does not recommend cleanses, purges, or metal-containing preparations.\n\nIf you want a narrower practical or comparative page, use [the disclaimer](/disclaimer/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Natural does not mean safe. Ayurveda should not replace emergency or conventional care. A dosha label is not a diagnosis. If a sentence would send you to a product, it does not belong in this explainer.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Ayurveda is a classical medical tradition.",
+    "Doshas are traditional categories, not labs.",
+    "Some products have contained toxic metals.",
+    "It is not a substitute for needed care."
+  ],
+  "faq": [
+    {
+      "question": "What is Ayurveda?",
+      "answer": "Ayurveda is a classical Indian medical system built around constitution, digestion, and balance among forces called doshas. It is a historical tradition, not a proven cure, and some products have contained toxic metals."
+    },
+    {
+      "question": "Is this medical advice?",
+      "answer": "No. It is an educational explanation. Health decisions belong with a qualified professional."
+    }
+  ],
+  "source_ids": [
+    "nccih-ayurveda",
+    "britannica-ayurveda",
+    "britannica-prana"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Is Ayurveda? Ideas, History, and Cautions",
+    "meta_description": "Learn what Ayurveda teaches about doshas and routine, and which product warnings matter in the United States.",
+    "canonical": "/articles/what-is-ayurveda/",
+    "robots": "index,follow",
+    "og_title": "What Is Ayurveda? Ideas, History, and Cautions",
+    "og_description": "Learn what Ayurveda teaches about doshas and routine, and which product warnings matter in the United States.",
+    "og_image": "/images/what-is-ayurveda.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-ayurveda.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on ayurveda.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/ayurveda/",
+    "/glossary/prana/",
+    "/topics/ancient-wisdom/",
+    "/disclaimer/",
+    "/topics/yoga/",
+    "/sources/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

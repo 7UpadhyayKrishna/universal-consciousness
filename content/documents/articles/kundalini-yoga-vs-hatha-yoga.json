@@ -1,0 +1,114 @@
+{
+  "id": "kundalini-yoga-vs-hatha-yoga",
+  "kind": "comparison",
+  "status": "published",
+  "title": "Kundalini Yoga and Hatha Yoga Compared",
+  "slug": "kundalini-yoga-vs-hatha-yoga",
+  "path": "/articles/kundalini-yoga-vs-hatha-yoga/",
+  "h1": "Kundalini Yoga and Hatha Yoga Compared",
+  "excerpt": "Hatha names a medieval technical literature and a broad modern label. Kundalini Yoga often names a twentieth-century class format.",
+  "quick_answer": {
+    "question": "How do Kundalini Yoga and Hatha yoga differ?",
+    "answer": "Hatha refers to body and breath techniques in medieval yogic texts and, loosely, to many modern classes. Kundalini Yoga in studios usually refers to a later branded system of breath, chant, and posture, not to the whole of hatha literature."
+  },
+  "topic": "kundalini",
+  "category": {
+    "id": "kundalini",
+    "name": "Yoga",
+    "slug": "kundalini"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "kundalini yoga vs hatha",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "kundalini"
+  ],
+  "mentions": [
+    "hatha-yoga",
+    "kundalini-yoga"
+  ],
+  "intro": "The comparison is easy to fake by saying one style is ancient and the other is energetic. Both words have been stretched. The dates and the institutions are the comparison.",
+  "sections": [
+    {
+      "heading": "What does hatha name?",
+      "slug": "what-does-hatha-name",
+      "content": "The Hatha Yoga Pradipika discusses postures, seals, and breath inside a yogic frame. It is not a transcript of a typical gym class, even when the gym says hatha. Many American classes use hatha as a mild residual label for slower postures.\n\nThe neighboring page is [Hatha yoga](/yoga/hatha-yoga/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What does a Kundalini class name?",
+      "slug": "what-does-a-kundalini-class-name",
+      "content": "Studio Kundalini Yoga, with its repeated breath patterns and chanting, largely reflects a twentieth-century teaching popularized in the West. It uses the word kundalini, which is older, and it is not identical to every tantric ritual that used the word.\n\nA wider map lives at the [kundalini topic](/topics/kundalini/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should you not conclude?",
+      "slug": "what-should-you-not-conclude",
+      "content": "Visit the two style pages before you pick a room. Ask what the hour contains. Strong breathing belongs in the safety conversation of breathwork, not in a contest of authenticity. Ethical questions about some modern organizations are separate from the medieval book.\n\nIf you want a narrower practical or comparative page, use [Kundalini Yoga](/yoga/kundalini-yoga/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Neither style has established a serpent physiology. Neither is a medical treatment. A harder class is not a deeper truth. If a teacher forbids outside advice, leave.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Hatha points to a technical yogic literature and a vague modern label.",
+    "Studio Kundalini Yoga is a later system.",
+    "The shared word yoga hides different hours.",
+    "Intensity is not evidence."
+  ],
+  "faq": [
+    {
+      "question": "Which is more traditional?",
+      "answer": "The medieval hatha texts are older than the modern branded class. A contemporary slow class called hatha may be no closer to those texts than the branded class is."
+    },
+    {
+      "question": "Which page is the overview?",
+      "answer": "Read both style pages and the kundalini explainer."
+    }
+  ],
+  "source_ids": [
+    "sacred-hatha",
+    "britannica-kundalini",
+    "nccih-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Kundalini Yoga and Hatha Yoga Compared",
+    "meta_description": "Compare Kundalini Yoga and Hatha yoga, including their histories, class shapes, and the claims that do not follow.",
+    "canonical": "/articles/kundalini-yoga-vs-hatha-yoga/",
+    "robots": "index,follow",
+    "og_title": "Kundalini Yoga and Hatha Yoga Compared",
+    "og_description": "Compare Kundalini Yoga and Hatha yoga, including their histories, class shapes, and the claims that do not follow.",
+    "og_image": "/images/kundalini-yoga-vs-hatha-yoga.svg"
+  },
+  "media": {
+    "featured_image": "/images/kundalini-yoga-vs-hatha-yoga.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on yoga.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/yoga/hatha-yoga/",
+    "/yoga/kundalini-yoga/",
+    "/articles/what-is-kundalini/",
+    "/topics/yoga/",
+    "/articles/kundalini-yoga-vs-hatha-yoga/",
+    "/guides/yoga/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

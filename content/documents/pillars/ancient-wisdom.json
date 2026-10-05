@@ -1,0 +1,117 @@
+{
+  "id": "pillar-ancient-wisdom",
+  "kind": "pillar",
+  "status": "published",
+  "title": "Ancient Wisdom: Reading Indian Traditions Carefully",
+  "slug": "ancient-wisdom",
+  "path": "/topics/ancient-wisdom/",
+  "h1": "Ancient Wisdom: Reading Indian Traditions Carefully",
+  "excerpt": "A guide to reading the Upanishads, the Bhagavad Gita, and later philosophical schools without flattening them into slogans.",
+  "quick_answer": {
+    "question": "What does this site mean by ancient wisdom?",
+    "answer": "It means Indian philosophical and spiritual sources read in historical context: the Upanishads, the Bhagavad Gita, and later arguments about knowledge, self, and liberation. It does not mean a timeless set of life hacks."
+  },
+  "topic": "ancient-wisdom",
+  "category": {
+    "id": "ancient-wisdom",
+    "name": "Ancient Wisdom",
+    "slug": "ancient-wisdom"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "indian spiritual philosophy",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "ancient-wisdom"
+  ],
+  "mentions": [
+    "upanishads",
+    "bhagavad-gita",
+    "indian-philosophy",
+    "vedanta"
+  ],
+  "intro": "Ancient wisdom is a marketing phrase as often as it is a description. This publication uses it for a specific shelf: Indian philosophical and religious sources, read with their arguments intact. The Upanishads inquire into sacrifice, self, and what is ultimate. The Bhagavad Gita stages a crisis about duty and offers paths of action, knowledge, and devotion. Later philosophers do not treat those books as a single smoothie.\n\nThe Stanford Encyclopedia's article on epistemology in classical Indian philosophy is a reminder that these traditions argued about how anyone knows anything. That argument is the opposite of a meme. Start with [Vedanta](/topics/vedanta/) and [moksha](/topics/moksha/) if you want the two widest doors. The [glossary](/glossary/) is for single words such as [dharma](/glossary/dharma/).",
+  "sections": [
+    {
+      "heading": "What should you read first?",
+      "slug": "what-should-you-read-first",
+      "content": "Read a short, identified passage rather than a book of quotations. A public translation of the Gita and a public selection of the Upanishads are linked from this site's sources. You will meet repetition, ritual assumptions, and claims that do not match a contemporary self-help tone. That friction is useful. The page [what it means to study a spiritual text](/questions/what-does-it-mean-to-study-a-spiritual-text/) describes a slower method.\n\nDo not begin with a teacher who says the text means whatever helps you manifest a goal. Meaning is constrained by language, context, and the commentarial fights that followed. You can still find the text moving. You do not have to pretend it was written for your quarter."
+    },
+    {
+      "heading": "Why do schools disagree?",
+      "slug": "why-do-schools-disagree",
+      "content": "Because the sources are compressed and the stakes are high. Vedanta commentators dispute how the self relates to brahman. Yoga and Samkhya talk about consciousness and matter in a dualist key that Advaita rejects. Buddhist philosophers deny a permanent self. Putting all of these under ancient wisdom without the disagreements is how a bookstore section replaces a library.\n\n[Indian philosophy](/topics/ancient-wisdom/) on this site is this cluster, not a mood. [Yoga philosophy](/articles/what-is-yoga-philosophy/) is one path through it. [Consciousness](/topics/consciousness/) is the modern word readers bring. The sources often had a more precise vocabulary, which is why the glossary exists."
+    },
+    {
+      "heading": "What gets lost in American presentation?",
+      "slug": "what-gets-lost-in-american-presentation",
+      "content": "Lineage, ritual, and social context get lost first. A sentence about the self becomes a sentence about self-esteem. A sentence about renunciation becomes a weekend offline. Sometimes the translation is a bridge. Sometimes it is a replacement. This publication tries to say which one is happening.\n\nIt also refuses fake antiquity. A practice invented in California in 1970 can be interesting and should be dated. Calling it ancient is a sales tactic. The [editorial policy](/editorial-policy/) treats that tactic as an error. Corrections can be sent through the [contact](/contact/) page when a date or attribution on these pages is wrong."
+    },
+    {
+      "heading": "How does this cluster connect?",
+      "slug": "how-does-this-cluster-connect",
+      "content": "[Vedanta](/topics/vedanta/) is the commentarial tradition most readers will meet next. [Moksha](/topics/moksha/) is the liberation language those texts argue about. [Yoga](/topics/yoga/) is both a philosophical path and a modern class, which is why it has its own pillar rather than being swallowed here. [Dharma](/glossary/dharma/) and [karma](/glossary/karma/) are the words the Gita will not let you skip.\n\nRead one primary passage this week and one reference article, then stop. A pile of quotations feels like learning and often is not. The [sources](/sources/) list is the shelf. The point of ancient wisdom, on this site, is that the shelf is larger than a caption. If you remember a date, a title, and a disagreement, you have learned more than if you remember only a mood."
+    }
+  ],
+  "key_takeaways": [
+    "Ancient wisdom here means sources, not slogans.",
+    "The Upanishads and the Gita do not say one thing.",
+    "Later schools argue about how those texts should be read.",
+    "A careful reader keeps disagreement visible."
+  ],
+  "faq": [
+    {
+      "question": "Is there one Indian philosophy?",
+      "answer": "No. Classical India sustained several schools with incompatible claims about the self, knowledge, and liberation."
+    },
+    {
+      "question": "Can I trust a single-sentence quote?",
+      "answer": "Only as a prompt to read the passage. Short quotes are easy to aim at a modern mood the text was not answering."
+    }
+  ],
+  "source_ids": [
+    "sep-epistemology-india",
+    "britannica-upanishad",
+    "sacred-gita",
+    "sacred-upanishads"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Ancient Wisdom: Reading Indian Traditions Carefully",
+    "meta_description": "Read Indian philosophical sources in context, including the Upanishads, the Gita, and later debates about the self.",
+    "canonical": "/topics/ancient-wisdom/",
+    "robots": "index,follow",
+    "og_title": "Ancient Wisdom: Reading Indian Traditions Carefully",
+    "og_description": "Read Indian philosophical sources in context, including the Upanishads, the Gita, and later debates about the self.",
+    "og_image": "/images/pillar-ancient-wisdom.svg"
+  },
+  "media": {
+    "featured_image": "/images/pillar-ancient-wisdom.svg",
+    "featured_image_alt": "Abstract geometric illustration for the Ancient Wisdom topic, with circles and a quiet horizon.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/vedanta/",
+    "/topics/moksha/",
+    "/glossary/dharma/",
+    "/questions/what-does-it-mean-to-study-a-spiritual-text/",
+    "/guides/consciousness/",
+    "/topics/yoga/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

@@ -1,0 +1,113 @@
+{
+  "id": "practice-breath-awareness",
+  "kind": "meditation",
+  "status": "published",
+  "title": "Breath Awareness: A Clear Description",
+  "slug": "breath-awareness",
+  "path": "/meditation/breath-awareness/",
+  "h1": "Breath Awareness: A Clear Description",
+  "excerpt": "Breath awareness watches the breath without forcing it. It is a common meditation and is not the same as intense pranayama.",
+  "quick_answer": {
+    "question": "What is breath awareness?",
+    "answer": "Breath awareness means noticing the breath as it is. It trains attention. It does not require breath retention or a belief in prana."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "breath awareness practice",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness"
+  ],
+  "intro": "Breath awareness watches the breath without forcing it. It is a common meditation and is not the same as intense pranayama.",
+  "sections": [
+    {
+      "heading": "How is breath awareness practiced?",
+      "slug": "how-is-breath-awareness-practiced",
+      "content": "Breath awareness means noticing the breath as it is. It trains attention. It does not require breath retention or a belief in prana. A short daily period is enough to learn the shape. The meditation topic explains how this method sits beside others. Nothing in the method requires a special cushion or a belief about chakras.\n\nThe neighboring page is [what meditation is](/articles/what-is-meditation/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the method come from?",
+      "slug": "where-does-the-method-come-from",
+      "content": "Religious sources and, for mindfulness-family practices, modern clinics both matter. Name which one you are learning. The beginner guide assumes you will start small. Research summaries do not turn any of these methods into a cure.\n\nA wider map lives at the [meditation topic](/topics/meditation/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should a beginner expect?",
+      "slug": "what-should-a-beginner-expect",
+      "content": "Sit or lie comfortably. Use a few minutes. If you are learning mindfulness or the body scan, notice and return. If you are repeating a phrase, keep the phrase and skip the scorekeeping. Stop if you panic. The myths page is the corrective to empty-mind demands.\n\nIf you want a narrower practical or comparative page, use [meditation for beginners](/articles/meditation-for-beginners/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not use the practice to replace therapy or medical care. Do not force the breath. Do not treat a pleasant sit as proof of a doctrine. Difficulty at the start is ordinary.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Breath Awareness is a specific method, not all of meditation.",
+    "A short session is a legitimate start.",
+    "Traditional and clinical frames should be named.",
+    "The method is not a cure."
+  ],
+  "faq": [
+    {
+      "question": "How long should a session be?",
+      "answer": "Five to ten minutes is enough to learn. Branded courses may prescribe longer. Longer is not more virtuous by itself."
+    },
+    {
+      "question": "Is this medical advice?",
+      "answer": "No. It explains a traditional or modern practice. It does not diagnose, treat, or replace professional care."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "apa-mindfulness",
+    "nccih-meditation-depth"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Breath Awareness: A Clear Description",
+    "meta_description": "Breath awareness watches the breath without forcing it. It is a common meditation and is not the same as intense pranayama.",
+    "canonical": "/meditation/breath-awareness/",
+    "robots": "index,follow",
+    "og_title": "Breath Awareness: A Clear Description",
+    "og_description": "Breath awareness watches the breath without forcing it. It is a common meditation and is not the same as intense pranayama.",
+    "og_image": "/images/practice-breath-awareness.svg"
+  },
+  "media": {
+    "featured_image": "/images/practice-breath-awareness.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/meditation/",
+    "/articles/what-is-meditation/",
+    "/articles/meditation-for-beginners/",
+    "/glossary/meditation/",
+    "/guides/meditation/",
+    "/questions/how-long-should-you-meditate/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

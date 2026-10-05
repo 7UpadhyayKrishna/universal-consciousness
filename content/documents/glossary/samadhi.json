@@ -1,0 +1,110 @@
+{
+  "id": "glossary-samadhi",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Samadhi: Meaning and Context",
+  "slug": "samadhi",
+  "path": "/glossary/samadhi/",
+  "h1": "Samadhi: Meaning and Context",
+  "excerpt": "Samadhi is a technical term for absorptive concentration in yoga and related literature. It is not a synonym for feeling calm.",
+  "quick_answer": {
+    "question": "What does Samadhi mean?",
+    "answer": "Samadhi names absorptive states in yogic texts, especially late in the eight-limb path. Ordinary calm or focus is not automatically samadhi."
+  },
+  "topic": "yoga",
+  "category": {
+    "id": "yoga",
+    "name": "Samadhi",
+    "slug": "yoga"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "samadhi meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "yoga"
+  ],
+  "mentions": [
+    "meditation"
+  ],
+  "intro": "Samadhi is absorption. In the Yoga Sutras it belongs with the culmination of practice, not with the first quiet minute.",
+  "sections": [
+    {
+      "heading": "What does Samadhi mean?",
+      "slug": "what-does-samadhi-mean",
+      "content": "Commentators dispute the kinds of samadhi and what they know. The Internet Encyclopedia of Philosophy keeps the argument visible. Buddhist traditions use related language with different metaphysics. Sharing a translation word is not sharing a doctrine.\n\nThe neighboring page is [yoga philosophy](/articles/what-is-yoga-philosophy/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "Studios sometimes say samadhi for the rest at the end of class. That rest may be pleasant. The technical term is heavier. Meditation, in the same list, is a prior limb, not a synonym.\n\nA wider map lives at the [yoga topic](/topics/yoga/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "If you are a beginner, do not aim at the word. Aim at a clear cue. If you are reading, note which text and which commentator is defining the ladder.\n\nIf you want a narrower practical or comparative page, use [the yoga entry](/glossary/yoga/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not use samadhi as a boast or as a medical outcome. Do not assume a nap or a float tank is the state a sutra describes.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Samadhi has a traditional job that popular English often widens.",
+    "Context decides which school is speaking.",
+    "This entry defines the word and points to a longer page."
+  ],
+  "faq": [
+    {
+      "question": "Is Samadhi a scientific term?",
+      "answer": "No. It is a term of yogic psychology and metaphysics, not a clinical score."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the philosophy explainer. The longer linked page carries the rest of the context."
+    }
+  ],
+  "source_ids": [
+    "iep-yoga",
+    "sacred-yoga-sutras",
+    "britannica-samadhi"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Samadhi: Meaning and Context",
+    "meta_description": "Samadhi is a technical term for absorptive concentration in yoga and related literature. It is not a synonym for feeling calm.",
+    "canonical": "/glossary/samadhi/",
+    "robots": "index,follow",
+    "og_title": "Samadhi: Meaning and Context",
+    "og_description": "Samadhi is a technical term for absorptive concentration in yoga and related literature. It is not a synonym for feeling calm.",
+    "og_image": "/images/glossary-samadhi.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-samadhi.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on samadhi.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-yoga-philosophy/",
+    "/glossary/yoga/",
+    "/topics/meditation/",
+    "/yoga/yoga-philosophy/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

@@ -1,0 +1,113 @@
+{
+  "id": "is-kundalini-dangerous",
+  "kind": "misconception",
+  "status": "published",
+  "title": "Is Kundalini Dangerous? A Careful Answer",
+  "slug": "is-kundalini-dangerous",
+  "path": "/articles/is-kundalini-dangerous/",
+  "h1": "Is Kundalini Dangerous? A Careful Answer",
+  "excerpt": "Kundalini is a traditional idea, not a proven energy. Intense practices can be risky. Fear-based symptom lists are not a diagnosis.",
+  "quick_answer": {
+    "question": "Is kundalini dangerous?",
+    "answer": "The idea itself is not a toxin. Intense breathing, sleep loss, isolation, and panic can be harmful, and they are sometimes wrapped in kundalini language. Frightening symptoms should be treated as health problems first."
+  },
+  "topic": "kundalini",
+  "category": {
+    "id": "kundalini",
+    "name": "Kundalini",
+    "slug": "kundalini"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "is kundalini dangerous",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "kundalini"
+  ],
+  "mentions": [
+    "chakras"
+  ],
+  "intro": "The internet likes a binary: kundalini is a superpower, or kundalini is a curse. Both versions treat a metaphor as a mechanism. The risks worth naming are more ordinary.",
+  "sections": [
+    {
+      "heading": "What is actually risky?",
+      "slug": "what-is-actually-risky",
+      "content": "Forceful breathwork can cause dizziness and panic. Sleep deprivation destabilizes anyone. A teacher who says distress is always a spiritual test may delay care. Those are dangers of a scene and of physiology. They do not prove a serpent in the spine, and they do not prove the serpent is harmless because it is only a story. Practices have effects even when their theories are wrong.\n\nThe neighboring page is [what kundalini is](/articles/what-is-kundalini/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What do symptom lists get wrong?",
+      "slug": "what-do-symptom-lists-get-wrong",
+      "content": "Classical warnings in hatha literature assume supervised, demanding practices. Modern videos remove the supervision and keep the demand. Studio Kundalini Yoga adds its own institutional history, including ethical concerns that are not the same thing as a subtle-body emergency.\n\nA wider map lives at the [breathwork topic](/topics/breathwork/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should you do if you are frightened?",
+      "slug": "what-should-you-do-if-you-are-frightened",
+      "content": "Do not chase an awakening. If you experiment, keep sessions moderate and stay connected to ordinary life. If you cannot sleep, cannot eat, or feel unsafe, contact a clinician. You can study the history with no intense practice at all.\n\nIf you want a narrower practical or comparative page, use [the beginner guide](/articles/kundalini-for-beginners/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "This page is not a diagnosis and not a technique. No scientific consensus establishes kundalini energy. Do not use the word to explain away a mental health crisis or a medical emergency.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "The metaphor is not a measured force.",
+    "Intense methods and bad advice can still harm.",
+    "Symptom lists are not diagnoses.",
+    "Clinicians come before spiritual interpretations."
+  ],
+  "faq": [
+    {
+      "question": "Should everyone avoid the word?",
+      "answer": "No. The word has a history worth understanding. Avoiding hype and unsafe methods is the point, not a ban on reading."
+    },
+    {
+      "question": "Where is the overview?",
+      "answer": "Read the kundalini pillar and the beginner guide."
+    }
+  ],
+  "source_ids": [
+    "britannica-kundalini",
+    "nccih-yoga",
+    "sacred-hatha"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Is Kundalini Dangerous? A Careful Answer",
+    "meta_description": "Ask whether kundalini is dangerous, separating traditional imagery, intense practices, and medical symptoms.",
+    "canonical": "/articles/is-kundalini-dangerous/",
+    "robots": "index,follow",
+    "og_title": "Is Kundalini Dangerous? A Careful Answer",
+    "og_description": "Ask whether kundalini is dangerous, separating traditional imagery, intense practices, and medical symptoms.",
+    "og_image": "/images/is-kundalini-dangerous.svg"
+  },
+  "media": {
+    "featured_image": "/images/is-kundalini-dangerous.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on kundalini.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/kundalini/",
+    "/articles/what-is-kundalini/",
+    "/articles/kundalini-for-beginners/",
+    "/topics/breathwork/",
+    "/yoga/kundalini-yoga/",
+    "/guides/kundalini/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

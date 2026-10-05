@@ -1,0 +1,114 @@
+{
+  "id": "beginners-guide-to-mantras",
+  "kind": "guide",
+  "status": "published",
+  "title": "A Beginner's Guide to Mantras",
+  "slug": "beginners-guide-to-mantras",
+  "path": "/articles/beginners-guide-to-mantras/",
+  "h1": "A Beginner's Guide to Mantras",
+  "excerpt": "How to approach mantra recitation as a traditional practice of sound, without confusing it with a personal affirmation.",
+  "quick_answer": {
+    "question": "How should beginners approach mantras?",
+    "answer": "Beginners should learn what a mantra is, choose a simple repeated phrase or a well-known formula they understand, and treat metaphysical claims about the sound as tradition rather than as proven effects."
+  },
+  "topic": "mantras",
+  "category": {
+    "id": "mantras",
+    "name": "Mantras",
+    "slug": "mantras"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "mantras for beginners",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "mantras"
+  ],
+  "mentions": [
+    "mantra",
+    "meditation"
+  ],
+  "intro": "A beginner does not need a secret syllable. A beginner needs to know the difference between a sacred formula and a sentence invented to raise confidence.",
+  "sections": [
+    {
+      "heading": "What can a beginner repeat?",
+      "slug": "what-can-a-beginner-repeat",
+      "content": "You may repeat a short prayer from your own religion, the syllable om if you have learned a traditional context for it, or simply a neutral word while you study. Calling every phrase a mantra claims a status it may not have. The affirmation question explains the gap.\n\nThe neighboring page is [the mantras topic](/topics/mantras/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "How is a session shaped?",
+      "slug": "how-is-a-session-shaped",
+      "content": "Vedic, devotional, and tantric settings use formulas differently. Some are public. Some are given in initiation. The Yoga Sutras mention om in a specific contemplative context. That mention is not a catalog of English slogans.\n\nA wider map lives at the [meditation topic](/topics/meditation/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should you not buy?",
+      "slug": "what-should-you-not-buy",
+      "content": "Sit comfortably. Repeat quietly or silently for a few minutes. When attention leaves, return to the phrase. Stop while the practice is still ordinary. Learn pronunciation if the phrase is Sanskrit, and do not use a community's formula as decor if that community treats it as consecrated.\n\nIf you want a narrower practical or comparative page, use [mantra meditation](/meditation/mantra/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not pay for a secret that is said to be the only door. Do not expect a sound to treat illness. Repetition can steady attention. Steadiness is not proof that the phrase is divine.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "A mantra is a formula, not any slogan.",
+    "A short repetition is enough to learn the feel.",
+    "Secrecy for sale is a warning.",
+    "Health promises for sounds are not supported here."
+  ],
+  "faq": [
+    {
+      "question": "Must I use Sanskrit?",
+      "answer": "No. Sanskrit formulas have histories. Other traditions have repeated prayers. Attention does not require a costume."
+    },
+    {
+      "question": "Where should I read next?",
+      "answer": "Read the glossary entry and the comparison with affirmations."
+    }
+  ],
+  "source_ids": [
+    "britannica-mantra",
+    "sacred-yoga-sutras",
+    "iep-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "A Beginner's Guide to Mantras",
+    "meta_description": "Learn how beginners can approach mantra practice, what a mantra is, and how it differs from an affirmation.",
+    "canonical": "/articles/beginners-guide-to-mantras/",
+    "robots": "index,follow",
+    "og_title": "A Beginner's Guide to Mantras",
+    "og_description": "Learn how beginners can approach mantra practice, what a mantra is, and how it differs from an affirmation.",
+    "og_image": "/images/beginners-guide-to-mantras.svg"
+  },
+  "media": {
+    "featured_image": "/images/beginners-guide-to-mantras.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on mantras.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/mantras/",
+    "/glossary/mantra/",
+    "/meditation/mantra/",
+    "/questions/are-mantras-the-same-as-affirmations/",
+    "/topics/meditation/",
+    "/topics/yoga/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

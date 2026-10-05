@@ -1,0 +1,113 @@
+{
+  "id": "what-research-says-about-reiki",
+  "kind": "misconception",
+  "status": "published",
+  "title": "What Research Says About Reiki",
+  "slug": "what-research-says-about-reiki",
+  "path": "/articles/what-research-says-about-reiki/",
+  "h1": "What Research Says About Reiki",
+  "excerpt": "Public health summaries say Reiki has not been clearly shown to be effective for any health condition. Calm after a session is not that showing.",
+  "quick_answer": {
+    "question": "What does research say about Reiki?",
+    "answer": "The National Center for Complementary and Integrative Health says Reiki has not been clearly shown to be effective for any health-related purpose. Studies are often small and hard to interpret. Reiki should not replace medical care."
+  },
+  "topic": "reiki",
+  "category": {
+    "id": "reiki",
+    "name": "Reiki",
+    "slug": "reiki"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "reiki research",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "reiki"
+  ],
+  "mentions": [
+    "prana"
+  ],
+  "intro": "People point to feeling better after Reiki and call that research. A feeling is a report. Research is a comparison with a method someone else can examine. The public summary is cautious for a reason.",
+  "sections": [
+    {
+      "heading": "What does the government summary say?",
+      "slug": "what-does-the-government-summary-say",
+      "content": "NCCIH states that Reiki has been studied for various conditions and has not been clearly shown to work for any health purpose. It also says not to use Reiki instead of conventional care. That pair of sentences is the whole result this publication will defend.\n\nThe neighboring page is [what Reiki is](/articles/what-is-reiki/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Why are the studies hard to read?",
+      "slug": "why-are-the-studies-hard-to-read",
+      "content": "Trials are often small. Blindness is difficult when a person can tell whether hands are near them. Positive stories do not repair those limits. A tradition's sincerity does not either. Britannica can orient you to the practice. It is not a clinical guideline.\n\nA wider map lives at the [Reiki topic](/topics/reiki/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What can a session still be?",
+      "slug": "what-can-a-session-still-be",
+      "content": "If you choose a session for comfort, say that. Do not delay diagnosis or treatment. Do not pay extra for claims of medical clearance. Compare the language with Pranic Healing if a practitioner treats all energy work as one science.\n\nIf you want a narrower practical or comparative page, use [Reiki and Pranic Healing](/articles/reiki-vs-pranic-healing/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not invent percentages, cure rates, or hospital endorsements. This page does not have them. Relaxation and kindness are human goods. They are not a life-force mechanism.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "NCCIH does not find clear effectiveness.",
+    "Small studies do not overturn that caution.",
+    "Comfort is not a cure.",
+    "Reiki is not a substitute for care."
+  ],
+  "faq": [
+    {
+      "question": "Does a warm feeling count as evidence?",
+      "answer": "It counts as a report of warmth. It does not identify a cause. Quiet attention has many ordinary explanations."
+    },
+    {
+      "question": "Where is the overview?",
+      "answer": "Read the Reiki explainer and the disclaimer."
+    }
+  ],
+  "source_ids": [
+    "nccih-reiki",
+    "britannica-reiki",
+    "nccih-meditation"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Research Says About Reiki",
+    "meta_description": "See what research summaries say about Reiki, including the NCCIH conclusion and what a calm session does not prove.",
+    "canonical": "/articles/what-research-says-about-reiki/",
+    "robots": "index,follow",
+    "og_title": "What Research Says About Reiki",
+    "og_description": "See what research summaries say about Reiki, including the NCCIH conclusion and what a calm session does not prove.",
+    "og_image": "/images/what-research-says-about-reiki.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-research-says-about-reiki.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on reiki.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/reiki/",
+    "/articles/what-is-reiki/",
+    "/articles/reiki-vs-pranic-healing/",
+    "/questions/what-should-you-know-before-trying-reiki/",
+    "/disclaimer/",
+    "/sources/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

@@ -1,0 +1,113 @@
+{
+  "id": "common-meditation-myths",
+  "kind": "misconception",
+  "status": "published",
+  "title": "Common Meditation Myths Worth Dropping",
+  "slug": "common-meditation-myths",
+  "path": "/articles/common-meditation-myths/",
+  "h1": "Common Meditation Myths Worth Dropping",
+  "excerpt": "Meditation does not require an empty mind, a perfect posture, or a cure. Difficulty is ordinary, and evidence is narrower than slogans.",
+  "quick_answer": {
+    "question": "What are common myths about meditation?",
+    "answer": "Common myths say meditation means having no thoughts, that pain means progress, that one long session beats a short daily one, and that meditation cures disease. None of those claims is a fair description of the practice or the evidence."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "meditation myths",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness"
+  ],
+  "intro": "Myths about meditation are attractive because they are simple. They make a varied set of practices sound like one test you can pass or fail by Friday.",
+  "sections": [
+    {
+      "heading": "Does meditation mean no thoughts?",
+      "slug": "does-meditation-mean-no-thoughts",
+      "content": "Methods usually teach a relationship to thoughts. A blank mind, if it happens, is an event, not the definition. Posture needs to be stable enough to continue. Pain is a reason to move, not a moral credit. Five quiet minutes can teach more than a heroic hour you will not repeat.\n\nThe neighboring page is [what meditation is](/articles/what-is-meditation/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Does difficulty mean you failed?",
+      "slug": "does-difficulty-mean-you-failed",
+      "content": "Religious traditions sometimes use strong language about stillness. That language has a context of ethics, community, and long training. Pulled into an app store, it becomes a myth that you are behind. The beginner guide is the antidote to the myth.\n\nA wider map lives at the [meditation topic](/topics/meditation/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "Does research prove a cure?",
+      "slug": "does-research-prove-a-cure",
+      "content": "When the mind leaves, notice and return. If the body hurts, adjust. If you are sleepy, check your sleep before you check your spirituality. Read the page on why practice feels difficult before you decide you are unfit.\n\nIf you want a narrower practical or comparative page, use [why practice feels difficult](/questions/why-does-meditation-feel-difficult/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "NCCIH and the 2014 review support limited statements about some stress-related outcomes. They do not support cure, detox, or personality replacement. Meditation can also unsettle some people. That is a reason for modest doses and clinical help when needed.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Thoughts are normal.",
+    "Pain is not progress.",
+    "Short practice counts.",
+    "Evidence does not license cure claims."
+  ],
+  "faq": [
+    {
+      "question": "Are guided meditations fake?",
+      "answer": "No. They are one support. Silence is another support. Neither is morally superior."
+    },
+    {
+      "question": "Where is the overview?",
+      "answer": "Use the meditation pillar and the beginner guide."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "pubmed-goyal-2014",
+    "apa-mindfulness"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Common Meditation Myths Worth Dropping",
+    "meta_description": "Clear up common meditation myths about empty minds, speed, pain, and health claims that research does not support.",
+    "canonical": "/articles/common-meditation-myths/",
+    "robots": "index,follow",
+    "og_title": "Common Meditation Myths Worth Dropping",
+    "og_description": "Clear up common meditation myths about empty minds, speed, pain, and health claims that research does not support.",
+    "og_image": "/images/common-meditation-myths.svg"
+  },
+  "media": {
+    "featured_image": "/images/common-meditation-myths.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/meditation/",
+    "/articles/what-is-meditation/",
+    "/articles/meditation-for-beginners/",
+    "/questions/why-does-meditation-feel-difficult/",
+    "/articles/what-research-says-about-mindfulness/",
+    "/guides/meditation/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

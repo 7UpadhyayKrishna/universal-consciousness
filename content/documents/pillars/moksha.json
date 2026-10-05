@@ -1,0 +1,111 @@
+{
+  "id": "pillar-moksha",
+  "kind": "pillar",
+  "status": "published",
+  "title": "Moksha: Liberation in Indian Thought",
+  "slug": "moksha",
+  "path": "/topics/moksha/",
+  "h1": "Moksha: Liberation in Indian Thought",
+  "excerpt": "What moksha means across Indian traditions, how it relates to karma and samsara, and why it is not a synonym for feeling free.",
+  "quick_answer": {
+    "question": "What is moksha?",
+    "answer": "Moksha is a Sanskrit term for liberation, especially freedom from the cycle of rebirth. Schools disagree about what is liberated, and from what, so the word is not a single doctrine."
+  },
+  "topic": "moksha",
+  "category": {
+    "id": "moksha",
+    "name": "Moksha",
+    "slug": "moksha"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is moksha",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "moksha"
+  ],
+  "mentions": [
+    "samsara",
+    "karma",
+    "vedanta"
+  ],
+  "intro": "Moksha is the usual Sanskrit name for liberation in Hindu thought. It sits beside dharma, artha, and kama in the famous list of human aims, and it is the aim that is supposed to outrank the others when they conflict. That ranking is already a philosophy. It is not a feeling of spaciousness after a vacation.\n\nThe cycle moksha is said to end is samsara, the round of birth and death. Karma, action and its consequences, is the language most schools use for what keeps the round going. Britannica's articles on those three words are the short public references. The [glossary entries](/glossary/moksha/) are shorter still. This pillar is for the disagreement.",
+  "sections": [
+    {
+      "heading": "What is supposed to be liberated?",
+      "slug": "what-is-supposed-to-be-liberated",
+      "content": "Advaita Vedanta tends to say that the self was never bound, and that liberation is the knowledge that atman is not other than brahman. A theistic Vedanta may say the self is freed into a relationship with a personal God, not dissolved into an impersonal absolute. Classical yoga talks about isolation of consciousness from the changing mind. These are not three wordings of one experience. They are rival accounts. [Vedanta](/topics/vedanta/) and the [atman and brahman](/articles/atman-vs-brahman/) comparison keep the non-dual version from swallowing the others.\n\nThe Bhagavad Gita, in a public translation linked from our [sources](/sources/), is a place readers can watch the argument happen inside one poem. Krishna does not offer a single technique and then stop talking."
+    },
+    {
+      "heading": "How do karma and rebirth fit?",
+      "slug": "how-do-karma-and-rebirth-fit",
+      "content": "If there is no rebirth, moksha as freedom from rebirth loses its classical job, though people still use the word for inner freedom in this life. This site does not claim to know whether rebirth happens. It reports that the traditions discussing moksha usually assume a long career of lives, and that karma is the moral and ritual momentum across them. [Karma](/glossary/karma/) and [samsara](/glossary/samsara/) define those terms without turning them into a system you can game.\n\nPopular uses of karma as instant payback, and of moksha as a personal brand, are modern shorthand. They are worth recognizing so you do not think a classical text means your bad day was a cosmic invoice."
+    },
+    {
+      "heading": "What should readers in the United States notice?",
+      "slug": "what-should-readers-in-the-united-states-notice",
+      "content": "Many English books treat liberation as a psychological breakthrough available on a weekend. Some traditional teachers also speak of liberation in this life. The weekend version often drops the cosmology, the ethics, and the community, and keeps the adjective free. That is a translation with a cost. [Ancient wisdom](/topics/ancient-wisdom/) is the wider shelf. The [explainer](/articles/what-is-moksha/) is the page to send someone who only asked for a definition.\n\nYou can study this idea without adopting it. You can also practice a tradition that aims at it. This publication will not rank your progress or sell a shortcut. The [editorial policy](/editorial-policy/) is why. If a sentence here flattens a school, the [corrections](/corrections/) page is the way to say so. Bring the school's name when you write, because moksha without a school is only a mood."
+    }
+  ],
+  "key_takeaways": [
+    "Moksha names liberation, not a mood.",
+    "It is usually paired with samsara and karma.",
+    "Vedanta, yoga, and other schools describe the free state differently.",
+    "Feeling relieved after a hard week is not moksha."
+  ],
+  "faq": [
+    {
+      "question": "Is moksha the same as enlightenment?",
+      "answer": "English speakers use enlightenment for several Buddhist and Hindu ideas. Moksha is the common Hindu term for liberation. They overlap in conversation and are not identical in every text."
+    },
+    {
+      "question": "Can a website give you moksha?",
+      "answer": "No. This page explains a teaching. It does not confer a religious attainment."
+    }
+  ],
+  "source_ids": [
+    "britannica-moksha",
+    "britannica-samsara",
+    "britannica-karma",
+    "sacred-gita"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Moksha: Liberation in Indian Thought",
+    "meta_description": "Learn what moksha means in Indian thought, how it relates to karma and rebirth, and what the word does not mean.",
+    "canonical": "/topics/moksha/",
+    "robots": "index,follow",
+    "og_title": "Moksha: Liberation in Indian Thought",
+    "og_description": "Learn what moksha means in Indian thought, how it relates to karma and rebirth, and what the word does not mean.",
+    "og_image": "/images/pillar-moksha.svg"
+  },
+  "media": {
+    "featured_image": "/images/pillar-moksha.svg",
+    "featured_image_alt": "Abstract geometric illustration for the Moksha pillar, using circles and a fine rule.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-moksha/",
+    "/glossary/moksha/",
+    "/glossary/samsara/",
+    "/topics/vedanta/",
+    "/glossary/karma/",
+    "/topics/ancient-wisdom/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

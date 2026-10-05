@@ -1,0 +1,114 @@
+{
+  "id": "vedanta-vs-tantra",
+  "kind": "comparison",
+  "status": "published",
+  "title": "Vedanta and Tantra: Different Projects",
+  "slug": "vedanta-vs-tantra",
+  "path": "/articles/vedanta-vs-tantra/",
+  "h1": "Vedanta and Tantra: Different Projects",
+  "excerpt": "Vedanta is mainly a commentarial philosophy of the self. Tantra is a family of ritual traditions with different maps of body and power.",
+  "quick_answer": {
+    "question": "How do Vedanta and Tantra differ?",
+    "answer": "Vedanta interprets a canon about the self and ultimate reality. Tantra names ritual traditions that use mantra, visualization, and subtle-body maps. They meet in history and they are not one teaching."
+  },
+  "topic": "vedanta",
+  "category": {
+    "id": "vedanta",
+    "name": "Vedanta",
+    "slug": "vedanta"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "vedanta vs tantra",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "vedanta"
+  ],
+  "mentions": [
+    "tantra",
+    "shakti"
+  ],
+  "intro": "Bookstores sometimes file Vedanta and Tantra as two flavors of the same Eastern wisdom. One is famous for arguments about the self. The other is famous, in the West, for a word that has been stripped of ritual.",
+  "sections": [
+    {
+      "heading": "What is each tradition trying to do?",
+      "slug": "what-is-each-tradition-trying-to-do",
+      "content": "Advaita Vedanta says knowledge removes the appearance that self and brahman are two. Tantric traditions, Hindu and Buddhist, often work with ritual, deity, mantra, and a body of channels and centers. Shakti language is at home in many tantric settings and only a guest in popular Vedanta classes.\n\nThe neighboring page is [what Vedanta is](/articles/what-is-vedanta/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where do people blur them?",
+      "slug": "where-do-people-blur-them",
+      "content": "The histories touch. Some later Vedantins knew tantric worlds, and some modern teachers quote both. Touching is not identity. Britannica's tantra article is a better start than a workshop title. Kundalini imagery often comes from the tantric side and is then pasted onto Vedantic slogans.\n\nA wider map lives at the [ancient wisdom topic](/topics/ancient-wisdom/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should a reader keep separate?",
+      "slug": "what-should-a-reader-keep-separate",
+      "content": "If you are reading Shankara, you are not automatically practicing tantra. If you are chanting and visualizing in a ritual frame, you are not automatically doing Advaita. Name the hour. The glossary entries keep the words from swapping jobs.\n\nIf you want a narrower practical or comparative page, use [the tantra glossary](/glossary/tantra/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not treat tantra as a synonym for sex or intensity, and do not treat Vedanta as a permission to skip ethics. Neither tradition is a health treatment. Subtle-body claims remain traditional claims.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Vedanta is commentarial philosophy.",
+    "Tantra is a ritual family, not a mood.",
+    "Modern classes mix the words freely.",
+    "Mixing is a history to name, not a single doctrine."
+  ],
+  "faq": [
+    {
+      "question": "Is kundalini Vedanta?",
+      "answer": "Kundalini imagery belongs mainly to tantric and hatha sources. Vedanta has its own account of the self. Teachers sometimes combine them."
+    },
+    {
+      "question": "Where is the overview?",
+      "answer": "Read the Vedanta explainer and the tantra glossary."
+    }
+  ],
+  "source_ids": [
+    "iep-advaita",
+    "britannica-tantra",
+    "britannica-vedanta"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Vedanta and Tantra: Different Projects",
+    "meta_description": "Compare Vedanta and Tantra without collapsing them into one ancient system or one lifestyle brand.",
+    "canonical": "/articles/vedanta-vs-tantra/",
+    "robots": "index,follow",
+    "og_title": "Vedanta and Tantra: Different Projects",
+    "og_description": "Compare Vedanta and Tantra without collapsing them into one ancient system or one lifestyle brand.",
+    "og_image": "/images/vedanta-vs-tantra.svg"
+  },
+  "media": {
+    "featured_image": "/images/vedanta-vs-tantra.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on vedanta.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-vedanta/",
+    "/glossary/tantra/",
+    "/glossary/vedanta/",
+    "/topics/vedanta/",
+    "/topics/kundalini/",
+    "/topics/ancient-wisdom/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

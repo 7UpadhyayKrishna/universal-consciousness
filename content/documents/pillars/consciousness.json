@@ -1,0 +1,144 @@
+{
+  "id": "pillar-consciousness",
+  "kind": "pillar",
+  "status": "published",
+  "title": "Consciousness: Ideas, Traditions, and Open Questions",
+  "slug": "consciousness",
+  "path": "/topics/consciousness/",
+  "h1": "Consciousness: Ideas, Traditions, and Open Questions",
+  "excerpt": "A guide to how philosophy, science, and spiritual traditions talk about consciousness, and which questions remain unsettled.",
+  "quick_answer": {
+    "question": "What is consciousness?",
+    "answer": "Consciousness is the capacity for experience: there is something it is like to see, think, or feel. Philosophers, scientists, and spiritual traditions explain that capacity in different ways, and no single account is settled."
+  },
+  "topic": "consciousness",
+  "category": {
+    "id": "consciousness",
+    "name": "Consciousness",
+    "slug": "consciousness"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational",
+    "definition"
+  ],
+  "primary_keyword": "what is consciousness",
+  "secondary_keywords": [
+    "consciousness meaning",
+    "study of consciousness"
+  ],
+  "entities": [
+    {
+      "name": "Consciousness",
+      "type": "Concept"
+    }
+  ],
+  "about": [
+    "consciousness"
+  ],
+  "mentions": [
+    "awareness",
+    "meditation",
+    "vedanta",
+    "non-duality"
+  ],
+  "intro": "People use the word consciousness for waking life, for self-awareness, and sometimes for a reality they take to be deeper than the individual mind. Those uses are related, and they are not the same claim.\n\nThis pillar gathers the publication's reading on the idea. It is written for a general reader in the United States. It does not treat a meditation experience as proof of a metaphysical theory, and it does not treat a laboratory finding as a spiritual teaching.",
+  "sections": [
+    {
+      "heading": "What do philosophers mean by consciousness?",
+      "slug": "what-philosophers-mean",
+      "content": "In contemporary philosophy, consciousness often names subjective experience. A standard way of putting the puzzle, associated with Thomas Nagel's question of what it is like to be a creature, is that a full physical description still leaves the felt character of experience to be explained. The [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/consciousness/) separates this issue from nearby ones such as attention, wakefulness, and self-knowledge.\n\nSelf-consciousness is a further topic. A person can have experience and also be able to think about that experience as their own. The encyclopedia entry on self-consciousness treats that reflective capacity as its own problem, not as a synonym for simply being awake. When a spiritual book uses one English word for both, it helps to ask which of these ideas is in play.\n\nPanpsychism, the family of views that attribute some experiential aspect very widely in nature, is a live philosophical option for some writers and a nonstarter for others. Citing it here only marks that the debate is open. It is not a finding that the universe is a mind."
+    },
+    {
+      "heading": "How do scientists approach the same word?",
+      "slug": "how-science-approaches-it",
+      "content": "Neuroscience can correlate reports of experience with brain activity, sleep stages, anesthesia, and attention. Those correlations are informative. They do not, by themselves, decide the philosophical question of why physical processes are accompanied by experience at all. Serious researchers disagree about how much of the puzzle is empirical and how much is conceptual.\n\nClinical language adds another layer. A patient can be awake, in a minimally conscious state, or unresponsive, and those are medical descriptions with practical consequences. They should not be borrowed as metaphors for enlightenment. A [meditation](/topics/meditation/) practice that changes attention is not the same event as recovery from a brain injury.\n\nThis publication does not offer a private theory of the brain. Where a page discusses research, it points to a public review and states the limit of that review."
+    },
+    {
+      "heading": "How do Indian traditions speak about awareness?",
+      "slug": "how-indian-traditions-speak",
+      "content": "Several Indian schools talk about a witnessing awareness that is not identical with changing thoughts. In Advaita Vedanta, the self, atman, is taught by many interpreters as not different from brahman, the ultimate reality. That is a philosophical and scriptural claim. The [Vedanta](/topics/vedanta/) page treats it as a tradition to be understood, not as a result this site has verified.\n\nOther schools disagree. Classical yoga, as organized in Patanjali's Yoga Sutras, is interested in stilling the fluctuations of mind and in states such as samadhi. Buddhist traditions often refuse a permanent self even while training attention with great care. Using the English word consciousness for all of these teachings flattens arguments that insiders considered important.\n\nA careful reader can still compare them. Each tradition asks what remains when thoughts are quiet, and each gives a different answer about whether that remainder is a self, an absence of self, or a union with something ultimate."
+    },
+    {
+      "heading": "What does meditation add, and what does it not prove?",
+      "slug": "what-meditation-adds",
+      "content": "Meditation trains attention or awareness. Practitioners sometimes report that experience feels wider, quieter, or less owned by a running commentary. Those reports matter as descriptions of practice. They do not settle the metaphysics of consciousness, and they are not a diagnosis.\n\nResearch reviews collected by the National Center for Complementary and Integrative Health discuss meditation mainly in relation to stress and related outcomes, with mixed evidence and clear cautions. That literature is about practices and measured effects. It is not a test of Vedanta. The [mindfulness](/topics/mindfulness/) pages keep the clinical conversation in its own lane.\n\nIf a teacher says a meditation proves that consciousness is universal, you are hearing an interpretation. You can value the practice and still decline the interpretation."
+    },
+    {
+      "heading": "Which everyday uses cause the most confusion?",
+      "slug": "which-uses-confuse",
+      "content": "One confusion is between being conscious, in the ordinary sense of not being asleep, and being conscious of something in particular. Another is between consciousness and conscience, the moral sense of right and wrong. English lets those words drift together. They come from related roots and now do different jobs.\n\nA third confusion is the phrase universal consciousness itself. As the name of this publication, it names a subject area: the study of awareness across traditions. It is not a doctrine that one mind contains all people, and it is not a scientific term of art. The [glossary entry](/glossary/consciousness/) keeps the shorter definition. This pillar is the map of the cluster.\n\nSearch results often mix new-age essays, philosophy lectures, and religious instruction on one page of links. The differences among those genres are part of what a reader needs."
+    },
+    {
+      "heading": "How should a beginner read this cluster?",
+      "slug": "how-should-a-beginner-read",
+      "content": "Start with the explainer [What is consciousness?](/articles/what-is-consciousness/) if you want the definition in one place. Use the [guide hub](/guides/consciousness/) for a shorter reading path. Follow [awareness](/glossary/awareness/) and [non-duality](/glossary/non-duality/) when the vocabulary of a book gets ahead of you.\n\nThen decide which question you actually have. A philosophical question belongs with the encyclopedia sources. A practice question belongs with meditation. A scriptural question belongs with Vedanta or the [ancient wisdom](/topics/ancient-wisdom/) pages. Mixing them into one triumphant conclusion is how this subject becomes vague.\n\nYou do not need to adopt a worldview to learn the map. The map is the point of the publication."
+    },
+    {
+      "heading": "What should you do with a strong experience?",
+      "slug": "what-about-strong-experiences",
+      "content": "People sometimes report a sudden sense of unity, boundary loss, or meaning during meditation, illness, grief, or worship. Philosophers of religion discuss such reports under mysticism, and they disagree about whether the reports justify beliefs about reality. A powerful hour is data about your experience. It is not, on its own, a theory of the universe.\n\nIf the experience is frightening, disorienting, or tied to sleep loss or drugs, treat it as a health question first. This publication cannot assess you. A clinician can. Spiritual interpretation can wait until you are safe.\n\nIf the experience is quiet and useful, you can keep practicing without promoting it into a doctrine. The [glossary note on awareness](/glossary/awareness/) is a smaller next step than a total worldview."
+    }
+  ],
+  "key_takeaways": [
+    "Consciousness names subjective experience, and nearby words name different problems.",
+    "Brain research and spiritual teachings answer different questions.",
+    "Indian schools disagree with one another about the self.",
+    "Meditation reports do not prove a metaphysical theory."
+  ],
+  "faq": [
+    {
+      "question": "Is consciousness the same as the brain?",
+      "answer": "Many scientists study consciousness through the brain. Whether experience is fully explained by brain processes is still debated in philosophy. This site does not pretend that debate is over."
+    },
+    {
+      "question": "Does meditation expand consciousness?",
+      "answer": "People use that phrase for changes in attention or for a spiritual claim. The first can be discussed carefully. The second is an interpretation, not a measurement."
+    },
+    {
+      "question": "What does the publication's name commit me to?",
+      "answer": "Nothing doctrinal. The name marks the subject. It is not a creed and not a scientific conclusion."
+    }
+  ],
+  "source_ids": [
+    "sep-consciousness",
+    "sep-self-consciousness",
+    "sep-panpsychism"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Consciousness: Ideas, Traditions, and Open Questions",
+    "meta_description": "Explore what consciousness means in philosophy, science, and spiritual traditions, and which questions remain open.",
+    "canonical": "/topics/consciousness/",
+    "robots": "index,follow",
+    "og_title": "Consciousness: Ideas, Traditions, and Open Questions",
+    "og_description": "Explore what consciousness means in philosophy, science, and spiritual traditions, and which questions remain open.",
+    "og_image": "/images/pillar-consciousness.svg"
+  },
+  "media": {
+    "featured_image": "/images/pillar-consciousness.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles, bars, and a horizon line for the consciousness pillar.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-consciousness/",
+    "/glossary/consciousness/",
+    "/glossary/awareness/",
+    "/topics/meditation/",
+    "/topics/vedanta/",
+    "/guides/consciousness/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

@@ -1,0 +1,98 @@
+{
+  "id": "hub-chakras",
+  "kind": "hub",
+  "status": "published",
+  "title": "Chakra Reference Pages",
+  "slug": "chakras",
+  "path": "/chakras/",
+  "h1": "Chakra Reference Pages",
+  "excerpt": "An index of chakra pages. Each one explains a center as it appears in modern charts and says where that chart is historically thin.",
+  "quick_answer": {
+    "question": "What is in Chakra Reference Pages?",
+    "answer": "An index of chakra pages. Each one explains a center as it appears in modern charts and says where that chart is historically thin."
+  },
+  "topic": "chakras",
+  "category": {
+    "id": "chakras",
+    "name": "Chakras",
+    "slug": "chakras"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "seven chakras",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "Many English-language charts list seven chakras in a rainbow from the base of the spine to the crown. These pages explain that presentation, one center at a time, without treating the chart as an anatomical finding.\n\nRead the [chakras topic](/topics/chakras/) for the history, including why scholars treat the popular system as a modern synthesis. The [disclaimer](/disclaimer/) applies to every page in this set.",
+  "sections": [
+    {
+      "heading": "How should these pages be read?",
+      "slug": "how-to-read",
+      "content": "Start with the short answer on a page, then read the sections that match your question. Follow the related links when you need the longer argument. A collection page is a map. The individual pages are the reference.\n\nIf a sentence touches health or a contested spiritual mechanism, read it beside the disclaimer. The [editorial policy](/editorial-policy/) is the rule for how those sentences are written."
+    },
+    {
+      "heading": "What is not collected here?",
+      "slug": "what-is-absent",
+      "content": "This collection does not include city-by-city studio directories, miracle rankings, or pages that exist only to repeat a keyword. If a subject does not yet have a page, it is because a distinct page was not ready, not because every search phrase deserves a URL. A missing page is preferable to a thin one.\n\nSuggestions can be sent through the [contact](/contact/) page."
+    }
+  ],
+  "key_takeaways": [
+    "Each linked page should be able to stand as its own explanation.",
+    "The collection does not add doorway pages or repeated city guides.",
+    "Health-related claims stay tied to the disclaimer and the cited sources."
+  ],
+  "faq": [
+    {
+      "question": "Are these pages medical guidance?",
+      "answer": "No. They are educational descriptions. Decisions about health belong with a qualified professional."
+    },
+    {
+      "question": "Where is the longer overview?",
+      "answer": "Use the matching topic pillar linked in the introduction. This page is the index of narrower references."
+    }
+  ],
+  "source_ids": [],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Chakra Reference Pages",
+    "meta_description": "Reference pages for seven commonly listed chakras, with Sanskrit names and a warning about modern charts.",
+    "canonical": "/chakras/",
+    "robots": "index,follow",
+    "og_title": "Chakra Reference Pages",
+    "og_description": "Reference pages for seven commonly listed chakras, with Sanskrit names and a warning about modern charts.",
+    "og_image": "/images/hub-chakras.svg"
+  },
+  "media": {
+    "featured_image": "/images/hub-chakras.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the Chakra Reference Pages page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/about/",
+    "/editorial-policy/"
+  ],
+  "children": [
+    "/chakras/root-chakra/",
+    "/chakras/sacral-chakra/",
+    "/chakras/solar-plexus-chakra/",
+    "/chakras/heart-chakra/",
+    "/chakras/throat-chakra/",
+    "/chakras/third-eye-chakra/",
+    "/chakras/crown-chakra/"
+  ],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

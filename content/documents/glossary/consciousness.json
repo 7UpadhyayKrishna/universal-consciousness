@@ -1,0 +1,110 @@
+{
+  "id": "glossary-consciousness",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Consciousness: Meaning and Context",
+  "slug": "consciousness",
+  "path": "/glossary/consciousness/",
+  "h1": "Consciousness: Meaning and Context",
+  "excerpt": "Consciousness is the capacity for experience, the fact that there is something it is like to see or feel. The word is also used for doctrines this site does not assume.",
+  "quick_answer": {
+    "question": "What does Consciousness mean?",
+    "answer": "Consciousness means subjective experience. Philosophy, neuroscience, and spiritual traditions explain it differently, and this publication's name is not a doctrine that one mind contains all people."
+  },
+  "topic": "consciousness",
+  "category": {
+    "id": "consciousness",
+    "name": "Consciousness",
+    "slug": "consciousness"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "consciousness meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "consciousness"
+  ],
+  "mentions": [
+    "awareness"
+  ],
+  "intro": "Consciousness, in the narrow sense, is experience. There is something it is like to be awake to a world. Nearby problems include attention, self-reflection, and medical wakefulness.",
+  "sections": [
+    {
+      "heading": "What does Consciousness mean?",
+      "slug": "what-does-consciousness-mean",
+      "content": "The Stanford Encyclopedia separates those problems. Panpsychism is one philosophical option, not a result. Vedanta's witness is a religious philosophy that uses overlapping English. A meditation report does not decide the debate.\n\nThe neighboring page is [what consciousness is](/articles/what-is-consciousness/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "This site is named for the subject area. The name is not a finding of universal mind. The guide hub lists the pages that keep the inferences apart.\n\nA wider map lives at the [consciousness topic](/topics/consciousness/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "Read the explainer if you want the definition and the pillar if you want the map. Do not upgrade a strong sit into a theory of everything.\n\nIf you want a narrower practical or comparative page, use [the awareness entry](/glossary/awareness/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not use the word as a synonym for conscience or for enlightenment. Do not claim a brain scan closed the question.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Consciousness is defined here in its traditional or philosophical sense.",
+    "Popular English often widens the word until it means a mood.",
+    "Longer pages on this site carry the disagreements."
+  ],
+  "faq": [
+    {
+      "question": "Is Consciousness a scientific term?",
+      "answer": "It is a scientific and philosophical topic, and it is unsolved. Spiritual uses add claims the sciences do not own."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the explainer and the topic pillar."
+    }
+  ],
+  "source_ids": [
+    "sep-consciousness",
+    "sep-self-consciousness",
+    "sep-panpsychism"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Consciousness: Meaning and Context",
+    "meta_description": "Consciousness is the capacity for experience, the fact that there is something it is like to see or feel. The word is also used for doctrines this site does not",
+    "canonical": "/glossary/consciousness/",
+    "robots": "index,follow",
+    "og_title": "Consciousness: Meaning and Context",
+    "og_description": "Consciousness is the capacity for experience, the fact that there is something it is like to see or feel. The word is also used for doctrines this site does not",
+    "og_image": "/images/glossary-consciousness.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-consciousness.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on consciousness.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/consciousness/",
+    "/articles/what-is-consciousness/",
+    "/glossary/awareness/",
+    "/guides/consciousness/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

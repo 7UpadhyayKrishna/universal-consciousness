@@ -1,0 +1,111 @@
+{
+  "id": "how-does-meditation-work",
+  "kind": "question",
+  "status": "published",
+  "title": "How Does Meditation Work?",
+  "slug": "how-does-meditation-work",
+  "path": "/questions/how-does-meditation-work/",
+  "h1": "How Does Meditation Work?",
+  "excerpt": "Meditation works, when it works, as attention training and sometimes as a studied program for stress. It does not work as a single hidden mechanism.",
+  "quick_answer": {
+    "question": "How does meditation work?",
+    "answer": "Most methods work by giving attention a cue and a way to return. Some studied programs are linked with modest stress-related benefits. Traditions add aims that research does not test, and no one mechanism explains every method."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "how does meditation work",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness"
+  ],
+  "intro": "How it works depends on which it you mean. A breath practice, a mantra, and a doctrine of liberation are not one machine.",
+  "sections": [
+    {
+      "heading": "What is the skill explanation?",
+      "slug": "what-is-the-skill-explanation",
+      "content": "The skill account is the safest. You rehearse noticing and returning, so attention is less completely captured by the next worry. That account does not require chakras or a blank mind. It also does not promise a new personality.\n\nThe neighboring page is [what meditation is](/articles/what-is-meditation/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What is the research explanation?",
+      "slug": "what-is-the-research-explanation",
+      "content": "Reviews find modest benefits for some outcomes in some programs. They do not find a universal mechanism or a cure. Traditional accounts speak of purification, devotion, or insight. Those accounts can be explained as teachings. They are not results of the trials.\n\nA wider map lives at the [mindfulness research page](/articles/what-research-says-about-mindfulness/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What explanations go beyond the evidence?",
+      "slug": "what-explanations-go-beyond-the-evidence",
+      "content": "If you want the skill, practice the cue. If you want a traditional aim, name the tradition and study it. Do not tell a friend that your calm hour proved their doctrine false or yours true.\n\nIf you want a narrower practical or comparative page, use [what happens during practice](/questions/what-happens-during-meditation/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Avoid brain-scan slogans and energy diagrams as explanations. They are usually illustrations. Meditation can also increase distress for some people, which is part of how it works in the broad sense that sitting still changes experience.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Attention training is the clearest account.",
+    "Research supports modest, specific claims.",
+    "Traditional aims are extra claims.",
+    "There is no single mechanism for every method."
+  ],
+  "faq": [
+    {
+      "question": "Does it change the brain?",
+      "answer": "Some studies report brain correlates of training. Correlates are not a complete explanation and not a personal promise."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal advice."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "pubmed-goyal-2014",
+    "apa-mindfulness"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "How Does Meditation Work?",
+    "meta_description": "Explain how meditation is thought to work, separating attention skills, traditional aims, and limited research findings.",
+    "canonical": "/questions/how-does-meditation-work/",
+    "robots": "index,follow",
+    "og_title": "How Does Meditation Work?",
+    "og_description": "Explain how meditation is thought to work, separating attention skills, traditional aims, and limited research findings.",
+    "og_image": "/images/how-does-meditation-work.svg"
+  },
+  "media": {
+    "featured_image": "/images/how-does-meditation-work.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-meditation/",
+    "/articles/what-research-says-about-mindfulness/",
+    "/topics/meditation/",
+    "/questions/what-happens-during-meditation/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

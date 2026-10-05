@@ -1,0 +1,110 @@
+{
+  "id": "what-happens-during-meditation",
+  "kind": "question",
+  "status": "published",
+  "title": "What Happens During Meditation?",
+  "slug": "what-happens-during-meditation",
+  "path": "/questions/what-happens-during-meditation/",
+  "h1": "What Happens During Meditation?",
+  "excerpt": "During meditation you train attention. Thoughts continue, the body complains, and occasional calm is a visitor, not a contract.",
+  "quick_answer": {
+    "question": "What happens during meditation?",
+    "answer": "Attention moves, thoughts continue, and you practice noticing and returning. Some people feel calm or restless. None of these events, by itself, proves a spiritual theory."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what happens during meditation",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness"
+  ],
+  "intro": "A session is usually less cinematic than the marketing. You sit, you leave, you notice, you return. That loop is the event.",
+  "sections": [
+    {
+      "heading": "What is ordinary in a session?",
+      "slug": "what-is-ordinary-in-a-session",
+      "content": "Itch, plans, and sleepiness are common. A stretch of quiet is also common and not permanent. Mindfulness instructions treat the noticing as success. Concentration instructions treat the return to one object as success. Both expect wandering.\n\nThe neighboring page is [what meditation is](/articles/what-is-meditation/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What do people sometimes report?",
+      "slug": "what-do-people-sometimes-report",
+      "content": "Traditions describe further states, including absorption, after long training. Those descriptions are not a forecast for Tuesday. Clinical programs mostly track stress and mood, not visions. The myths page clears the empty-mind story.\n\nA wider map lives at the [meditation topic](/topics/meditation/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should you not conclude?",
+      "slug": "what-should-you-not-conclude",
+      "content": "Keep the same cue. If you are mostly sleepy, check the clock and your night's sleep. If you are mostly planning, that is still practice. Write nothing mystical in a journal until you have a plain description of the cue you used.\n\nIf you want a narrower practical or comparative page, use [common myths](/articles/common-meditation-myths/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Unusual fear, a sense of unreality, or worsening mood is a reason to stop and speak with a clinician. It is not automatically a breakthrough. This page cannot assess you.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Wandering is normal.",
+    "Calm is optional.",
+    "Traditions describe more than a first week contains.",
+    "Distress needs ordinary care."
+  ],
+  "faq": [
+    {
+      "question": "Should I feel energy?",
+      "answer": "You might feel many sensations. Feeling them does not confirm a chakra or kundalini map."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal advice."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "apa-mindfulness"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Happens During Meditation?",
+    "meta_description": "See what typically happens during meditation, from distraction and calm to the experiences that do not prove a doctrine.",
+    "canonical": "/questions/what-happens-during-meditation/",
+    "robots": "index,follow",
+    "og_title": "What Happens During Meditation?",
+    "og_description": "See what typically happens during meditation, from distraction and calm to the experiences that do not prove a doctrine.",
+    "og_image": "/images/what-happens-during-meditation.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-happens-during-meditation.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-meditation/",
+    "/questions/why-does-meditation-feel-difficult/",
+    "/topics/meditation/",
+    "/articles/common-meditation-myths/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

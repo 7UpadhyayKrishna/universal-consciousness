@@ -1,0 +1,110 @@
+{
+  "id": "what-do-practitioners-report-about-kundalini",
+  "kind": "question",
+  "status": "published",
+  "title": "What Practitioners Report About Kundalini",
+  "slug": "what-do-practitioners-report-about-kundalini",
+  "path": "/questions/what-do-practitioners-report-about-kundalini/",
+  "h1": "What Practitioners Report About Kundalini",
+  "excerpt": "Practitioners report heat, movement, emotion, and sleep changes. Reports are not proof of a single hidden physiology.",
+  "quick_answer": {
+    "question": "What do practitioners report about kundalini?",
+    "answer": "People report heat, spontaneous movement, emotional surges, and changes in sleep or body sensation. Those are reports of experience. They do not establish a serpent energy as a physical fact."
+  },
+  "topic": "kundalini",
+  "category": {
+    "id": "kundalini",
+    "name": "Kundalini",
+    "slug": "kundalini"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "kundalini experiences",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "kundalini"
+  ],
+  "mentions": [
+    "chakras"
+  ],
+  "intro": "A report is evidence that someone had an experience under a description. It is not evidence that the description's mechanism is true.",
+  "sections": [
+    {
+      "heading": "Which reports are common in the literature of practice?",
+      "slug": "which-reports-are-common-in-the-literature-of-practice",
+      "content": "Heat, shaking, tears, and a sense of energy moving are the sorts of things practitioners mention. Traditions interpret them as kundalini. Medicine can interpret overlapping sensations as anxiety, hyperventilation, sleep loss, or other conditions. Both interpretations can be stated without merging them.\n\nThe neighboring page is [what kundalini is](/articles/what-is-kundalini/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What else can cause similar feelings?",
+      "slug": "what-else-can-cause-similar-feelings",
+      "content": "Tantric and hatha sources give the interpretive frame. Modern forums add symptom lists that mix those sources with panic. Britannica summarizes the idea. It does not certify the lists.\n\nA wider map lives at the [safety page](/articles/is-kundalini-dangerous/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How should a report be used?",
+      "slug": "how-should-a-report-be-used",
+      "content": "If you listen to a friend, ask whether they are sleeping and eating and whether the practice was intense. Do not award them an awakening. If you are the one who is frightened, see a clinician before you see another video.\n\nIf you want a narrower practical or comparative page, use [the beginner guide](/articles/kundalini-for-beginners/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "This page does not tell you that your symptom is kundalini or that it is not. It refuses both automatic readings. Intense breathing can create dramatic feelings without a subtle body.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Reports are real as reports.",
+    "They have more than one possible cause.",
+    "Forums are not diagnostic.",
+    "Safety comes before the story."
+  ],
+  "faq": [
+    {
+      "question": "Should reports be dismissed?",
+      "answer": "No. They should be described accurately and not promoted into a physiology."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal instruction or medical advice."
+    }
+  ],
+  "source_ids": [
+    "britannica-kundalini",
+    "nccih-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Practitioners Report About Kundalini",
+    "meta_description": "Read what practitioners report about kundalini, and why those reports are not a diagnosis or a mechanism.",
+    "canonical": "/questions/what-do-practitioners-report-about-kundalini/",
+    "robots": "index,follow",
+    "og_title": "What Practitioners Report About Kundalini",
+    "og_description": "Read what practitioners report about kundalini, and why those reports are not a diagnosis or a mechanism.",
+    "og_image": "/images/what-do-practitioners-report-about-kundalini.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-do-practitioners-report-about-kundalini.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on kundalini.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-kundalini/",
+    "/articles/is-kundalini-dangerous/",
+    "/topics/kundalini/",
+    "/articles/kundalini-for-beginners/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

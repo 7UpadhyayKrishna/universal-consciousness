@@ -1,0 +1,118 @@
+{
+  "id": "pillar-vedanta",
+  "kind": "pillar",
+  "status": "published",
+  "title": "Vedanta: Self, Reality, and the Upanishads",
+  "slug": "vedanta",
+  "path": "/topics/vedanta/",
+  "h1": "Vedanta: Self, Reality, and the Upanishads",
+  "excerpt": "How Vedanta reads the Upanishads, why Advaita says atman and brahman are not two, and what that claim does not settle.",
+  "quick_answer": {
+    "question": "What is Vedanta?",
+    "answer": "Vedanta is an Indian philosophical tradition that interprets the Upanishads, the Brahma Sutras, and the Bhagavad Gita. Advaita Vedanta, associated with Shankara, teaches that the self and ultimate reality are not two different things."
+  },
+  "topic": "vedanta",
+  "category": {
+    "id": "vedanta",
+    "name": "Vedanta",
+    "slug": "vedanta"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is vedanta",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "vedanta"
+  ],
+  "mentions": [
+    "atman",
+    "brahman",
+    "upanishads",
+    "non-duality"
+  ],
+  "intro": "Vedanta means, roughly, the end or culmination of the Veda. In practice it names schools that take the Upanishads, the Brahma Sutras, and the Bhagavad Gita as a canon and then argue about how to read them. The argument is the tradition. A single sentence on a mug is not.\n\nAdvaita, the non-dual school associated with Shankara, is the version most English-language readers meet. The Internet Encyclopedia of Philosophy's Advaita article is the public map this site trusts for the outline. Other Vedantas, including qualified non-dual and dual readings, insist the self and the ultimate are not simply identical. If a teacher says Vedanta as if only one answer existed, you are hearing a party, not the whole debate.",
+  "sections": [
+    {
+      "heading": "What do atman and brahman mean here?",
+      "slug": "what-do-atman-and-brahman-mean-here",
+      "content": "Atman is the self. Brahman is ultimate reality. Advaita's distinctive claim is that the deepest teaching of the Upanishads identifies them. Ignorance, on this view, makes a person experience a separate self in a world of objects. Knowledge is said to remove that error. The [comparison](/articles/atman-vs-brahman/) walks through the pair. The glossary entries for [atman](/glossary/atman/) and [brahman](/glossary/brahman/) are the short forms. [Non-duality](/glossary/non-duality/) is the English label, which is broader than Advaita and should not be used as a synonym without care.\n\nThis is not a claim this publication has verified. It is a claim the school teaches. The [question page](/questions/how-do-vedanta-teachers-describe-the-self/) collects the descriptive version."
+    },
+    {
+      "heading": "How is liberation described?",
+      "slug": "how-is-liberation-described",
+      "content": "Moksha, in this neighborhood, is freedom from the ignorance that binds a person to samsara. It is not a mood and not a promotion at work. The [moksha](/topics/moksha/) pillar treats liberation across traditions, because Vedanta does not own the word. Readers who want the textual setting should also use [ancient wisdom](/topics/ancient-wisdom/) and the public Upanishad translations in the [sources](/sources/).\n\nPractice, in Advaita-influenced teaching, may include study, reflection, and meditation, often after a large ethical preparation that popular extracts skip. Skipping the preparation and keeping the metaphysics is a modern habit. Name it when you see it."
+    },
+    {
+      "heading": "What should a modern reader not do?",
+      "slug": "what-should-a-modern-reader-not-do",
+      "content": "Do not use non-duality to dismiss someone else's pain. A metaphysical claim about the self is not a reason to skip rent, medicine, or apology. Do not confuse Vedanta with every meditation app that says you are awareness. The app may be teaching a useful attention skill. The school is teaching a doctrine about reality. The [consciousness](/topics/consciousness/) pillar keeps that line visible.\n\nThe [explainer](/articles/what-is-vedanta/) is enough if you only need the map. The [editorial policy](/editorial-policy/) explains why this page will not call the doctrine a scientific result."
+    },
+    {
+      "heading": "Where should a reader go next?",
+      "slug": "where-should-a-reader-go-next",
+      "content": "If the vocabulary is the obstacle, open [atman](/glossary/atman/), [brahman](/glossary/brahman/), and [non-duality](/glossary/non-duality/) in that order, then come back. If the question is how teachers talk, use the [question page](/questions/how-do-vedanta-teachers-describe-the-self/). If you want the argument about liberation in more than one school, go to [moksha](/topics/moksha/) rather than forcing every tradition to sound like Shankara.\n\nBring skepticism and patience in equal measure. The Upanishads are short and difficult. Commentaries are long because the shortness was never simple. This publication would rather send you to a public translation than offer a paraphrase that flatters a contemporary identity. The [ancient wisdom](/topics/ancient-wisdom/) pillar is the wider shelf. Vedanta is one disciplined way of reading it, and it remains a way of reading even when a class turns it into a personality."
+    }
+  ],
+  "key_takeaways": [
+    "Vedanta is commentary on a set of sources, not a single quote.",
+    "Advaita is one Vedanta, not the only one.",
+    "Atman and brahman are technical terms with a disputed relation.",
+    "The teaching is philosophical, not a medical or productivity method."
+  ],
+  "faq": [
+    {
+      "question": "Is Vedanta the same as yoga?",
+      "answer": "They share history and some vocabulary. Classical yoga and Advaita Vedanta do not offer the same metaphysics."
+    },
+    {
+      "question": "Does non-duality mean nothing matters?",
+      "answer": "No. Advaita's claim is about the nature of the self and reality. Ethical life is still discussed, and the claim is not a reason to neglect people."
+    }
+  ],
+  "source_ids": [
+    "iep-advaita",
+    "britannica-vedanta",
+    "sacred-upanishads",
+    "britannica-atman",
+    "britannica-brahman"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Vedanta: Self, Reality, and the Upanishads",
+    "meta_description": "Understand Vedanta, the Upanishads, and the Advaita claim that the self and ultimate reality are not two.",
+    "canonical": "/topics/vedanta/",
+    "robots": "index,follow",
+    "og_title": "Vedanta: Self, Reality, and the Upanishads",
+    "og_description": "Understand Vedanta, the Upanishads, and the Advaita claim that the self and ultimate reality are not two.",
+    "og_image": "/images/pillar-vedanta.svg"
+  },
+  "media": {
+    "featured_image": "/images/pillar-vedanta.svg",
+    "featured_image_alt": "Abstract geometric illustration for the Vedanta topic, with circles and a quiet horizon.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-vedanta/",
+    "/articles/atman-vs-brahman/",
+    "/glossary/non-duality/",
+    "/topics/moksha/",
+    "/topics/ancient-wisdom/",
+    "/questions/how-do-vedanta-teachers-describe-the-self/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

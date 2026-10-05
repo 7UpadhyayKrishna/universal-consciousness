@@ -1,7 +1,12 @@
 import type { NextConfig } from "next";
+import redirects from "./content/redirects.json";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  trailingSlash: true,
+  serverExternalPackages: ["mongodb"],
+  async redirects() {
+    return redirects;
+  },
 };
 
 export default nextConfig;

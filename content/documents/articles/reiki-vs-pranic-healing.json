@@ -1,0 +1,113 @@
+{
+  "id": "reiki-vs-pranic-healing",
+  "kind": "comparison",
+  "status": "published",
+  "title": "Reiki and Pranic Healing Compared",
+  "slug": "reiki-vs-pranic-healing",
+  "path": "/articles/reiki-vs-pranic-healing/",
+  "h1": "Reiki and Pranic Healing Compared",
+  "excerpt": "Reiki and Pranic Healing are different modern systems that both speak of life force. Neither has established that force as physiology.",
+  "quick_answer": {
+    "question": "How do Reiki and Pranic Healing differ?",
+    "answer": "Reiki is a Japanese practice associated with Mikao Usui. Pranic Healing is a different system associated with Choa Kok Sui. Both speak of a life force, and neither has established that force as a physical mechanism."
+  },
+  "topic": "reiki",
+  "category": {
+    "id": "reiki",
+    "name": "Reiki",
+    "slug": "reiki"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "reiki vs pranic healing",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "reiki"
+  ],
+  "mentions": [
+    "prana"
+  ],
+  "intro": "The practices are neighbors in the wellness market and strangers in history. Comparing them is useful because the market treats every energy session as the same product.",
+  "sections": [
+    {
+      "heading": "What is each practice?",
+      "slug": "what-is-each-practice",
+      "content": "Reiki sessions are usually quiet hand placements and are taught through lineages that claim a Japanese origin in the early twentieth century. Pranic Healing, taught by Choa Kok Sui, uses its own scans, sweeps, and vocabulary of energy. The hand movements and the institutions differ.\n\nThe neighboring page is [what Reiki is](/articles/what-is-reiki/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What do they share?",
+      "slug": "what-do-they-share",
+      "content": "Both reach for words like life force. Prana is an older Sanskrit term from yoga and Ayurveda. Using it as a translation does not make either modern system identical to classical yoga. Chakra charts are an optional add-on in many of these rooms.\n\nA wider map lives at the [Reiki topic](/topics/reiki/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What does evidence not show?",
+      "slug": "what-does-evidence-not-show",
+      "content": "If you book a session, ask which system is being taught and whether you will be told to delay medical care. The correct answer to the second question is no. Understanding the comparison does not require an attunement or a workshop fee.\n\nIf you want a narrower practical or comparative page, use [the research page](/articles/what-research-says-about-reiki/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "NCCIH says Reiki has not been clearly shown to help any health condition. This site will not invent a stronger finding for Pranic Healing. Relaxation can happen. A mechanism of measurable life force has not been established for either practice.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "The systems have different founders and methods.",
+    "Both use life-force language.",
+    "Prana is not a proof they are ancient medicine.",
+    "Neither should replace clinical care."
+  ],
+  "faq": [
+    {
+      "question": "Is one more scientific?",
+      "answer": "No. A more elaborate vocabulary is not a mechanism. Public research summaries do not establish either practice as a treatment."
+    },
+    {
+      "question": "Where is the overview?",
+      "answer": "Read the Reiki topic and the prana glossary."
+    }
+  ],
+  "source_ids": [
+    "nccih-reiki",
+    "britannica-reiki",
+    "britannica-prana"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Reiki and Pranic Healing Compared",
+    "meta_description": "Compare Reiki and Pranic Healing, their teachers and methods, and the evidence limit they share.",
+    "canonical": "/articles/reiki-vs-pranic-healing/",
+    "robots": "index,follow",
+    "og_title": "Reiki and Pranic Healing Compared",
+    "og_description": "Compare Reiki and Pranic Healing, their teachers and methods, and the evidence limit they share.",
+    "og_image": "/images/reiki-vs-pranic-healing.svg"
+  },
+  "media": {
+    "featured_image": "/images/reiki-vs-pranic-healing.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on reiki.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/reiki/",
+    "/articles/what-is-reiki/",
+    "/articles/what-research-says-about-reiki/",
+    "/glossary/prana/",
+    "/questions/what-should-you-know-before-trying-reiki/",
+    "/disclaimer/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

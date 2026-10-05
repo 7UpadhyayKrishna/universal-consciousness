@@ -1,0 +1,111 @@
+{
+  "id": "glossary-nadi",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Nadi: Meaning and Context",
+  "slug": "nadi",
+  "path": "/glossary/nadi/",
+  "h1": "Nadi: Meaning and Context",
+  "excerpt": "A nadi is a channel in subtle-body maps through which prana is said to move. It is not a nerve that anatomy has identified under that name.",
+  "quick_answer": {
+    "question": "What does Nadi mean?",
+    "answer": "A nadi is a channel in yogic maps of vitality. The maps are traditional. They are not a second circulatory system confirmed by dissection."
+  },
+  "topic": "yoga",
+  "category": {
+    "id": "yoga",
+    "name": "Nadi",
+    "slug": "yoga"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "nadi meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "yoga"
+  ],
+  "mentions": [
+    "prana",
+    "chakras"
+  ],
+  "intro": "Nadi means channel or tube. In hatha and tantric maps, nadis are paths for prana, sometimes numbered in the thousands, with a few given names.",
+  "sections": [
+    {
+      "heading": "What does Nadi mean?",
+      "slug": "what-does-nadi-mean",
+      "content": "Ida, pingala, and sushumna are the famous trio in many later teachings. Texts do not draw one agreed diagram. Chakras are sometimes the stations along these paths. The breathwork pillar separates the map from oxygen.\n\nThe neighboring page is [the prana entry](/glossary/prana/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "Modern classes may point to the nostrils and call the sensation a nadi. Sensation in the nose is ordinary. The diagram is an interpretation. Hatha literature assumes a teacher and a cosmology.\n\nA wider map lives at the [breathwork topic](/topics/breathwork/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "Learn the word when you read a text that uses it. Do not let a diagram explain a medical symptom. Quiet breathing does not require you to accept the map.\n\nIf you want a narrower practical or comparative page, use [the chakra entry](/glossary/chakra/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not treat nadis as blocked pipes you can buy a cleanse for. Do not confuse them with the nervous system just because both are channels in a metaphor.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Nadi has a traditional job that popular English often widens.",
+    "Context decides which school is speaking.",
+    "This entry defines the word and points to a longer page."
+  ],
+  "faq": [
+    {
+      "question": "Is Nadi a scientific term?",
+      "answer": "No. Nadis belong to subtle-body teaching. Anatomy uses different names for nerves and vessels."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the prana and chakra entries. The longer linked page carries the rest of the context."
+    }
+  ],
+  "source_ids": [
+    "sacred-hatha",
+    "britannica-prana",
+    "iep-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Nadi: Meaning and Context",
+    "meta_description": "A nadi is a channel in subtle-body maps through which prana is said to move. It is not a nerve that anatomy has identified under that name.",
+    "canonical": "/glossary/nadi/",
+    "robots": "index,follow",
+    "og_title": "Nadi: Meaning and Context",
+    "og_description": "A nadi is a channel in subtle-body maps through which prana is said to move. It is not a nerve that anatomy has identified under that name.",
+    "og_image": "/images/glossary-nadi.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-nadi.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on nadi.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/glossary/prana/",
+    "/topics/breathwork/",
+    "/glossary/chakra/",
+    "/topics/yoga/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

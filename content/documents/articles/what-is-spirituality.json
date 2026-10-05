@@ -1,0 +1,113 @@
+{
+  "id": "what-is-spirituality",
+  "kind": "explainer",
+  "status": "published",
+  "title": "What Is Spirituality? A Careful Definition",
+  "slug": "what-is-spirituality",
+  "path": "/articles/what-is-spirituality/",
+  "h1": "What Is Spirituality? A Careful Definition",
+  "excerpt": "Spirituality is a broad word for meaning, the sacred, or practice outside or inside a religion. It needs a narrower sense every time it is used.",
+  "quick_answer": {
+    "question": "What is spirituality?",
+    "answer": "Spirituality is a broad word for practices and beliefs about meaning, the sacred, or a depth people take to exceed ordinary routine. It sometimes lives inside a religion and sometimes names a path outside one."
+  },
+  "topic": "spirituality",
+  "category": {
+    "id": "spirituality",
+    "name": "Spirituality",
+    "slug": "spirituality"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is spirituality",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "spirituality"
+  ],
+  "mentions": [
+    "consciousness"
+  ],
+  "intro": "Spirituality can mean prayer, a walk, a doctrine, or a refusal of institutions. A publication has to say which sense is in play or the word does no work.",
+  "sections": [
+    {
+      "heading": "What are people pointing at?",
+      "slug": "what-are-people-pointing-at",
+      "content": "Often the word points at awe, conscience, grief, or stillness, and at practices that cultivate them. Sometimes it points at a claim that a soul exists or that consciousness exceeds the brain. Those are different sentences. Mysticism, in the philosophical literature, is the study of reports of union or direct reality, and scholars disagree about what the reports prove.\n\nThe neighboring page is [spirituality versus religion](/articles/spirituality-vs-religion/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "How does it relate to religion?",
+      "slug": "how-does-it-relate-to-religion",
+      "content": "American usage owes something to a Protestant habit of valuing inner sincerity, and something to late twentieth-century mixtures of psychology and Asian practices. Neither history makes spirituality more mature than a congregation. [Ancient wisdom](/topics/ancient-wisdom/) pages try to put texts and communities back in view.\n\nA wider map lives at the [spirituality topic](/topics/spirituality/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What practices gather under the word?",
+      "slug": "what-practices-gather-under-the-word",
+      "content": "Meditation, prayer, service, reading, and time outside all get called spiritual. They do not share one mechanism. A starter is one named practice and one named source, not a personality type. The starting guide is written for people without a single institution.\n\nIf you want a narrower practical or comparative page, use [starting a spiritual practice](/articles/starting-a-spiritual-practice/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not let the word launder a health claim. Meditation research supports limited stress language and not miracle language. A powerful experience is not automatically evidence of a doctrine. Distress is a health question first.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "The word is wide and must be narrowed.",
+    "It is not a promotion above religion.",
+    "Practices under the label do not share one mechanism.",
+    "Special experiences are reports, not proofs."
+  ],
+  "faq": [
+    {
+      "question": "What is spirituality?",
+      "answer": "Spirituality is a broad word for practices and beliefs about meaning, the sacred, or a depth people take to exceed ordinary routine. It sometimes lives inside a religion and sometimes names a path outside one."
+    },
+    {
+      "question": "Where does this page fit?",
+      "answer": "It answers one question and links to the wider topic. It is not a course and not a medical instruction."
+    }
+  ],
+  "source_ids": [
+    "sep-mysticism",
+    "sep-consciousness",
+    "nccih-meditation"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Is Spirituality? A Careful Definition",
+    "meta_description": "See what spirituality usually points to, how it differs from religion, and which claims the word cannot carry.",
+    "canonical": "/articles/what-is-spirituality/",
+    "robots": "index,follow",
+    "og_title": "What Is Spirituality? A Careful Definition",
+    "og_description": "See what spirituality usually points to, how it differs from religion, and which claims the word cannot carry.",
+    "og_image": "/images/what-is-spirituality.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-spirituality.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on spirituality.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/spirituality/",
+    "/articles/spirituality-vs-religion/",
+    "/articles/starting-a-spiritual-practice/",
+    "/guides/spirituality/",
+    "/topics/consciousness/",
+    "/articles/spiritual-awakening-and-enlightenment/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

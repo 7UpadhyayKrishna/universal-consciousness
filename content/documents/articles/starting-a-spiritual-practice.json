@@ -1,0 +1,113 @@
+{
+  "id": "starting-a-spiritual-practice",
+  "kind": "guide",
+  "status": "published",
+  "title": "Starting a Spiritual Practice",
+  "slug": "starting-a-spiritual-practice",
+  "path": "/articles/starting-a-spiritual-practice/",
+  "h1": "Starting a Spiritual Practice",
+  "excerpt": "Start with one named practice, one source you can cite, and a refusal to collect identities or products.",
+  "quick_answer": {
+    "question": "How do you start a spiritual practice?",
+    "answer": "Choose one practice you can describe, one text or teacher you can name, and one claim you will hold lightly. Keep health care and ethical obligations in place while you learn."
+  },
+  "topic": "spirituality",
+  "category": {
+    "id": "spirituality",
+    "name": "Spirituality",
+    "slug": "spirituality"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "starting a spiritual practice",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "spirituality"
+  ],
+  "mentions": [
+    "meditation"
+  ],
+  "intro": "Starting is not a personality reveal. It is a small experiment with a name. The name might be prayer, meditation, study, or service. The experiment needs a boundary so it does not eat the rest of your life.",
+  "sections": [
+    {
+      "heading": "What counts as a start?",
+      "slug": "what-counts-as-a-start",
+      "content": "Write one sentence: I will do this practice, for this many minutes, on these days, and I will not claim it cures anything. If you already belong to a synagogue, church, mosque, or temple, you can start inside that life. You do not need a new identity.\n\nThe neighboring page is [what spirituality is](/articles/what-is-spirituality/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "How do you choose a practice?",
+      "slug": "how-do-you-choose-a-practice",
+      "content": "American seekers often assemble practices from several continents. That can be curious and it can be careless. Name the source of each piece. Ancient wisdom pages exist so a quote has a book. Religion and spirituality are compared on their own page.\n\nA wider map lives at the [spirituality guides](/guides/spirituality/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should you postpone?",
+      "slug": "what-should-you-postpone",
+      "content": "If you have no practice yet, use a short meditation or a short reading, not both plus a diet plus a retreat. Revisit the sentence after a month. Add nothing that requires secrecy, large payment, or cutting off friends.\n\nIf you want a narrower practical or comparative page, use [spirituality and religion](/articles/spirituality-vs-religion/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "A strong experience is not a command to quit your job or your treatment. Awakening language is easy to misuse. Distress is a reason to contact a clinician, not only a teacher.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "One named practice is a start.",
+    "Cite the source of what you borrow.",
+    "Keep medical care and relationships intact.",
+    "Postpone products, secrecy, and total explanations."
+  ],
+  "faq": [
+    {
+      "question": "Do I have to leave religion?",
+      "answer": "No. Many practices live inside religions. Others are pursued outside them. This site assumes neither."
+    },
+    {
+      "question": "Where should I read next?",
+      "answer": "Read the spirituality topic and the page on awakening language."
+    }
+  ],
+  "source_ids": [
+    "sep-mysticism",
+    "nccih-meditation",
+    "sep-consciousness"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Starting a Spiritual Practice",
+    "meta_description": "Start a spiritual practice with one method, one source, and clear limits on health and authority claims.",
+    "canonical": "/articles/starting-a-spiritual-practice/",
+    "robots": "index,follow",
+    "og_title": "Starting a Spiritual Practice",
+    "og_description": "Start a spiritual practice with one method, one source, and clear limits on health and authority claims.",
+    "og_image": "/images/starting-a-spiritual-practice.svg"
+  },
+  "media": {
+    "featured_image": "/images/starting-a-spiritual-practice.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on spirituality.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/spirituality/",
+    "/articles/what-is-spirituality/",
+    "/articles/spirituality-vs-religion/",
+    "/guides/spirituality/",
+    "/articles/meditation-for-beginners/",
+    "/topics/ancient-wisdom/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

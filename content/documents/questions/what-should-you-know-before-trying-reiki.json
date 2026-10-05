@@ -1,0 +1,110 @@
+{
+  "id": "what-should-you-know-before-trying-reiki",
+  "kind": "question",
+  "status": "published",
+  "title": "What to Know Before Trying Reiki",
+  "slug": "what-should-you-know-before-trying-reiki",
+  "path": "/questions/what-should-you-know-before-trying-reiki/",
+  "h1": "What to Know Before Trying Reiki",
+  "excerpt": "Before a Reiki session, know that it is a spiritual practice, that evidence does not show it treats disease, and that it must not delay care.",
+  "quick_answer": {
+    "question": "What should you know before trying Reiki?",
+    "answer": "Know that Reiki is a hand-placement practice based on a claimed energy, that research has not shown it treats health conditions, and that you should not delay medical care. Ask what it costs and what the practitioner will not do."
+  },
+  "topic": "reiki",
+  "category": {
+    "id": "reiki",
+    "name": "Reiki",
+    "slug": "reiki"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "before trying reiki",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "reiki"
+  ],
+  "mentions": [
+    "prana"
+  ],
+  "intro": "A first session is easier to judge if you walk in with the public caution already in mind. Surprise is how mild comfort gets narrated as medicine.",
+  "sections": [
+    {
+      "heading": "What are you agreeing to?",
+      "slug": "what-are-you-agreeing-to",
+      "content": "You will likely lie down, clothed, while someone places hands on or near you in quiet. You may feel relaxed. The theory on offer is a universal energy. NCCIH says that theory's health claims are not clearly supported. Britannica can tell you the practice's modern Japanese background.\n\nThe neighboring page is [what Reiki is](/articles/what-is-reiki/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What should you ask?",
+      "slug": "what-should-you-ask",
+      "content": "Trainings and fees vary. A certificate is a biography of courses, not a clinical license. Some practitioners mix in chakras or other systems. Ask which system you are getting. The research page is the longer caution.\n\nA wider map lives at the [research page](/articles/what-research-says-about-reiki/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What outcome is reasonable?",
+      "slug": "what-outcome-is-reasonable",
+      "content": "Ask whether they will tell you to stop other treatment. Leave if the answer is yes. Do not send medical records you would not want in an ordinary appointment. You can decline and still have read the explanation.\n\nIf you want a narrower practical or comparative page, use [the Reiki topic](/topics/reiki/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not use Reiki for an emergency. Do not treat calm as proof of healing energy. Children and serious illness belong with licensed care first.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "The session is quiet hand placement.",
+    "Evidence does not show clinical effectiveness.",
+    "Ask about cost and limits.",
+    "Never delay needed care."
+  ],
+  "faq": [
+    {
+      "question": "Do I need to believe for it to be allowed?",
+      "answer": "Belief is the practitioner's theory. You do not have to adopt it to understand the page or to decline a session."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal instruction or medical advice."
+    }
+  ],
+  "source_ids": [
+    "nccih-reiki",
+    "britannica-reiki"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What to Know Before Trying Reiki",
+    "meta_description": "Know what a Reiki session is, what to ask, and why it should not replace medical treatment.",
+    "canonical": "/questions/what-should-you-know-before-trying-reiki/",
+    "robots": "index,follow",
+    "og_title": "What to Know Before Trying Reiki",
+    "og_description": "Know what a Reiki session is, what to ask, and why it should not replace medical treatment.",
+    "og_image": "/images/what-should-you-know-before-trying-reiki.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-should-you-know-before-trying-reiki.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on reiki.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-reiki/",
+    "/articles/what-research-says-about-reiki/",
+    "/topics/reiki/",
+    "/disclaimer/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

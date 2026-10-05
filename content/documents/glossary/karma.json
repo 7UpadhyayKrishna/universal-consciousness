@@ -1,0 +1,110 @@
+{
+  "id": "glossary-karma",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Karma: Meaning and Context",
+  "slug": "karma",
+  "path": "/glossary/karma/",
+  "h1": "Karma: Meaning and Context",
+  "excerpt": "Karma means action and its consequences in Indian religions. Popular English often shrinks it to instant payback.",
+  "quick_answer": {
+    "question": "What does Karma mean?",
+    "answer": "Karma is action and the consequence of action, often across lives in the traditions that teach rebirth. It is not a system that explains every bad afternoon."
+  },
+  "topic": "ancient-wisdom",
+  "category": {
+    "id": "ancient-wisdom",
+    "name": "Karma",
+    "slug": "ancient-wisdom"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "karma meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "ancient-wisdom"
+  ],
+  "mentions": [
+    "dharma"
+  ],
+  "intro": "Karma is action, and in many teachings it is the momentum of action. The moral accounting is doctrinal, not a receipt you can audit.",
+  "sections": [
+    {
+      "heading": "What does Karma mean?",
+      "slug": "what-does-karma-mean",
+      "content": "The Gita discusses action that binds and action that does not, inside a scene about duty. Buddhist and Jain uses differ. Britannica's karma article is the short public version. Samsara is the cycle the momentum is said to continue.\n\nThe neighboring page is [the dharma entry](/glossary/dharma/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "American speech uses karma for a coincidence that flatters a sense of justice. That use is recognizable and it is not the classical claim. The classical claim usually needs rebirth to do its full job. This site does not assert that rebirth happens.\n\nA wider map lives at the [moksha topic](/topics/moksha/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "Use the word for the traditional idea or for the joke, and do not mix them in one serious sentence. Liberation language is about the end of that momentum, not about winning an argument online.\n\nIf you want a narrower practical or comparative page, use [samsara](/glossary/samsara/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not tell a suffering person they earned it. That is a cruelty the word is often asked to perform. A doctrine is not a license to withhold help.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Karma is a traditional term with a narrower meaning than popular English often allows.",
+    "Schools and modern classes do not all use it the same way.",
+    "The glossary states the limit. Longer pages carry the argument."
+  ],
+  "faq": [
+    {
+      "question": "Is Karma a scientific term?",
+      "answer": "No. Karma is a religious explanation of action, not a scientific law."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the moksha pillar and the dharma entry."
+    }
+  ],
+  "source_ids": [
+    "britannica-karma",
+    "sacred-gita",
+    "britannica-samsara"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Karma: Meaning and Context",
+    "meta_description": "Karma means action and its consequences in Indian religions. Popular English often shrinks it to instant payback.",
+    "canonical": "/glossary/karma/",
+    "robots": "index,follow",
+    "og_title": "Karma: Meaning and Context",
+    "og_description": "Karma means action and its consequences in Indian religions. Popular English often shrinks it to instant payback.",
+    "og_image": "/images/glossary-karma.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-karma.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on karma.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/glossary/dharma/",
+    "/topics/moksha/",
+    "/glossary/samsara/",
+    "/topics/ancient-wisdom/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

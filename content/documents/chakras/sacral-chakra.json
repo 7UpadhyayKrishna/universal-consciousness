@@ -1,0 +1,119 @@
+{
+  "id": "sacral-chakra",
+  "kind": "chakra",
+  "status": "published",
+  "title": "Sacral Chakra: Name, Place, and Limit",
+  "slug": "sacral-chakra",
+  "path": "/chakras/sacral-chakra/",
+  "h1": "Sacral Chakra: Name, Place, and Limit",
+  "excerpt": "The sacral center is the second stop on the popular chart, tied in modern books to fluidity and feeling. Those ties are teaching slogans.",
+  "quick_answer": {
+    "question": "What is the sacral chakra?",
+    "answer": "Svadhisthana is the Sanskrit name used for the sacral chakra, usually placed in the lower abdomen. Element and color assignments belong to the modern chart."
+  },
+  "topic": "chakras",
+  "category": {
+    "id": "chakras",
+    "name": "Chakras",
+    "slug": "chakras"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "sacral chakra meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "chakras"
+  ],
+  "mentions": [
+    "chakra",
+    "kundalini"
+  ],
+  "intro": "The sacral center is the second stop on the popular chart, tied in modern books to fluidity and feeling. Those ties are teaching slogans.",
+  "sections": [
+    {
+      "heading": "What do charts say about the sacral chakra?",
+      "slug": "what-do-charts-say-about-the-sacral-chakra",
+      "content": "Svadhisthana is the name to learn so the English label is not the only handle. Charts place it at the lower abdomen. They often add the element water and the syllable Vam. Those additions help a poster and do not describe an organ. The seven-part rainbow order is a modern synthesis.\n\nThe neighboring page is [what chakras are](/articles/what-are-chakras/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where did this picture come from?",
+      "slug": "where-did-this-picture-come-from",
+      "content": "Hatha and tantric texts discuss centers, lotuses, and seed syllables without agreeing on one classroom poster. Twentieth-century interpreters stabilized the list for new readers. Kundalini imagery often uses the same ladder and has the same status: traditional picture, not a scan. Britannica's chakra article is the short public reference.\n\nA wider map lives at the [chakras topic](/topics/chakras/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How should a reader use it?",
+      "slug": "how-should-a-reader-use-it",
+      "content": "You can remember the name and ignore the moral slogan that says this center explains your personality or your illness. Breath and posture can be practiced without the ladder. Stones, oils, and affirmations are contemporary crafts. The science page says why the craft is not evidence.\n\nIf you want a narrower practical or comparative page, use [whether chakras are scientific](/articles/are-chakras-scientific/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not diagnose a blocked center. Do not buy a cure aimed at this location. A sensation in the area is a sensation. If something hurts, use ordinary medicine. The glossary entry keeps the definition smaller than this page.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Svadhisthana is the Sanskrit name used on the popular chart.",
+    "The usual location in that chart is the lower abdomen.",
+    "Colors, elements, and slogans are mostly modern teaching aids.",
+    "The center is not an anatomical finding."
+  ],
+  "faq": [
+    {
+      "question": "Do I need to open this chakra?",
+      "answer": "No. That instruction belongs to particular modern teachings. This page explains a chart. It does not prescribe a process."
+    },
+    {
+      "question": "Is this medical advice?",
+      "answer": "No. It explains a traditional or modern practice. It does not diagnose, treat, or replace professional care."
+    }
+  ],
+  "source_ids": [
+    "britannica-chakra",
+    "sacred-hatha",
+    "britannica-kundalini"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Sacral Chakra: Name, Place, and Limit",
+    "meta_description": "Sacral Chakra (Svadhisthana) is a center on the modern seven-chakra chart. This page gives the usual associations and their historical limit.",
+    "canonical": "/chakras/sacral-chakra/",
+    "robots": "index,follow",
+    "og_title": "Sacral Chakra: Name, Place, and Limit",
+    "og_description": "Sacral Chakra (Svadhisthana) is a center on the modern seven-chakra chart. This page gives the usual associations and their historical limit.",
+    "og_image": "/images/sacral-chakra.svg"
+  },
+  "media": {
+    "featured_image": "/images/sacral-chakra.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on chakras.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/chakras/",
+    "/articles/what-are-chakras/",
+    "/articles/are-chakras-scientific/",
+    "/glossary/chakra/",
+    "/guides/chakras/",
+    "/articles/understanding-chakras/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {
+    "Sanskrit name": "Svadhisthana",
+    "Traditional location": "Lower abdomen",
+    "Element in modern charts": "Water",
+    "Syllable in modern charts": "Vam"
+  }
+}

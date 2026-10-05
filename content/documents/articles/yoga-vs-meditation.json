@@ -1,0 +1,114 @@
+{
+  "id": "yoga-vs-meditation",
+  "kind": "comparison",
+  "status": "published",
+  "title": "Yoga and Meditation: How They Differ",
+  "slug": "yoga-vs-meditation",
+  "path": "/articles/yoga-vs-meditation/",
+  "h1": "Yoga and Meditation: How They Differ",
+  "excerpt": "Classical yoga includes meditation as a later limb. A modern posture class and a sitting practice are not the same hour.",
+  "quick_answer": {
+    "question": "What is the difference between yoga and meditation?",
+    "answer": "Classical yoga is a full discipline that includes meditation among other limbs. In ordinary American use, yoga often means postures and meditation means a seated attention practice. Those uses should not be forced into one claim."
+  },
+  "topic": "yoga",
+  "category": {
+    "id": "yoga",
+    "name": "Yoga",
+    "slug": "yoga"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "yoga vs meditation",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "yoga"
+  ],
+  "mentions": [
+    "meditation",
+    "yoga-sutras"
+  ],
+  "intro": "People ask which is better, yoga or meditation, as if the words named two products. They name overlapping histories. The useful question is what a given hour is actually for.",
+  "sections": [
+    {
+      "heading": "What does a classical list say?",
+      "slug": "what-does-a-classical-list-say",
+      "content": "In the Yoga Sutras, posture and breath come before concentration and meditation in the list of limbs. The text is not a fitness manual, and meditation there is not a three-minute cooldown. A public translation shows the order.\n\nThe neighboring page is [yoga philosophy](/articles/what-is-yoga-philosophy/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What does a studio schedule mean?",
+      "slug": "what-does-a-studio-schedule-mean",
+      "content": "Modern classes often put movement first and a short rest last. That rest may be meditative and still is not the classical curriculum. Buddhist and other sitting practices may never mention a posture sequence at all.\n\nA wider map lives at the [yoga topic](/topics/yoga/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "Can you do one without the other?",
+      "slug": "can-you-do-one-without-the-other",
+      "content": "You can meditate in a chair with no yoga poses. You can attend a posture class and not call it meditation. If you want both, keep a name for each part of the hour so you know what you trained.\n\nIf you want a narrower practical or comparative page, use [what meditation is](/articles/what-is-meditation/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Health research on yoga and on meditation programs should not be swapped. A benefit found in one protocol is not a property of the English word. Neither practice replaces medical care.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Classical lists include both posture and meditation.",
+    "Studio yoga is often movement first.",
+    "Sitting practice does not require poses.",
+    "Evidence does not hop from one word to the other."
+  ],
+  "faq": [
+    {
+      "question": "Is one more spiritual?",
+      "answer": "No. Spiritual is a claim about aim and context, not a prize for sitting still or for sweating."
+    },
+    {
+      "question": "Which page is the overview?",
+      "answer": "Use the yoga and meditation pillars, then the style pages if the class name is the puzzle."
+    }
+  ],
+  "source_ids": [
+    "iep-yoga",
+    "sacred-yoga-sutras",
+    "nccih-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Yoga and Meditation: How They Differ",
+    "meta_description": "See how yoga and meditation overlap in classical lists and how studio classes and sitting practice differ.",
+    "canonical": "/articles/yoga-vs-meditation/",
+    "robots": "index,follow",
+    "og_title": "Yoga and Meditation: How They Differ",
+    "og_description": "See how yoga and meditation overlap in classical lists and how studio classes and sitting practice differ.",
+    "og_image": "/images/yoga-vs-meditation.svg"
+  },
+  "media": {
+    "featured_image": "/images/yoga-vs-meditation.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on yoga.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/yoga/",
+    "/topics/meditation/",
+    "/articles/what-is-yoga-philosophy/",
+    "/articles/what-is-meditation/",
+    "/yoga/hatha-yoga/",
+    "/guides/yoga/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

@@ -1,0 +1,113 @@
+{
+  "id": "spirituality-vs-religion",
+  "kind": "comparison",
+  "status": "published",
+  "title": "Spirituality and Religion Compared",
+  "slug": "spirituality-vs-religion",
+  "path": "/articles/spirituality-vs-religion/",
+  "h1": "Spirituality and Religion Compared",
+  "excerpt": "Religion usually adds shared ritual, authority, and history. Spirituality sometimes names the private side of that life and sometimes a life outside it.",
+  "quick_answer": {
+    "question": "What is the difference between spirituality and religion?",
+    "answer": "Religion usually names communities, rituals, authorities, and a history. Spirituality often names personal meaning or practice, either inside a religion or apart from one. Neither word is automatically deeper."
+  },
+  "topic": "spirituality",
+  "category": {
+    "id": "spirituality",
+    "name": "Spirituality",
+    "slug": "spirituality"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "spirituality vs religion",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "spirituality"
+  ],
+  "mentions": [
+    "ancient-wisdom"
+  ],
+  "intro": "The sentence I am spiritual but not religious is common in the United States. It can mean a real distance from institutions. It can also mean the institutions were edited out while their practices were kept.",
+  "sections": [
+    {
+      "heading": "What does religion add?",
+      "slug": "what-does-religion-add",
+      "content": "A congregation, a calendar, a text read with others, and a person who can say no are typical religious pieces. Spirituality, as used on this site, is the wider and vaguer word for meaning and practice. It is not a promotion.\n\nThe neighboring page is [what spirituality is](/articles/what-is-spirituality/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Why do Americans split the words?",
+      "slug": "why-do-americans-split-the-words",
+      "content": "A Protestant stress on inner sincerity shapes the split, and so does the late twentieth-century market in Asian practices sold as personal growth. Ancient wisdom pages put the community and the book back where a quote removed them.\n\nA wider map lives at the [spirituality topic](/topics/spirituality/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What mistake follows the split?",
+      "slug": "what-mistake-follows-the-split",
+      "content": "You can pray inside a religion and call it spiritual. You can meditate outside a religion and still be borrowing a religious technique. Say which you are doing. The starting guide does not require you to leave a tradition.\n\nIf you want a narrower practical or comparative page, use [starting a practice](/articles/starting-a-spiritual-practice/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not use spiritual as a way to avoid criticism, refunds, or medical care. Institutions can be corrupt. So can a teacher with no institution. The word you prefer does not settle the ethics.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Religion usually implies a shared form of life.",
+    "Spirituality is a broader and less precise word.",
+    "One is not more evolved than the other.",
+    "Borrowed practices still have histories."
+  ],
+  "faq": [
+    {
+      "question": "Can a person be both?",
+      "answer": "Yes. Many people use spiritual language for the inner side of a religion they still practice."
+    },
+    {
+      "question": "Where is the overview?",
+      "answer": "Use the spirituality pillar and the guide hub."
+    }
+  ],
+  "source_ids": [
+    "sep-mysticism",
+    "sep-consciousness",
+    "nccih-meditation"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Spirituality and Religion Compared",
+    "meta_description": "Compare spirituality and religion without treating one as more mature, and see how the words are used in the United States.",
+    "canonical": "/articles/spirituality-vs-religion/",
+    "robots": "index,follow",
+    "og_title": "Spirituality and Religion Compared",
+    "og_description": "Compare spirituality and religion without treating one as more mature, and see how the words are used in the United States.",
+    "og_image": "/images/spirituality-vs-religion.svg"
+  },
+  "media": {
+    "featured_image": "/images/spirituality-vs-religion.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on spirituality.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/spirituality/",
+    "/articles/what-is-spirituality/",
+    "/articles/starting-a-spiritual-practice/",
+    "/guides/spirituality/",
+    "/topics/ancient-wisdom/",
+    "/articles/spiritual-awakening-and-enlightenment/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

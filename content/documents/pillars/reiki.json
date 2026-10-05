@@ -1,0 +1,121 @@
+{
+  "id": "pillar-reiki",
+  "kind": "pillar",
+  "status": "published",
+  "title": "Reiki: Origins, Practice, and the Evidence",
+  "slug": "reiki",
+  "path": "/topics/reiki/",
+  "h1": "Reiki: Origins, Practice, and the Evidence",
+  "excerpt": "What Reiki is, where it was taught, what a session is like, and why energy-healing claims are not established science.",
+  "quick_answer": {
+    "question": "What is Reiki?",
+    "answer": "Reiki is a Japanese spiritual practice, developed in the early twentieth century, in which a practitioner places hands on or near a person with the aim of supporting healing through a claimed life-force energy. Scientific evidence does not establish that energy system as a physical fact."
+  },
+  "topic": "reiki",
+  "category": {
+    "id": "reiki",
+    "name": "Reiki",
+    "slug": "reiki"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is reiki",
+  "secondary_keywords": [
+    "reiki healing",
+    "reiki evidence"
+  ],
+  "entities": [],
+  "about": [
+    "reiki"
+  ],
+  "mentions": [
+    "prana"
+  ],
+  "intro": "Reiki is often shelved beside chakras, crystals, and yoga in American shops. Its history is narrower. It is a Japanese practice associated with Mikao Usui in the early twentieth century, later taught through initiation lineages and, in the United States, through weekend trainings and clinical-looking treatment rooms. The atmosphere can be medical. The status of the practice is not.\n\nThis pillar separates the tradition's self-description from what health agencies are willing to say. The [explainer](/articles/what-is-reiki/) is the short version. The [evidence page](/articles/what-research-says-about-reiki/) stays with the research. The [question for newcomers](/questions/what-should-you-know-before-trying-reiki/) is the practical briefing.",
+  "sections": [
+    {
+      "heading": "How do practitioners describe a session?",
+      "slug": "how-do-practitioners-describe-a-session",
+      "content": "A recipient usually lies down or sits, clothed, while a practitioner rests hands on or just above the body in a series of positions. The room is quiet. There is no massage pressure required by the basic description, and there is no drug and no diagnosis. Practitioners say they are channeling or offering a universal life energy. Recipients sometimes report warmth, relaxation, or emotional release.\n\nThose reports can be taken seriously as reports. Relaxation is a familiar human experience and does not require a new energy system to be real as a feeling. The explanation practitioners prefer is a doctrine. Britannica's Reiki article and the NCCIH Reiki page both describe the practice in this neighborhood: a complementary approach, not a proven treatment."
+    },
+    {
+      "heading": "What does the research summary say?",
+      "slug": "what-does-the-research-summary-say",
+      "content": "The National Center for Complementary and Integrative Health says Reiki has been studied for various conditions and that it has not been clearly shown to be effective for any health-related purpose. It also says Reiki should not be used to replace conventional care. That is the sentence this publication will not soften.\n\nStudies in this area are often small, hard to blind, and mixed in quality. A person can feel calmer after quiet attention from another person for reasons that have nothing to do with an undetected energy. Kind attention is not nothing. It is also not a mechanism you can put on a chart of the subtle body and call settled."
+    },
+    {
+      "heading": "How should Reiki be compared with other energy practices?",
+      "slug": "how-should-reiki-be-compared-with-other-energy-practices",
+      "content": "[Pranic Healing](/articles/reiki-vs-pranic-healing/) is a different modern system, associated with a different teacher and a different vocabulary. Both speak of life force. Neither has established that force as physiology. [Prana](/glossary/prana/) is an older Sanskrit term from yoga and Ayurveda. Using it as a translation for Reiki's energy is an interpretation across cultures, not a proof that the practices are one tradition.\n\nChakra language is similarly optional. Some Reiki teachers added it because their students already knew the word. Addition is a history. It is not an origin."
+    },
+    {
+      "heading": "What should a beginner ask?",
+      "slug": "what-should-a-beginner-ask",
+      "content": "Ask what the session costs, what the practitioner will and will not do, and whether they will tell you to delay medical care. The acceptable answer to the last question is no. Ask what lineage or training they claim, and treat the answer as a biography, not as a miracle. Read the [disclaimer](/disclaimer/) before you book anything because you are frightened of a symptom.\n\nYou do not need an attunement to understand this page. If you do take a class, notice whether the teaching asks for secrecy, escalating fees, or belief as the price of a basic description. Those are institutional habits. They are not evidence of energy."
+    },
+    {
+      "heading": "How does this site talk about healing?",
+      "slug": "how-does-this-site-talk-about-healing",
+      "content": "Healing is a word people use for recovery, for comfort, and for a spiritual hope. This site will not use it as a synonym for cure. If Reiki helps someone feel accompanied while they receive actual medical care, that accompaniment can be described without a theory of life force. If someone offers Reiki instead of care for a serious illness, that offer should be refused.\n\nThe [editorial policy](/editorial-policy/) requires the tradition, the report, and the evidence to stay in separate sentences. This pillar is an example. The [sources](/sources/) list includes the government page so you can read the caution in the author's own words rather than only in ours."
+    }
+  ],
+  "key_takeaways": [
+    "Reiki is a modern Japanese practice, not an ancient Indian chakra cure.",
+    "Sessions are usually quiet hand placements, not a medical procedure.",
+    "NCCIH states that Reiki has not been clearly shown to be effective for any health condition.",
+    "It must not replace professional care."
+  ],
+  "faq": [
+    {
+      "question": "Does Reiki cure disease?",
+      "answer": "No. This publication does not make that claim, and the public research summaries it relies on do not support it."
+    },
+    {
+      "question": "Is Reiki the same as prana or chakras?",
+      "answer": "Practitioners sometimes borrow those words. Reiki has its own Japanese history and should not be collapsed into every energy vocabulary."
+    }
+  ],
+  "source_ids": [
+    "nccih-reiki",
+    "britannica-reiki",
+    "nccih-meditation"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Reiki: Origins, Practice, and the Evidence",
+    "meta_description": "Learn what Reiki is, how sessions are described, and what government health sources say the evidence does not show.",
+    "canonical": "/topics/reiki/",
+    "robots": "index,follow",
+    "og_title": "Reiki: Origins, Practice, and the Evidence",
+    "og_description": "Learn what Reiki is, how sessions are described, and what government health sources say the evidence does not show.",
+    "og_image": "/images/pillar-reiki.svg"
+  },
+  "media": {
+    "featured_image": "/images/pillar-reiki.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and rules for the Reiki pillar.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-reiki/",
+    "/articles/what-research-says-about-reiki/",
+    "/articles/reiki-vs-pranic-healing/",
+    "/questions/what-should-you-know-before-trying-reiki/",
+    "/glossary/prana/",
+    "/disclaimer/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

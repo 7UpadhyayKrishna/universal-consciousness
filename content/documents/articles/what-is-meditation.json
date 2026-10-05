@@ -1,0 +1,113 @@
+{
+  "id": "what-is-meditation",
+  "kind": "explainer",
+  "status": "published",
+  "title": "What Is Meditation? Meaning, Types, and Context",
+  "slug": "what-is-meditation",
+  "path": "/articles/what-is-meditation/",
+  "h1": "What Is Meditation? Meaning, Types, and Context",
+  "excerpt": "Meditation is a family of attention practices with religious and clinical histories, not a single script or a cure.",
+  "quick_answer": {
+    "question": "What is meditation?",
+    "answer": "Meditation is a group of practices that train attention, awareness, or a devotional focus. Traditions disagree about the goal, and research studies specific programs rather than meditation as one thing."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is meditation",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness"
+  ],
+  "intro": "People use meditation for a clinic, a temple, and a phone app, then speak as if those were one activity. They share the English word and often a seated posture. They do not share one aim.",
+  "sections": [
+    {
+      "heading": "What counts as meditation?",
+      "slug": "what-counts-as-meditation",
+      "content": "A useful test is whether attention is being trained on purpose. Sitting while ruminating can be rest. It is not yet a method. Breath awareness, a mantra, a body scan, and loving-kindness are methods, and they are not interchangeable. The National Center for Complementary and Integrative Health describes meditation as a set of practices with religious roots and secular adaptations.\n\nThe neighboring page is [mindfulness practice](/meditation/mindfulness/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where do the main methods come from?",
+      "slug": "where-do-the-main-methods-come-from",
+      "content": "South Asian sources, including the Yoga Sutras and Buddhist attention trainings, supply much of what Americans now meet. Christian and other contemplative histories supply other methods that should not be relabeled as yoga. Twentieth-century clinics built secular courses, especially around mindfulness, without asking patients to adopt a creed.\n\nA wider map lives at the [meditation topic](/topics/meditation/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What does research actually cover?",
+      "slug": "what-does-research-actually-cover",
+      "content": "A beginner needs one instruction, a tolerable posture, and a short duration. Five or ten minutes counts. Difficulty noticing distraction is the practice, not a failure of it. Guided audio can teach the instruction and can also become a dependency. The beginner guide walks through a first week without promising a new personality.\n\nIf you want a narrower practical or comparative page, use [meditation for beginners](/articles/meditation-for-beginners/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "A 2014 systematic review indexed on PubMed found moderate evidence for some stress-related outcomes in some programs and insufficient evidence for many broader claims. Meditation is not a cure and not a replacement for professional care. It is also not risk-free for every mental health history.\n\nTraditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake."
+    }
+  ],
+  "key_takeaways": [
+    "Meditation names a family of methods.",
+    "Clinical and religious versions should stay distinct.",
+    "Evidence supports limited stress-related claims only.",
+    "A short daily period is a legitimate start."
+  ],
+  "faq": [
+    {
+      "question": "Do I have to stop thinking?",
+      "answer": "No. Most methods teach a way to notice thoughts and return, not a permanently blank mind."
+    },
+    {
+      "question": "Is meditation a religion?",
+      "answer": "Some forms are religious practices. Others are taught in secular settings. The setting and the aim decide."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "nccih-meditation-depth",
+    "pubmed-goyal-2014"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Is Meditation? Meaning, Types, and Context",
+    "meta_description": "Learn what meditation is, how major methods differ, and what research summaries do and do not claim.",
+    "canonical": "/articles/what-is-meditation/",
+    "robots": "index,follow",
+    "og_title": "What Is Meditation? Meaning, Types, and Context",
+    "og_description": "Learn what meditation is, how major methods differ, and what research summaries do and do not claim.",
+    "og_image": "/images/what-is-meditation.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-meditation.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon, made for the page about meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/meditation/",
+    "/articles/meditation-for-beginners/",
+    "/glossary/meditation/",
+    "/meditation/mindfulness/",
+    "/guides/meditation/",
+    "/articles/meditation-vs-mindfulness/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

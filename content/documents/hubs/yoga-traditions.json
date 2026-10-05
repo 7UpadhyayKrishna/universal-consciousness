@@ -1,0 +1,95 @@
+{
+  "id": "hub-yoga",
+  "kind": "hub",
+  "status": "published",
+  "title": "Yoga Traditions and Styles",
+  "slug": "yoga-traditions",
+  "path": "/yoga/",
+  "h1": "Yoga Traditions and Styles",
+  "excerpt": "An index of yoga traditions and styles, separating classical philosophy, medieval hatha sources, and modern class formats.",
+  "quick_answer": {
+    "question": "What is in Yoga Traditions and Styles?",
+    "answer": "An index of yoga traditions and styles, separating classical philosophy, medieval hatha sources, and modern class formats."
+  },
+  "topic": "yoga",
+  "category": {
+    "id": "yoga",
+    "name": "Yoga",
+    "slug": "yoga"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "yoga traditions",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "Yoga in an American studio can mean a postural class, a philosophical text, or a branded method. These pages keep those meanings apart.\n\nThe [yoga topic](/topics/yoga/) is the overview. [Yoga philosophy](/articles/what-is-yoga-philosophy/) follows the textual thread. Style pages say what a class is commonly like and which claims are newer than they sound.",
+  "sections": [
+    {
+      "heading": "How should these pages be read?",
+      "slug": "how-to-read",
+      "content": "Start with the short answer on a page, then read the sections that match your question. Follow the related links when you need the longer argument. A collection page is a map. The individual pages are the reference.\n\nIf a sentence touches health or a contested spiritual mechanism, read it beside the disclaimer. The [editorial policy](/editorial-policy/) is the rule for how those sentences are written."
+    },
+    {
+      "heading": "What is not collected here?",
+      "slug": "what-is-absent",
+      "content": "This collection does not include city-by-city studio directories, miracle rankings, or pages that exist only to repeat a keyword. If a subject does not yet have a page, it is because a distinct page was not ready, not because every search phrase deserves a URL. A missing page is preferable to a thin one.\n\nSuggestions can be sent through the [contact](/contact/) page."
+    }
+  ],
+  "key_takeaways": [
+    "Each linked page should be able to stand as its own explanation.",
+    "The collection does not add doorway pages or repeated city guides.",
+    "Health-related claims stay tied to the disclaimer and the cited sources."
+  ],
+  "faq": [
+    {
+      "question": "Are these pages medical guidance?",
+      "answer": "No. They are educational descriptions. Decisions about health belong with a qualified professional."
+    },
+    {
+      "question": "Where is the longer overview?",
+      "answer": "Use the matching topic pillar linked in the introduction. This page is the index of narrower references."
+    }
+  ],
+  "source_ids": [],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Yoga Traditions and Styles",
+    "meta_description": "Pages on Hatha yoga, Kundalini Yoga, Yin yoga, and yoga philosophy, with their sources kept distinct.",
+    "canonical": "/yoga/",
+    "robots": "index,follow",
+    "og_title": "Yoga Traditions and Styles",
+    "og_description": "Pages on Hatha yoga, Kundalini Yoga, Yin yoga, and yoga philosophy, with their sources kept distinct.",
+    "og_image": "/images/hub-yoga.svg"
+  },
+  "media": {
+    "featured_image": "/images/hub-yoga.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the Yoga Traditions and Styles page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/about/",
+    "/editorial-policy/"
+  ],
+  "children": [
+    "/yoga/hatha-yoga/",
+    "/yoga/kundalini-yoga/",
+    "/yoga/yin-yoga/",
+    "/yoga/yoga-philosophy/"
+  ],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

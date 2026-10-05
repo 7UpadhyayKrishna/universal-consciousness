@@ -1,0 +1,146 @@
+{
+  "id": "pillar-meditation",
+  "kind": "pillar",
+  "status": "published",
+  "title": "Meditation: Practices, History, and Beginner Context",
+  "slug": "meditation",
+  "path": "/topics/meditation/",
+  "h1": "Meditation: Practices, History, and Beginner Context",
+  "excerpt": "How meditation is defined, where major methods come from, and what beginners in the United States should understand before they start.",
+  "quick_answer": {
+    "question": "What is meditation?",
+    "answer": "Meditation is a group of practices that train attention, awareness, or a devotional focus. Traditions define the aim differently, and modern research studies specific methods rather than meditation as one thing."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational",
+    "beginner"
+  ],
+  "primary_keyword": "what is meditation",
+  "secondary_keywords": [
+    "how to meditate",
+    "types of meditation",
+    "meditation for beginners"
+  ],
+  "entities": [
+    {
+      "name": "Meditation",
+      "type": "Practice"
+    }
+  ],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness",
+    "breathwork",
+    "mantras",
+    "yoga"
+  ],
+  "intro": "Meditation is an ordinary English word covering a large set of trainings. Some ask you to watch the breath. Some repeat a mantra. Some cultivate goodwill. Some seek a stillness described in classical yoga. Lumping them together is useful for a bookshelf and misleading for a claim about evidence.\n\nThis pillar is the center of the publication's meditation cluster. It points to technique pages, beginner guides, and the research summaries that actually exist. It does not sell a course.",
+  "sections": [
+    {
+      "heading": "What counts as meditation?",
+      "slug": "what-counts",
+      "content": "A workable definition is a repeated practice that steadies attention or changes one's relation to thoughts and feelings. Sitting quietly while ruminating without any method is not, by that definition, meditation, even if it is restful. Prayer can overlap with meditation when it trains attention, and it can also be something else, such as petition.\n\nThe National Center for Complementary and Integrative Health describes meditation and mindfulness as practices with a history in several religious traditions and a newer role in secular settings. That double history matters. A church basement class and a Buddhist monastery can both be serious, and they are not teaching the same goal.\n\nIf a page on this site names a method, it names the method. [Mindfulness](/meditation/mindfulness/), [mantra practice](/meditation/mantra/), [breath awareness](/meditation/breath-awareness/), the [body scan](/meditation/body-scan/), and [loving-kindness](/meditation/loving-kindness/) are not interchangeable."
+    },
+    {
+      "heading": "Where do the major families come from?",
+      "slug": "where-families-come-from",
+      "content": "South Asian traditions provide a large share of the methods now taught in the United States. The Yoga Sutras describe a discipline in which meditation and absorption are late limbs, not the same thing as a stretch class. Buddhist sources describe mindfulness of breathing, loving-kindness, and analytical meditations. Hindu devotional practices include repetition of divine names.\n\nEast Asian traditions contribute Zen sitting and other contemplative forms. Christian history includes lectio divina and the Jesus Prayer, which are not Indian practices wearing new clothes. Twentieth-century teachers also built secular programs, notably mindfulness-based stress reduction, which adapted Buddhist attention training for a clinic without asking patients to adopt Buddhist doctrine.\n\nA beginner does not need this whole map on day one. The map prevents a later surprise: the word meditation on a studio schedule may mean any of the above. The [yoga](/topics/yoga/) pillar covers the textual side of the Indian material."
+    },
+    {
+      "heading": "How do people actually practice?",
+      "slug": "how-people-practice",
+      "content": "A common session has a posture that can be held without strain, a chosen object such as the breath or a phrase, and a way of noticing distraction without turning the session into self-attack. Length varies. The question [how long should you meditate](/questions/how-long-should-you-meditate/) treats duration as a practical choice, not a moral rank.\n\nGuided audio can help a beginner notice what to do with attention. It can also hide whether you are learning a skill or only following a voice. Silence is not more authentic by default. It is a different support.\n\n[Meditation for beginners](/articles/meditation-for-beginners/) walks through a first week without claiming that a first week produces a personality change. [Daily practice](/articles/daily-meditation-practice/) is about repetition, which is the part most people underestimate."
+    },
+    {
+      "heading": "What does research show, and where does it stop?",
+      "slug": "what-research-shows",
+      "content": "A 2014 systematic review in JAMA Internal Medicine, indexed on PubMed, examined meditation programs for stress and well-being. It found moderate evidence for some anxiety and depression outcomes in some programs, and weaker or insufficient evidence for many other claims. That is a reason to be interested and a reason to refuse slogans.\n\nNCCIH's public pages make a similar point in plainer language. Meditation may help some people with stress. It is not a proven cure for disease. It should not replace professional care. The American Psychological Association has described mindfulness meditation as a researched approach to stress, which is a narrower statement than many popular headlines.\n\nStudies also differ in quality. Some are small. Some lack a convincing comparison group. A tradition's antiquity does not repair a weak trial, and a positive trial does not confirm a chakra theory that the trial never tested."
+    },
+    {
+      "heading": "What are the common misunderstandings?",
+      "slug": "what-are-the-misunderstandings",
+      "content": "One myth is that meditation means having no thoughts. Methods usually teach a relationship to thoughts, not a permanent blank mind. Another is that difficulty means failure. The page on [why meditation feels difficult](/questions/why-does-meditation-feel-difficult/) treats distraction as the material of practice.\n\nA third myth is that meditation is always calming in the moment. Some people meet grief, restlessness, or old memories when they sit still. That is a reason for modest doses and, when mental health is already fragile, for advice from a clinician who knows the person. It is not a reason to advertise meditation as risk-free.\n\n[Common myths](/articles/common-meditation-myths/) collects these mistakes in one place. The [mindfulness comparison](/articles/meditation-vs-mindfulness/) handles the vocabulary problem, which is that many Americans now use mindfulness as the name for all meditation."
+    },
+    {
+      "heading": "How does this cluster fit together?",
+      "slug": "how-the-cluster-fits",
+      "content": "Use this pillar for the map. Use the [explainer](/articles/what-is-meditation/) for the definition. Use the [guide hub](/guides/meditation/) when you want practice pages in a row. Use the [glossary](/glossary/meditation/) when you only need a short reference. Technique pages under [meditation practices](/meditation/) describe session shape, traditional context, and beginner limits.\n\nQuestions such as [what happens during meditation](/questions/what-happens-during-meditation/) and [how meditation works](/questions/how-does-meditation-work/) stay narrower than this overview so they do not compete with it. If you are comparing sitting with postural yoga, read [yoga and meditation](/articles/yoga-vs-meditation/).\n\nNothing in the cluster asks you to join an organization. If a teacher demands secrecy, large fees, or isolation as the price of a basic attention practice, that demand is separate from meditation itself and deserves scrutiny."
+    },
+    {
+      "heading": "Where should a reader in the United States begin?",
+      "slug": "where-should-a-us-reader-begin",
+      "content": "Begin with a method you can describe in one sentence, practiced for a short time, most days. Breath awareness and a simple mindfulness instruction are enough to learn what the word feels like in practice. You can read [types of sitting](/meditation/) after you have tried one method, not before you have tried any.\n\nUse American classroom language without pretending it is ancient. A studio that says mindfulness may mean secular attention training. A temple class may mean something devotional. Ask what the period is for. The [beginner guide](/articles/meditation-for-beginners/) is written for that question.\n\nKeep health claims on a short leash. If you meditate because you want help with stress, say that, and keep your clinician if you have one. If you meditate because a tradition asks for it, say that too. The publication's job is to keep those motives visible."
+    }
+  ],
+  "key_takeaways": [
+    "Meditation names a family of methods, not one script.",
+    "Religious, philosophical, and clinical versions should stay distinct.",
+    "Research supports modest claims about stress for some programs and rejects cure-all language.",
+    "Beginners need a method, a short duration, and realistic expectations."
+  ],
+  "faq": [
+    {
+      "question": "Do I have to sit on the floor?",
+      "answer": "No. A stable, comfortable posture is enough. Pain is not a sign of progress."
+    },
+    {
+      "question": "Is meditation a religion?",
+      "answer": "Some methods are religious practices. Others are taught in secular clinics. The setting and the aim decide, not the English word alone."
+    },
+    {
+      "question": "Can meditation replace therapy?",
+      "answer": "No. Research summaries do not support using meditation as a replacement for professional mental health care."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "nccih-meditation-depth",
+    "pubmed-goyal-2014",
+    "iep-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Meditation: Practices, History, and Beginner Context",
+    "meta_description": "Learn what meditation is, how major methods differ, and what research can and cannot say about practice.",
+    "canonical": "/topics/meditation/",
+    "robots": "index,follow",
+    "og_title": "Meditation: Practices, History, and Beginner Context",
+    "og_description": "Learn what meditation is, how major methods differ, and what research can and cannot say about practice.",
+    "og_image": "/images/pillar-meditation.svg"
+  },
+  "media": {
+    "featured_image": "/images/pillar-meditation.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles, bars, and a horizon line for the meditation pillar.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-meditation/",
+    "/articles/meditation-for-beginners/",
+    "/guides/meditation/",
+    "/glossary/meditation/",
+    "/meditation/mindfulness/",
+    "/topics/mindfulness/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

@@ -1,0 +1,113 @@
+{
+  "id": "what-is-the-difference-between-pranayama-and-meditation",
+  "kind": "question",
+  "status": "published",
+  "title": "Pranayama and Meditation: The Difference",
+  "slug": "what-is-the-difference-between-pranayama-and-meditation",
+  "path": "/questions/what-is-the-difference-between-pranayama-and-meditation/",
+  "h1": "Pranayama and Meditation: The Difference",
+  "excerpt": "Pranayama deliberately regulates the breath. Many meditations only watch it. The risk and the traditional job are different.",
+  "quick_answer": {
+    "question": "What is the difference between pranayama and meditation?",
+    "answer": "Pranayama is yogic regulation of the breath. Meditation is a wider set of attention practices. Watching the breath can be meditation without being pranayama, and forceful pranayama is not automatically meditation."
+  },
+  "topic": "breathwork",
+  "category": {
+    "id": "breathwork",
+    "name": "Breathwork",
+    "slug": "breathwork"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "pranayama vs meditation",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "breathwork"
+  ],
+  "mentions": [
+    "yoga",
+    "meditation",
+    "prana"
+  ],
+  "intro": "Both can involve the breath, which is why class descriptions blur them. The verb is the difference: regulate, or attend.",
+  "sections": [
+    {
+      "heading": "What does each word require?",
+      "slug": "what-does-each-word-require",
+      "content": "Classical yoga lists pranayama as its own limb, before meditation in the usual order. Hatha texts add techniques and retentions. Mindfulness of breathing, by contrast, often leaves the breath alone and trains noticing. Calling every breath exercise pranayama inflates a technical term.\n\nThe neighboring page is [breath awareness](/meditation/breath-awareness/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where do they overlap?",
+      "slug": "where-do-they-overlap",
+      "content": "Prana is the vitality language that gives pranayama its name. Believing that language is optional for quiet awareness and traditional for the yogic limb. The breathwork pillar sorts the umbrella word breathwork, which covers both and also covers intense workshops.\n\nA wider map lives at the [breathwork topic](/topics/breathwork/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "Which version needs more caution?",
+      "slug": "which-version-needs-more-caution",
+      "content": "If you are a beginner, watch the breath. Do not hold it to a count you found online. If a yoga class includes a few calm breaths, that is still not a license for rapid breathing until you tingle.\n\nIf you want a narrower practical or comparative page, use [how traditions describe prana](/questions/how-do-traditions-describe-prana/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Fast breathing and long holds can cause dizziness and are unwise for some medical conditions. They do not prove prana. Ask a clinician if you have heart, lung, or panic concerns.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Pranayama regulates. Meditation may only notice.",
+    "The classical list separates them.",
+    "Quiet awareness is the safer start.",
+    "Forceful breathing is a different risk."
+  ],
+  "faq": [
+    {
+      "question": "Is the breath always the object?",
+      "answer": "No. Many meditations use a phrase, an image, or kindness. Pranayama, by name, is about breath and prana."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal instruction or medical advice."
+    }
+  ],
+  "source_ids": [
+    "iep-yoga",
+    "nccih-yoga",
+    "nccih-meditation"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Pranayama and Meditation: The Difference",
+    "meta_description": "Compare pranayama and meditation, including quiet breath awareness and the risks of forceful breathing.",
+    "canonical": "/questions/what-is-the-difference-between-pranayama-and-meditation/",
+    "robots": "index,follow",
+    "og_title": "Pranayama and Meditation: The Difference",
+    "og_description": "Compare pranayama and meditation, including quiet breath awareness and the risks of forceful breathing.",
+    "og_image": "/images/what-is-the-difference-between-pranayama-and-meditation.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-the-difference-between-pranayama-and-meditation.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on breathwork.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/breathwork/",
+    "/meditation/breath-awareness/",
+    "/topics/yoga/",
+    "/questions/how-do-traditions-describe-prana/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

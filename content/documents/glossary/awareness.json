@@ -1,0 +1,110 @@
+{
+  "id": "glossary-awareness",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Awareness: Meaning and Context",
+  "slug": "awareness",
+  "path": "/glossary/awareness/",
+  "h1": "Awareness: Meaning and Context",
+  "excerpt": "Awareness, on this site, means the plain fact of noticing. Traditions sometimes load it with a theory of a witness or a universal mind.",
+  "quick_answer": {
+    "question": "What does Awareness mean?",
+    "answer": "Awareness means noticing or being conscious of something. Some traditions identify a pure awareness with the self. That identification is a doctrine, not the definition."
+  },
+  "topic": "consciousness",
+  "category": {
+    "id": "consciousness",
+    "name": "Awareness",
+    "slug": "consciousness"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "awareness meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "awareness"
+  ],
+  "mentions": [
+    "consciousness"
+  ],
+  "intro": "Awareness is the everyday ability to notice. Philosophers distinguish it from self-consciousness, which reflects on experience as one's own.",
+  "sections": [
+    {
+      "heading": "What does Awareness mean?",
+      "slug": "what-does-awareness-mean",
+      "content": "Advaita-influenced teachers often say awareness is what you are. That sentence is a metaphysical claim about atman. It is not a finding that the Stanford Encyclopedia has settled. Meditation can train noticing without that claim.\n\nThe neighboring page is [the consciousness entry](/glossary/consciousness/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "English lets awareness, consciousness, and conscience drift together. Conscience is moral. Consciousness is the broader puzzle of experience. The topic pillar sorts them.\n\nA wider map lives at the [consciousness topic](/topics/consciousness/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "If a teacher says rest as awareness, you can try the instruction as attention training. You do not have to grant the next sentence about ultimate reality. Non-duality is the page for that next sentence.\n\nIf you want a narrower practical or comparative page, use [non-duality](/glossary/non-duality/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not treat a quiet hour as proof that awareness is the ground of the universe. Do not confuse the word with a moral conscience.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Awareness is defined here in its traditional or philosophical sense.",
+    "Popular English often widens the word until it means a mood.",
+    "Longer pages on this site carry the disagreements."
+  ],
+  "faq": [
+    {
+      "question": "Is Awareness a scientific term?",
+      "answer": "Partly. Psychologists study awareness and attention. The metaphysical witness is not a measure they share."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the consciousness pillar. The longer linked page carries the rest of the context."
+    }
+  ],
+  "source_ids": [
+    "sep-consciousness",
+    "sep-self-consciousness",
+    "iep-advaita"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Awareness: Meaning and Context",
+    "meta_description": "Awareness, on this site, means the plain fact of noticing. Traditions sometimes load it with a theory of a witness or a universal mind.",
+    "canonical": "/glossary/awareness/",
+    "robots": "index,follow",
+    "og_title": "Awareness: Meaning and Context",
+    "og_description": "Awareness, on this site, means the plain fact of noticing. Traditions sometimes load it with a theory of a witness or a universal mind.",
+    "og_image": "/images/glossary-awareness.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-awareness.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on awareness.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/glossary/consciousness/",
+    "/topics/consciousness/",
+    "/glossary/non-duality/",
+    "/topics/vedanta/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

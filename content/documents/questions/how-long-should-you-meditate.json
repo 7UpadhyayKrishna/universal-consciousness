@@ -1,0 +1,110 @@
+{
+  "id": "how-long-should-you-meditate",
+  "kind": "question",
+  "status": "published",
+  "title": "How Long Should You Meditate?",
+  "slug": "how-long-should-you-meditate",
+  "path": "/questions/how-long-should-you-meditate/",
+  "h1": "How Long Should You Meditate?",
+  "excerpt": "Most beginners do well with five to ten minutes. Longer is not more virtuous, and research programs use many different lengths.",
+  "quick_answer": {
+    "question": "How long should you meditate?",
+    "answer": "Start with about five to ten minutes. Add time only if you can repeat the session most days. There is no single correct length in tradition or in research."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "how long should you meditate",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness"
+  ],
+  "intro": "People want a number so they can know they have done it correctly. The useful number is the one you will repeat, not the longest number you have heard.",
+  "sections": [
+    {
+      "heading": "What length works for a beginner?",
+      "slug": "what-length-works-for-a-beginner",
+      "content": "Five to ten minutes is enough to learn a cue such as the breath. Twenty minutes is reasonable later if the short version is already easy to start. An hour is a specialized choice, not a moral minimum. Pain or dread is a reason to shorten, not to endure.\n\nThe neighboring page is [daily practice](/articles/daily-meditation-practice/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What do studies actually use?",
+      "slug": "what-do-studies-actually-use",
+      "content": "Monastic schedules and clinical courses use different lengths because they have different aims. A review of meditation programs does not crown one duration. NCCIH describes practices, not a legal minimum.\n\nA wider map lives at the [meditation topic](/topics/meditation/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "When is longer a bad idea?",
+      "slug": "when-is-longer-a-bad-idea",
+      "content": "Use a timer so you are not negotiating with yourself mid-session. If you miss a day, resume at the same length. Do not double it as punishment. The beginner guide is the place for the first week.\n\nIf you want a narrower practical or comparative page, use [meditation for beginners](/articles/meditation-for-beginners/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not replace sleep with extra sitting. Do not treat a long session as treatment. If longer sits bring panic, go back to a few minutes or stop and get help.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Five to ten minutes is a real start.",
+    "Repeatable beats impressive.",
+    "Studies do not set one holy duration.",
+    "Distress is a reason to shorten."
+  ],
+  "faq": [
+    {
+      "question": "Do traditions demand an hour?",
+      "answer": "Some intensive settings use long periods. They are not the definition of meditation for a person building a first habit."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal advice."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "pubmed-goyal-2014"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "How Long Should You Meditate?",
+    "meta_description": "Learn how long to meditate as a beginner, why consistency matters more than a heroic session, and what studies actually timed.",
+    "canonical": "/questions/how-long-should-you-meditate/",
+    "robots": "index,follow",
+    "og_title": "How Long Should You Meditate?",
+    "og_description": "Learn how long to meditate as a beginner, why consistency matters more than a heroic session, and what studies actually timed.",
+    "og_image": "/images/how-long-should-you-meditate.svg"
+  },
+  "media": {
+    "featured_image": "/images/how-long-should-you-meditate.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/daily-meditation-practice/",
+    "/articles/meditation-for-beginners/",
+    "/topics/meditation/",
+    "/questions/is-there-a-best-time-to-meditate/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

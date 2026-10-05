@@ -1,0 +1,101 @@
+{
+  "id": "guide-consciousness",
+  "kind": "hub",
+  "status": "published",
+  "title": "Guides for Reading about Consciousness",
+  "slug": "consciousness",
+  "path": "/guides/consciousness/",
+  "h1": "Guides for Reading about Consciousness",
+  "excerpt": "Reading that keeps philosophy, practice, and spiritual doctrine from collapsing into one word.",
+  "quick_answer": {
+    "question": "Where should a consciousness reader start?",
+    "answer": "Reading that keeps philosophy, practice, and spiritual doctrine from collapsing into one word."
+  },
+  "topic": "consciousness",
+  "category": {
+    "id": "consciousness",
+    "name": "Consciousness",
+    "slug": "consciousness"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "consciousness guide",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "consciousness"
+  ],
+  "mentions": [],
+  "intro": "Reading that keeps philosophy, practice, and spiritual doctrine from collapsing into one word.\n\nThe map is the [Consciousness topic](/topics/consciousness/). The pages below are the narrower reading. Use one page for one question, then come back if you need the wider argument. This collection is not a ladder and not a product.",
+  "sections": [
+    {
+      "heading": "Which pages are gathered here?",
+      "slug": "which-pages-are-gathered-here",
+      "content": "The current set includes [/articles/what-is-consciousness/](/articles/what-is-consciousness/), [/articles/what-is-mindfulness/](/articles/what-is-mindfulness/), [/glossary/awareness/](/glossary/awareness/), [/glossary/non-duality/](/glossary/non-duality/), [/topics/vedanta/](/topics/vedanta/). Titles can be read on the pages themselves. If a link is the definition, prefer it to a secondary comment. If a link is a comparison, it assumes you have seen at least one of the things compared.\n\nNew pages will be added when they have a distinct job. A repeated city page or a keyword variant will not be added. The [editorial policy](/editorial-policy/) is the reason. Suggestions can go through the [contact](/contact/) page."
+    },
+    {
+      "heading": "How should health language be read?",
+      "slug": "how-should-health-language-be-read",
+      "content": "Where a practice is sold as medicine, read the [disclaimer](/disclaimer/) before you change your care. Government summaries and classical texts answer different questions, and this guide will not pretend they are one source. A traditional hope is labeled as a hope. A research summary is linked. Neither becomes a promise because it sits on a guide page."
+    }
+  ],
+  "key_takeaways": [
+    "The consciousness topic pillar is the map.",
+    "Each linked page answers a narrower question.",
+    "Health claims stay tied to the disclaimer and the cited sources."
+  ],
+  "faq": [
+    {
+      "question": "Are these instructions for a course?",
+      "answer": "No. They are reading paths through the publication. They do not enroll you in a program."
+    },
+    {
+      "question": "What if two pages seem to overlap?",
+      "answer": "Use the pillar for the overview and the article for the specific question. They link to each other on purpose."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "sep-consciousness"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Guides for Reading about Consciousness",
+    "meta_description": "Reading that keeps philosophy, practice, and spiritual doctrine from collapsing into one word. Start with the topic pillar, then use the linked pages for a narr",
+    "canonical": "/guides/consciousness/",
+    "robots": "index,follow",
+    "og_title": "Guides for Reading about Consciousness",
+    "og_description": "Reading that keeps philosophy, practice, and spiritual doctrine from collapsing into one word. Start with the topic pillar, then use the linked pages for a narr",
+    "og_image": "/images/guide-consciousness.svg"
+  },
+  "media": {
+    "featured_image": "/images/guide-consciousness.svg",
+    "featured_image_alt": "Abstract geometric illustration introducing the Consciousness guide collection.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/consciousness/",
+    "/editorial-policy/"
+  ],
+  "children": [
+    "/articles/what-is-consciousness/",
+    "/articles/what-is-mindfulness/",
+    "/glossary/awareness/",
+    "/glossary/non-duality/",
+    "/topics/vedanta/"
+  ],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

@@ -1,0 +1,101 @@
+{
+  "id": "editorial-team",
+  "kind": "author",
+  "status": "published",
+  "title": "Universal Consciousness Editorial Team",
+  "slug": "editorial-team",
+  "path": "/authors/editorial-team/",
+  "h1": "Universal Consciousness Editorial Team",
+  "excerpt": "The staff desk that writes, edits, and corrects Universal Consciousness. This profile does not claim personal clinical or lineage credentials.",
+  "quick_answer": {
+    "question": "Who writes Universal Consciousness?",
+    "answer": "Pages are written by the Universal Consciousness Editorial Team, a staff desk. The byline is not a named guru, physician, or lineage holder, and it does not imply a personal credential."
+  },
+  "topic": "publication",
+  "category": {
+    "id": "publication",
+    "name": "Publication",
+    "slug": "publication"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "universal consciousness editorial team",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [
+    "consciousness"
+  ],
+  "intro": "Universal Consciousness publishes explainers, guides, glossary entries, and question pages about meditation, consciousness, and Indian philosophical traditions. The byline on those pages is a desk, not a fictional expert.\n\nThis profile exists so readers can see who is responsible for the words. Responsibility sits with the publication. It does not sit with an invented biography.",
+  "sections": [
+    {
+      "heading": "What does this byline mean?",
+      "slug": "what-the-byline-means",
+      "content": "The Universal Consciousness Editorial Team is the name of the staff desk that researches, drafts, and revises the publication. A page signed by the desk has been prepared as reference writing for a general reader in the United States.\n\nThe desk is not a person with a degree, a clinical license, or an initiation that this site can verify. Those details are omitted because they would be fiction. If a named writer later contributes, that writer will receive a separate profile, and the profile will list only experience that can be checked."
+    },
+    {
+      "heading": "What does the desk cover?",
+      "slug": "what-the-desk-covers",
+      "content": "The desk covers consciousness, meditation, mindfulness, spirituality, yoga, kundalini, chakras, reiki, Ayurveda, mantras, breathwork, Vedanta, and related terms in the [glossary](/glossary/). The aim is to explain how a tradition talks, where the talk comes from, and what a careful reader should not infer.\n\nHealth-adjacent subjects are handled with a standing distinction. A traditional claim is labeled as tradition. A practitioner report is labeled as report. A research finding is cited to a public source such as the National Center for Complementary and Integrative Health or a published review. The three are not blended into a promise."
+    },
+    {
+      "heading": "How are pages revised?",
+      "slug": "how-pages-are-revised",
+      "content": "A published date marks the first public version. A modified date changes only when the page itself changes in substance. Dates are not refreshed to make an old page look new.\n\nCorrections are described on the [corrections](/corrections/) page. Readers can write to the desk through the [contact](/contact/) page. The [editorial policy](/editorial-policy/) explains source standards and the limited way software may assist drafting."
+    }
+  ],
+  "key_takeaways": [
+    "The byline names a staff desk, not a credentialed individual.",
+    "Named contributors will be added only with checkable biographies.",
+    "Health and spiritual claims stay separated into tradition, report, and evidence."
+  ],
+  "faq": [
+    {
+      "question": "Is the editorial team a specific teacher?",
+      "answer": "No. The name refers to the publication's staff desk. It should not be read as a lineage title or a clinical qualification."
+    },
+    {
+      "question": "Can I request a correction?",
+      "answer": "Yes. Use the contact address on the contact page and include the URL, the sentence you dispute, and a source if you have one."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "sep-consciousness"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Universal Consciousness Editorial Team",
+    "meta_description": "Meet the staff desk behind Universal Consciousness, including how pages are written, reviewed, and corrected.",
+    "canonical": "/authors/editorial-team/",
+    "robots": "index,follow",
+    "og_title": "Universal Consciousness Editorial Team",
+    "og_description": "Meet the staff desk behind Universal Consciousness, including how pages are written, reviewed, and corrected.",
+    "og_image": "/images/editorial-team.svg"
+  },
+  "media": {
+    "featured_image": "/images/editorial-team.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the editorial team page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/about/",
+    "/editorial-policy/",
+    "/corrections/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

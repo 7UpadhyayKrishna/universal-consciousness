@@ -1,0 +1,111 @@
+{
+  "id": "how-do-vedanta-teachers-describe-the-self",
+  "kind": "question",
+  "status": "published",
+  "title": "How Vedanta Teachers Describe the Self",
+  "slug": "how-do-vedanta-teachers-describe-the-self",
+  "path": "/questions/how-do-vedanta-teachers-describe-the-self/",
+  "h1": "How Vedanta Teachers Describe the Self",
+  "excerpt": "Advaita teachers often say the self is not the body or the story and is not other than brahman. Other Vedanta teachers qualify or reject that identity.",
+  "quick_answer": {
+    "question": "How do Vedanta teachers describe the self?",
+    "answer": "Many Advaita teachers say the true self, atman, is awareness that is not different from brahman. Other Vedanta teachers say the self is real in relation to God and is not simply identical with the absolute."
+  },
+  "topic": "vedanta",
+  "category": {
+    "id": "vedanta",
+    "name": "Vedanta",
+    "slug": "vedanta"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "vedanta self",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "vedanta"
+  ],
+  "mentions": [
+    "atman",
+    "brahman"
+  ],
+  "intro": "Teachers are not a single voice. If you have heard one sentence about the self, you have heard one school, or one school's popular descendant.",
+  "sections": [
+    {
+      "heading": "What do Advaita teachers emphasize?",
+      "slug": "what-do-advaita-teachers-emphasize",
+      "content": "Advaita instruction often points away from the body, the roles, and the stream of thought toward a witness, and then says that witness is not other than brahman. The Internet Encyclopedia of Philosophy outlines the argument. It is a doctrine about reality, not a relaxation script.\n\nThe neighboring page is [Atman and Brahman](/articles/atman-vs-brahman/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What do other teachers refuse?",
+      "slug": "what-do-other-teachers-refuse",
+      "content": "Qualified non-dual and dual Vedantas keep a distinction between the self and the ultimate, often for reasons of devotion. Calling them less advanced is an Advaita judgment, not a neutral fact. The explainer names the canon they share.\n\nA wider map lives at the [Vedanta topic](/topics/vedanta/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should a student not hear?",
+      "slug": "what-should-a-student-not-hear",
+      "content": "When a teacher says you are not your thoughts, ask what positive claim follows. Write it down. Compare it with a page that names the school. Do not use the claim to dismiss other people's needs.\n\nIf you want a narrower practical or comparative page, use [what Vedanta is](/articles/what-is-vedanta/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Non-dual teaching is not a medical account of consciousness and not an excuse for neglect. A class that cannot name its school is asking for trust it has not earned.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Advaita identifies self and brahman.",
+    "Other Vedantas disagree.",
+    "The witness is a teaching image.",
+    "The claim is not a clinical finding."
+  ],
+  "faq": [
+    {
+      "question": "Is the self the personality?",
+      "answer": "In this vocabulary, no. Personality is one of the things Advaita says the self is not. Other schools draw the line differently."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal instruction or medical advice."
+    }
+  ],
+  "source_ids": [
+    "iep-advaita",
+    "britannica-vedanta"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "How Vedanta Teachers Describe the Self",
+    "meta_description": "Learn how Vedanta teachers describe the self, especially in Advaita, and where other teachers disagree.",
+    "canonical": "/questions/how-do-vedanta-teachers-describe-the-self/",
+    "robots": "index,follow",
+    "og_title": "How Vedanta Teachers Describe the Self",
+    "og_description": "Learn how Vedanta teachers describe the self, especially in Advaita, and where other teachers disagree.",
+    "og_image": "/images/how-do-vedanta-teachers-describe-the-self.svg"
+  },
+  "media": {
+    "featured_image": "/images/how-do-vedanta-teachers-describe-the-self.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on vedanta.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-vedanta/",
+    "/articles/atman-vs-brahman/",
+    "/topics/vedanta/",
+    "/glossary/atman/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

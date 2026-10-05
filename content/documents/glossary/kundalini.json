@@ -1,0 +1,111 @@
+{
+  "id": "glossary-kundalini",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Kundalini: Meaning and Context",
+  "slug": "kundalini",
+  "path": "/glossary/kundalini/",
+  "h1": "Kundalini: Meaning and Context",
+  "excerpt": "Kundalini is a traditional image of latent spiritual power, often pictured as coiled. It is not an anatomical structure science has found.",
+  "quick_answer": {
+    "question": "What does Kundalini mean?",
+    "answer": "Kundalini names a latent power in some yogic and tantric traditions. Reports of heat or movement are experiences. They do not establish the picture as physiology."
+  },
+  "topic": "kundalini",
+  "category": {
+    "id": "kundalini",
+    "name": "Kundalini",
+    "slug": "kundalini"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "kundalini meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "kundalini"
+  ],
+  "mentions": [
+    "shakti",
+    "chakras"
+  ],
+  "intro": "Kundalini is a religious term for a power said to lie latent and, in many accounts, to rise. The serpent is a metaphor with a history.",
+  "sections": [
+    {
+      "heading": "What does Kundalini mean?",
+      "slug": "what-does-kundalini-mean",
+      "content": "Tantric and hatha sources supply the image. Modern classes and forums supply symptom lists and a branded yoga. Those layers should stay labeled. Shakti is the broader power language. Chakras are the stations in some maps.\n\nThe neighboring page is [what kundalini is](/articles/what-is-kundalini/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "There is no single ancient checklist called an awakening. Intense breathing can create dramatic sensations without confirming a mechanism. The danger page separates risk from mythology.\n\nA wider map lives at the [kundalini topic](/topics/kundalini/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "You can learn the word and decline the chase. If sensations frighten you, see a clinician. Do not pay for a secret that claims to force the process.\n\nIf you want a narrower practical or comparative page, use [whether it is dangerous](/articles/is-kundalini-dangerous/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not diagnose yourself or anyone else with kundalini. Do not treat the metaphor as an organ. Do not replace medical care with a video.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Kundalini is a traditional term with a narrower meaning than popular English often allows.",
+    "Schools and modern classes do not all use it the same way.",
+    "The glossary states the limit. Longer pages carry the argument."
+  ],
+  "faq": [
+    {
+      "question": "Is Kundalini a scientific term?",
+      "answer": "No. It is a traditional concept. Science has not established a serpent energy in the body."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the explainer and the topic pillar."
+    }
+  ],
+  "source_ids": [
+    "britannica-kundalini",
+    "sacred-hatha",
+    "britannica-tantra"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Kundalini: Meaning and Context",
+    "meta_description": "Kundalini is a traditional image of latent spiritual power, often pictured as coiled. It is not an anatomical structure science has found.",
+    "canonical": "/glossary/kundalini/",
+    "robots": "index,follow",
+    "og_title": "Kundalini: Meaning and Context",
+    "og_description": "Kundalini is a traditional image of latent spiritual power, often pictured as coiled. It is not an anatomical structure science has found.",
+    "og_image": "/images/glossary-kundalini.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-kundalini.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on kundalini.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-kundalini/",
+    "/topics/kundalini/",
+    "/glossary/shakti/",
+    "/articles/is-kundalini-dangerous/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

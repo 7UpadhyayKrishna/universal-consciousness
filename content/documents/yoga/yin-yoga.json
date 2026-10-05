@@ -1,0 +1,113 @@
+{
+  "id": "tradition-yin-yoga",
+  "kind": "yoga",
+  "status": "published",
+  "title": "Yin Yoga: History and Class Format",
+  "slug": "yin-yoga",
+  "path": "/yoga/yin-yoga/",
+  "h1": "Yin Yoga: History and Class Format",
+  "excerpt": "Yin yoga is a modern style of long-held passive postures. The English name should not be backdated into an ancient system.",
+  "quick_answer": {
+    "question": "What is Yin Yoga?",
+    "answer": "Yin yoga is a recent class format associated with teachers such as Paulie Zink, Paul Grilley, and Sarah Powers. Long holds are the method. The style is modern even when it borrows older language."
+  },
+  "topic": "yoga",
+  "category": {
+    "id": "yoga",
+    "name": "Yoga",
+    "slug": "yoga"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "yin yoga explained",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "yoga"
+  ],
+  "mentions": [
+    "hatha-yoga"
+  ],
+  "intro": "Yin yoga is a modern style of long-held passive postures. The English name should not be backdated into an ancient system.",
+  "sections": [
+    {
+      "heading": "What does Yin Yoga refer to?",
+      "slug": "what-does-yin-yoga-refer-to",
+      "content": "Yin yoga is a recent class format associated with teachers such as Paulie Zink, Paul Grilley, and Sarah Powers. Long holds are the method. The style is modern even when it borrows older language. Ask whether the hour in front of you is exercise, worship, textual study, or a branded method. The yoga topic keeps those layers from merging. A public source is more trustworthy than a schedule blurb.\n\nThe neighboring page is [the yoga topic](/topics/yoga/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "How is a class or a text actually shaped?",
+      "slug": "how-is-a-class-or-a-text-actually-shaped",
+      "content": "The style's English name is modern. Long-held postures can be pleasant or too much for a joint. Borrowed talk of meridians or energies is an extra claim, not the definition of the holds. Hatha texts are a different history.\n\nA wider map lives at the [yoga guides](/guides/yoga/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should you not assume?",
+      "slug": "what-should-you-not-assume",
+      "content": "If you attend, leave any pain that is sharp, and ask what tradition is actually being taught. If you read, take one passage and one reference article. You do not need a certificate to read, and a certificate is not a lineage.\n\nIf you want a narrower practical or comparative page, use [yoga philosophy](/articles/what-is-yoga-philosophy/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not claim the style cures disease or awakens a proven energy. Do not backdate a modern brand into the medieval books. The disclaimer applies whenever health or kundalini language enters the room.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Yin Yoga should be dated and described specifically.",
+    "A class format and a classical text are different objects.",
+    "Pain is not progress.",
+    "Health claims stay inside the public evidence."
+  ],
+  "faq": [
+    {
+      "question": "Is this style ancient?",
+      "answer": "The modern class format is not ancient. Older words it uses have older histories that the class does not automatically inherit."
+    },
+    {
+      "question": "Is this medical advice?",
+      "answer": "No. It explains a traditional or modern practice. It does not diagnose, treat, or replace professional care."
+    }
+  ],
+  "source_ids": [
+    "iep-yoga",
+    "sacred-yoga-sutras",
+    "nccih-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Yin Yoga: History and Class Format",
+    "meta_description": "Yin yoga is a modern style of long-held passive postures. The English name should not be backdated into an ancient system.",
+    "canonical": "/yoga/yin-yoga/",
+    "robots": "index,follow",
+    "og_title": "Yin Yoga: History and Class Format",
+    "og_description": "Yin yoga is a modern style of long-held passive postures. The English name should not be backdated into an ancient system.",
+    "og_image": "/images/tradition-yin-yoga.svg"
+  },
+  "media": {
+    "featured_image": "/images/tradition-yin-yoga.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on yoga.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/yoga/",
+    "/articles/what-is-yoga-philosophy/",
+    "/articles/yoga-vs-meditation/",
+    "/guides/yoga/",
+    "/yoga/hatha-yoga/",
+    "/topics/meditation/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

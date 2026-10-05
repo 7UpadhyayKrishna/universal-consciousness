@@ -1,17 +1,24 @@
 {
-  "name": "guruji-blog-page",
+  "name": "universal-consciousness",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "validate": "tsx scripts/validate-content.ts",
+    "db:seed": "tsx scripts/seed-mongodb.ts",
+    "illustrations": "node scripts/generate-illustrations.mjs",
+    "prebuild": "node scripts/generate-illustrations.mjs && tsx scripts/validate-content.ts"
   },
   "dependencies": {
+    "mongodb": "^7.7.0",
     "next": "16.3.8",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-dom": "19.2.8",
+    "react-markdown": "^10.1.0",
+    "zod": "^4.6.5"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -19,6 +26,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.3.8",
+    "tsx": "^4.23.15",
     "typescript": "^5"
   }
 }

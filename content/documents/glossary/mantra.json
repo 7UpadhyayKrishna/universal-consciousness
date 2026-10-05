@@ -1,0 +1,110 @@
+{
+  "id": "glossary-mantra",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Mantra: Meaning and Context",
+  "slug": "mantra",
+  "path": "/glossary/mantra/",
+  "h1": "Mantra: Meaning and Context",
+  "excerpt": "A mantra is a sacred formula recited in ritual or meditation. It is not any sentence you invent to feel confident.",
+  "quick_answer": {
+    "question": "What does Mantra mean?",
+    "answer": "A mantra is a traditional syllable, name, or verse recited as sacred sound. An affirmation is a different, modern practice that only shares the fact of repetition."
+  },
+  "topic": "mantras",
+  "category": {
+    "id": "mantras",
+    "name": "Mantra",
+    "slug": "mantras"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "mantra meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "mantras"
+  ],
+  "mentions": [
+    "mantra"
+  ],
+  "intro": "Mantra means a ritual formula. The sound is often treated as effective, not merely as a reminder of an idea.",
+  "sections": [
+    {
+      "heading": "What does Mantra mean?",
+      "slug": "what-does-mantra-mean",
+      "content": "Vedic, devotional, and tantric settings do not share one rule about secrecy or translation. The Yoga Sutras mention om in a narrow contemplative context. That mention is not a catalog of English slogans about success.\n\nThe neighboring page is [the mantras topic](/topics/mantras/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "Britannica keeps the ritual sense. American wellness often replaces it with a personal motto. The affirmation question is the comparison people actually need.\n\nA wider map lives at the [beginner guide](/articles/beginners-guide-to-mantras/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "Repeat a formula you understand, for a few minutes, and return when attention leaves. Do not buy a secret syllable as the only door. Do not expect a sound to treat illness.\n\nIf you want a narrower practical or comparative page, use [mantra meditation](/meditation/mantra/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not decorate a product with a community's consecrated formula. Do not call every repeated sentence a mantra.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Mantra has a traditional job that popular English often widens.",
+    "Context decides which school is speaking.",
+    "This entry defines the word and points to a longer page."
+  ],
+  "faq": [
+    {
+      "question": "Is Mantra a scientific term?",
+      "answer": "No. It is a religious and ritual term. Attention may steady when you repeat anything. That does not prove the formula's metaphysics."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the mantra topic and the affirmation question."
+    }
+  ],
+  "source_ids": [
+    "britannica-mantra",
+    "sacred-yoga-sutras",
+    "iep-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Mantra: Meaning and Context",
+    "meta_description": "A mantra is a sacred formula recited in ritual or meditation. It is not any sentence you invent to feel confident.",
+    "canonical": "/glossary/mantra/",
+    "robots": "index,follow",
+    "og_title": "Mantra: Meaning and Context",
+    "og_description": "A mantra is a sacred formula recited in ritual or meditation. It is not any sentence you invent to feel confident.",
+    "og_image": "/images/glossary-mantra.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-mantra.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on mantra.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/mantras/",
+    "/questions/are-mantras-the-same-as-affirmations/",
+    "/meditation/mantra/",
+    "/articles/beginners-guide-to-mantras/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

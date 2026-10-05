@@ -1,0 +1,95 @@
+{
+  "id": "privacy",
+  "kind": "trust",
+  "status": "published",
+  "title": "Universal Consciousness Privacy Policy",
+  "slug": "privacy",
+  "path": "/privacy/",
+  "h1": "Universal Consciousness Privacy Policy",
+  "excerpt": "What Universal Consciousness does with information you send, and what the site does not collect in this release.",
+  "quick_answer": {
+    "question": "What personal information does the site collect?",
+    "answer": "This release does not run third-party analytics. If you email the editors, they receive whatever you put in that message. Newsletter signup is off until a delivery service is connected."
+  },
+  "topic": "publication",
+  "category": {
+    "id": "publication",
+    "name": "Publication",
+    "slug": "publication"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "privacy policy",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "This policy describes the first public release of Universal Consciousness. It is written in plain language for readers in the United States. It is not a substitute for legal advice about your own obligations.\n\nThe publication's purpose is to show articles. It is not built to assemble a marketing profile of visitors.",
+  "sections": [
+    {
+      "heading": "What does a normal visit involve?",
+      "slug": "ordinary-visits",
+      "content": "When your browser requests a page, the host that serves the site may keep ordinary server logs, such as an IP address, a time, and the address of the page. Those logs are used to operate and secure the site. This release does not add a third-party analytics tag, an advertising pixel, or a social tracker.\n\nIf that changes, this page will change first, and the [editorial policy](/editorial-policy/) will describe sponsored measurement if any exists."
+    },
+    {
+      "heading": "What about email and the newsletter?",
+      "slug": "email-and-newsletter",
+      "content": "If you write to the address on the [contact](/contact/) page, the message is stored in that mailbox and may be kept long enough to handle a correction or a permissions question. Do not send information you consider highly sensitive.\n\nThe newsletter form does not accept addresses unless a delivery webhook has been configured by the publisher. Until then, the form says subscriptions are not open, and no list is built. If a list opens later, this policy will name the provider and explain how to leave."
+    },
+    {
+      "heading": "How can I ask about my information?",
+      "slug": "asking-about-information",
+      "content": "Write to the editors and say what you want to know, correct, or delete. The publication will respond to requests it can actually fulfill. Server logs held by a hosting company may be outside the publication's direct control and may be kept for security for a limited period.\n\nThe site is intended for a general audience. It is not directed at children, and it does not ask children to create accounts."
+    }
+  ],
+  "key_takeaways": [
+    "No third-party analytics tag is installed in this release.",
+    "Email you send is stored as email.",
+    "The newsletter does not collect addresses until a provider is connected."
+  ],
+  "faq": [
+    {
+      "question": "Do you sell personal information?",
+      "answer": "No. The publication does not sell personal information, and this release does not run advertising profiles."
+    },
+    {
+      "question": "Do you use cookies for ads?",
+      "answer": "Advertising cookies are not part of this release. If essential cookies are later required to run a form, the policy will say so."
+    }
+  ],
+  "source_ids": [],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Universal Consciousness Privacy Policy",
+    "meta_description": "Read what information Universal Consciousness collects, including email to the editors and the newsletter.",
+    "canonical": "/privacy/",
+    "robots": "index,follow",
+    "og_title": "Universal Consciousness Privacy Policy",
+    "og_description": "Read what information Universal Consciousness collects, including email to the editors and the newsletter.",
+    "og_image": "/images/privacy.svg"
+  },
+  "media": {
+    "featured_image": "/images/privacy.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the privacy page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/contact/",
+    "/terms/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

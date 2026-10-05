@@ -1,0 +1,96 @@
+{
+  "id": "terms",
+  "kind": "trust",
+  "status": "published",
+  "title": "Universal Consciousness Terms of Use",
+  "slug": "terms",
+  "path": "/terms/",
+  "h1": "Universal Consciousness Terms of Use",
+  "excerpt": "The terms for reading Universal Consciousness, including the limits on advice, reuse, and liability.",
+  "quick_answer": {
+    "question": "What are the terms of use?",
+    "answer": "You may read the publication for personal reference. The pages are educational, not professional advice, and reuse beyond ordinary quotation requires permission from the editors."
+  },
+  "topic": "publication",
+  "category": {
+    "id": "publication",
+    "name": "Publication",
+    "slug": "publication"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "terms of use",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [],
+  "mentions": [],
+  "intro": "These terms govern use of the Universal Consciousness website. By reading the site you agree to them. If you do not agree, do not use the site.\n\nThe publication is based in its presentation for readers in the United States. Questions about these terms can be sent through the [contact](/contact/) page.",
+  "sections": [
+    {
+      "heading": "What is the site for?",
+      "slug": "purpose",
+      "content": "The site publishes educational writing about consciousness, meditation, and related traditions. Nothing on the site is medical, psychological, legal, or financial advice, and nothing creates a teacher-student or clinician-patient relationship. Read the [disclaimer](/disclaimer/) with these terms.\n\nYou are responsible for how you use the information, including any decision to begin or stop a practice."
+    },
+    {
+      "heading": "Who owns the writing?",
+      "slug": "ownership",
+      "content": "Original text and original illustrations on this site are owned by the publication unless a page says otherwise. You may link to pages and quote short passages with credit and a link. You may not copy whole articles, republish the glossary, or train a product on the collection without written permission.\n\nTrademarks of other organizations, including names of branded meditation methods, remain their property. Mention of a name is description, not affiliation."
+    },
+    {
+      "heading": "What is limited?",
+      "slug": "limits",
+      "content": "The publication provides the site as available. It does not warrant that every historical interpretation is the only defensible one, or that external sites linked from [sources](/sources/) will remain unchanged.\n\nTo the extent the law allows, the publication is not liable for losses arising from use of the site or from a practice you choose after reading it. Some jurisdictions do not allow certain limits, and those laws still apply."
+    }
+  ],
+  "key_takeaways": [
+    "The site is for personal educational reading.",
+    "Short quotation with credit is welcome. Wholesale copying is not.",
+    "The pages do not create a professional relationship."
+  ],
+  "faq": [
+    {
+      "question": "Can I quote a paragraph?",
+      "answer": "Yes, with credit and a link to the page. For longer reuse, write to the editors."
+    },
+    {
+      "question": "Do these terms change?",
+      "answer": "They can be updated on this page. The date modified at the top of the page is the date of the current version."
+    }
+  ],
+  "source_ids": [],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Universal Consciousness Terms of Use",
+    "meta_description": "Read the terms for using Universal Consciousness, including limits on advice and how content may be reused.",
+    "canonical": "/terms/",
+    "robots": "index,follow",
+    "og_title": "Universal Consciousness Terms of Use",
+    "og_description": "Read the terms for using Universal Consciousness, including limits on advice and how content may be reused.",
+    "og_image": "/images/terms.svg"
+  },
+  "media": {
+    "featured_image": "/images/terms.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a fine horizontal rule, used on the terms page.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/disclaimer/",
+    "/privacy/",
+    "/editorial-policy/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

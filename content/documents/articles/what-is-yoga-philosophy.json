@@ -1,0 +1,115 @@
+{
+  "id": "what-is-yoga-philosophy",
+  "kind": "explainer",
+  "status": "published",
+  "title": "What Is Yoga Philosophy? Sources and Debates",
+  "slug": "what-is-yoga-philosophy",
+  "path": "/articles/what-is-yoga-philosophy/",
+  "h1": "What Is Yoga Philosophy? Sources and Debates",
+  "excerpt": "Yoga philosophy is the disciplined reading of texts such as the Yoga Sutras and the Gita, not the mood of a fitness class.",
+  "quick_answer": {
+    "question": "What is yoga philosophy?",
+    "answer": "Yoga philosophy is reflection on the aims and arguments of yoga, especially texts such as the Yoga Sutras and the Bhagavad Gita. A posture class may share the word yoga and share little of that argument."
+  },
+  "topic": "yoga",
+  "category": {
+    "id": "yoga",
+    "name": "Yoga",
+    "slug": "yoga"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is yoga philosophy",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "yoga"
+  ],
+  "mentions": [
+    "yoga-sutras",
+    "meditation"
+  ],
+  "intro": "Yoga philosophy asks what the tradition says a human being is for. Postures can be part of the answer in later texts. They are rarely the whole answer in the earlier ones.",
+  "sections": [
+    {
+      "heading": "Which texts are the core?",
+      "slug": "which-texts-are-the-core",
+      "content": "The Yoga Sutras organize restraint, observance, posture, breath, withdrawal, concentration, meditation, and absorption. The Gita uses yoga for action, knowledge, and devotion. The Internet Encyclopedia of Philosophy is a clearer map than a studio brochure. Public translations are in the sources.\n\nThe neighboring page is [yoga philosophy as a tradition page](/yoga/yoga-philosophy/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What do the eight limbs include?",
+      "slug": "what-do-the-eight-limbs-include",
+      "content": "Commentators disagree about the metaphysics behind the Sutras, including how close they stand to Samkhya. Vedanta reads related material differently. Treating yoga as one timeless system hides those fights, which are the philosophy.\n\nA wider map lives at the [yoga topic](/topics/yoga/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is this different from a class?",
+      "slug": "how-is-this-different-from-a-class",
+      "content": "A beginner can read one short passage and one reference article. The beginner guide suggests that pace. You do not need a certification to read. You also should not pretend a weekend made you an heir of the commentarial tradition.\n\nIf you want a narrower practical or comparative page, use [yoga philosophy for beginners](/articles/yoga-philosophy-for-beginners/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not quote a sutra as a medical claim. Do not use union as a word that means whatever a class needs it to mean. Ask union of what, according to whom.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Yoga philosophy is textual and argumentative.",
+    "The Sutras and the Gita do not say one thing.",
+    "Posture is one limb in a longer list.",
+    "A class can be honest without being the philosophy."
+  ],
+  "faq": [
+    {
+      "question": "What is yoga philosophy?",
+      "answer": "Yoga philosophy is reflection on the aims and arguments of yoga, especially texts such as the Yoga Sutras and the Bhagavad Gita. A posture class may share the word yoga and share little of that argument."
+    },
+    {
+      "question": "Is this medical advice?",
+      "answer": "No. It is an educational explanation. Health decisions belong with a qualified professional."
+    }
+  ],
+  "source_ids": [
+    "iep-yoga",
+    "sacred-yoga-sutras",
+    "sacred-gita",
+    "britannica-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Is Yoga Philosophy? Sources and Debates",
+    "meta_description": "See what yoga philosophy studies, which texts matter, and how that study differs from a posture class.",
+    "canonical": "/articles/what-is-yoga-philosophy/",
+    "robots": "index,follow",
+    "og_title": "What Is Yoga Philosophy? Sources and Debates",
+    "og_description": "See what yoga philosophy studies, which texts matter, and how that study differs from a posture class.",
+    "og_image": "/images/what-is-yoga-philosophy.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-yoga-philosophy.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on yoga.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/yoga-philosophy-for-beginners/",
+    "/yoga/yoga-philosophy/",
+    "/topics/yoga/",
+    "/articles/yoga-vs-meditation/",
+    "/topics/ancient-wisdom/",
+    "/guides/yoga/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

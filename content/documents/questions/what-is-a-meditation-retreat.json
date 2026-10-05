@@ -1,0 +1,110 @@
+{
+  "id": "what-is-a-meditation-retreat",
+  "kind": "question",
+  "status": "published",
+  "title": "What Is a Meditation Retreat?",
+  "slug": "what-is-a-meditation-retreat",
+  "path": "/questions/what-is-a-meditation-retreat/",
+  "h1": "What Is a Meditation Retreat?",
+  "excerpt": "A meditation retreat is a period set aside for more practice than daily life allows. It is not required for beginners and not a cure.",
+  "quick_answer": {
+    "question": "What is a meditation retreat?",
+    "answer": "A meditation retreat is a scheduled period, from a day to weeks, devoted mainly to meditation and quiet. Formats differ by tradition. A retreat is optional, and it is not a medical treatment."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is a meditation retreat",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness"
+  ],
+  "intro": "Retreat advertising sells transformation. The ordinary object is a schedule with more sitting than you do at home, fewer errands, and someone else's rules about silence.",
+  "sections": [
+    {
+      "heading": "What actually fills the day?",
+      "slug": "what-actually-fills-the-day",
+      "content": "A daylong may include talks and short sits. A residential retreat may include many sits, work periods, and limited speech. Buddhist, yoga, and secular mindfulness organizations run different versions. The word retreat does not say which one you are buying.\n\nThe neighboring page is [the meditation topic](/topics/meditation/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Who is a retreat for?",
+      "slug": "who-is-a-retreat-for",
+      "content": "Intensive periods exist in many traditions because skills are rehearsed in blocks. They are not the definition of practice. A daily ten minutes is still practice. NCCIH's cautions about meditation apply even more when the dose is large.\n\nA wider map lives at the [beginner guide](/articles/meditation-for-beginners/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should you ask first?",
+      "slug": "what-should-you-ask-first",
+      "content": "Before you pay, ask about the daily schedule, silence, cost, refunds, and whether you may leave. Tell the organizers about relevant mental health history if they ask, and consider a clinician's advice if silence has destabilized you before. Start with a day if you have never sat.\n\nIf you want a narrower practical or comparative page, use [daily practice](/articles/daily-meditation-practice/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not go to a retreat instead of care for a crisis. Do not accept a rule that you may not contact anyone outside. Isolation plus a large fee is a warning, not a tradition you owe loyalty.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "A retreat is a schedule of extra practice.",
+    "Formats differ and should be named.",
+    "Beginners do not need one.",
+    "You should be free to leave."
+  ],
+  "faq": [
+    {
+      "question": "Will a retreat awaken me?",
+      "answer": "It may be tiring, quiet, or meaningful. None of those outcomes is enlightenment by default."
+    },
+    {
+      "question": "Is this a full guide?",
+      "answer": "No. It answers one question and points to the longer page. It is not personal instruction or medical advice."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "apa-mindfulness"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Is a Meditation Retreat?",
+    "meta_description": "Learn what a meditation retreat is, what formats are common, and what to ask before you go.",
+    "canonical": "/questions/what-is-a-meditation-retreat/",
+    "robots": "index,follow",
+    "og_title": "What Is a Meditation Retreat?",
+    "og_description": "Learn what a meditation retreat is, what formats are common, and what to ask before you go.",
+    "og_image": "/images/what-is-a-meditation-retreat.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-a-meditation-retreat.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/meditation/",
+    "/articles/meditation-for-beginners/",
+    "/articles/daily-meditation-practice/",
+    "/questions/how-long-should-you-meditate/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

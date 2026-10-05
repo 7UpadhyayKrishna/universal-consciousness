@@ -1,0 +1,114 @@
+{
+  "id": "spiritual-awakening-and-enlightenment",
+  "kind": "misconception",
+  "status": "published",
+  "title": "Awakening and Enlightenment, Carefully",
+  "slug": "spiritual-awakening-and-enlightenment",
+  "path": "/articles/spiritual-awakening-and-enlightenment/",
+  "h1": "Awakening and Enlightenment, Carefully",
+  "excerpt": "Awakening and enlightenment are traditional terms for a change in understanding. They are not a weekend mood or a medical event to force.",
+  "quick_answer": {
+    "question": "What do awakening and enlightenment mean?",
+    "answer": "Traditions use awakening and enlightenment for a lasting change in how a person understands self and world. Popular English also uses awakening for any intense or meaningful experience. Those uses should not be collapsed, and distress is not automatically either one."
+  },
+  "topic": "spirituality",
+  "category": {
+    "id": "spirituality",
+    "name": "Spirituality",
+    "slug": "spirituality"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "spiritual awakening",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "spirituality"
+  ],
+  "mentions": [
+    "vedanta",
+    "moksha"
+  ],
+  "intro": "Awakening is one of the most inflated words in English-language spirituality. A moving afternoon, a doctrinal claim about the self, and a crisis can all be given the same name. They are not the same event.",
+  "sections": [
+    {
+      "heading": "How do traditions use the words?",
+      "slug": "how-do-traditions-use-the-words",
+      "content": "Buddhist traditions speak of awakening in technical ways tied to their analysis of suffering and self. Advaita speaks of knowledge of non-difference. Moksha language in Hindu thought is about liberation, often from rebirth. The Stanford Encyclopedia's mysticism article shows how contested reports of union are as evidence.\n\nThe neighboring page is [what spirituality is](/articles/what-is-spirituality/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What does popular culture add?",
+      "slug": "what-does-popular-culture-add",
+      "content": "American workshops often mean a feeling of meaning, tears, or boundary loss. Similar reports appear in grief, sleep loss, drugs, and neurological illness. Similar reports do not prove identical causes. A tradition can interpret an experience. Medicine can too. Leaving room for both is the careful reading.\n\nA wider map lives at the [Vedanta topic](/topics/vedanta/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "When is an experience a health problem?",
+      "slug": "when-is-an-experience-a-health-problem",
+      "content": "You can practice meditation or study a text without hunting a breakthrough. If you have a powerful experience, write down the circumstances and return to ordinary care of your life. Do not make a large decision in the afterglow. The moksha pillar explains liberation language without offering to confer it.\n\nIf you want a narrower practical or comparative page, use [the moksha topic](/topics/moksha/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "If an experience is frightening, comes with sleeplessness, or cuts you off from ordinary reality, seek a clinician. A teacher who forbids that step is a risk. This publication will not coach you into a crisis and call it grace.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Traditional terms are narrower than weekend slogans.",
+    "Intense experience has more than one possible cause.",
+    "Liberation language is doctrinal.",
+    "Safety outranks a spiritual story."
+  ],
+  "faq": [
+    {
+      "question": "Can practice change someone?",
+      "answer": "People report changes in attention and values. Calling every change enlightenment skips the tradition's own tests and the ordinary explanations."
+    },
+    {
+      "question": "Where is the overview?",
+      "answer": "Read the spirituality pillar and the Vedanta explainer."
+    }
+  ],
+  "source_ids": [
+    "sep-mysticism",
+    "iep-advaita",
+    "britannica-moksha"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Awakening and Enlightenment, Carefully",
+    "meta_description": "Separate popular talk of spiritual awakening from narrower doctrinal uses of enlightenment, without turning distress into a badge.",
+    "canonical": "/articles/spiritual-awakening-and-enlightenment/",
+    "robots": "index,follow",
+    "og_title": "Awakening and Enlightenment, Carefully",
+    "og_description": "Separate popular talk of spiritual awakening from narrower doctrinal uses of enlightenment, without turning distress into a badge.",
+    "og_image": "/images/spiritual-awakening-and-enlightenment.svg"
+  },
+  "media": {
+    "featured_image": "/images/spiritual-awakening-and-enlightenment.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on spirituality.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/spirituality/",
+    "/articles/what-is-spirituality/",
+    "/topics/vedanta/",
+    "/topics/moksha/",
+    "/articles/spirituality-vs-religion/",
+    "/guides/spirituality/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

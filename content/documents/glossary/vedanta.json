@@ -1,0 +1,111 @@
+{
+  "id": "glossary-vedanta",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Vedanta: Meaning and Context",
+  "slug": "vedanta",
+  "path": "/glossary/vedanta/",
+  "h1": "Vedanta: Meaning and Context",
+  "excerpt": "Vedanta is the tradition of interpreting the Upanishads, the Brahma Sutras, and the Gita. Advaita is its most famous school, not the only one.",
+  "quick_answer": {
+    "question": "What does Vedanta mean?",
+    "answer": "Vedanta is commentary on a canon about the self and ultimate reality. Advaita teaches non-difference of atman and brahman. Other schools disagree."
+  },
+  "topic": "vedanta",
+  "category": {
+    "id": "vedanta",
+    "name": "Vedanta",
+    "slug": "vedanta"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "vedanta meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "vedanta"
+  ],
+  "mentions": [
+    "atman",
+    "brahman"
+  ],
+  "intro": "Vedanta means the end or culmination of the Veda. In practice it means schools that argue over a shared set of sources.",
+  "sections": [
+    {
+      "heading": "What does Vedanta mean?",
+      "slug": "what-does-vedanta-mean",
+      "content": "Advaita, associated with Shankara, is what most English readers meet. Qualified and dual Vedantas are part of the same family name and not the same metaphysics. The Internet Encyclopedia of Philosophy outlines Advaita without pretending it is the only reading.\n\nThe neighboring page is [what Vedanta is](/articles/what-is-vedanta/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "The Upanishads are the well. Commentaries are the buckets, and they do not hold the same water. Non-duality in English is wider than Advaita and should not be swapped carelessly.\n\nA wider map lives at the [Vedanta topic](/topics/vedanta/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "When you hear you are brahman, you are hearing an Advaita-shaped claim. Ask for the school. Read one passage before you adopt the sentence as an identity.\n\nIf you want a narrower practical or comparative page, use [Atman and Brahman](/articles/atman-vs-brahman/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not use Vedanta as a scientific theory of consciousness. Do not use non-duality to ignore people. The doctrine is not a productivity tool.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Vedanta is defined here in its traditional or philosophical sense.",
+    "Popular English often widens the word until it means a mood.",
+    "Longer pages on this site carry the disagreements."
+  ],
+  "faq": [
+    {
+      "question": "Is Vedanta a scientific term?",
+      "answer": "No. It is philosophy and theology. It is not a result of a laboratory."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the explainer and the topic pillar."
+    }
+  ],
+  "source_ids": [
+    "iep-advaita",
+    "britannica-vedanta",
+    "sacred-upanishads"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Vedanta: Meaning and Context",
+    "meta_description": "Vedanta is the tradition of interpreting the Upanishads, the Brahma Sutras, and the Gita. Advaita is its most famous school, not the only one.",
+    "canonical": "/glossary/vedanta/",
+    "robots": "index,follow",
+    "og_title": "Vedanta: Meaning and Context",
+    "og_description": "Vedanta is the tradition of interpreting the Upanishads, the Brahma Sutras, and the Gita. Advaita is its most famous school, not the only one.",
+    "og_image": "/images/glossary-vedanta.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-vedanta.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on vedanta.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/what-is-vedanta/",
+    "/topics/vedanta/",
+    "/glossary/atman/",
+    "/articles/atman-vs-brahman/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

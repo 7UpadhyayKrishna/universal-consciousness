@@ -1,0 +1,19 @@
+{
+  "note": "Editorial inventory. Document ids are unique. Entity ids live in entities.json and are separate.",
+  "pages": [
+    {"id":"pillar-consciousness","kind":"pillar","path":"/topics/consciousness/","topic":"consciousness","file":"content/documents/pillars/consciousness.json"},
+    {"id":"pillar-meditation","kind":"pillar","path":"/topics/meditation/","topic":"meditation","file":"content/documents/pillars/meditation.json"},
+    {"id":"pillar-mindfulness","kind":"pillar","path":"/topics/mindfulness/","topic":"mindfulness","file":"content/documents/pillars/mindfulness.json"},
+    {"id":"pillar-spirituality","kind":"pillar","path":"/topics/spirituality/","topic":"spirituality","file":"content/documents/pillars/spirituality.json"},
+    {"id":"pillar-yoga","kind":"pillar","path":"/topics/yoga/","topic":"yoga","file":"content/documents/pillars/yoga.json"},
+    {"id":"pillar-kundalini","kind":"pillar","path":"/topics/kundalini/","topic":"kundalini","file":"content/documents/pillars/kundalini.json"},
+    {"id":"pillar-chakras","kind":"pillar","path":"/topics/chakras/","topic":"chakras","file":"content/documents/pillars/chakras.json"},
+    {"id":"pillar-reiki","kind":"pillar","path":"/topics/reiki/","topic":"reiki","file":"content/documents/pillars/reiki.json"},
+    {"id":"pillar-ayurveda","kind":"pillar","path":"/topics/ayurveda/","topic":"ayurveda","file":"content/documents/pillars/ayurveda.json"},
+    {"id":"pillar-ancient-wisdom","kind":"pillar","path":"/topics/ancient-wisdom/","topic":"ancient-wisdom","file":"content/documents/pillars/ancient-wisdom.json"},
+    {"id":"pillar-vedanta","kind":"pillar","path":"/topics/vedanta/","topic":"vedanta","file":"content/documents/pillars/vedanta.json"},
+    {"id":"pillar-moksha","kind":"pillar","path":"/topics/moksha/","topic":"moksha","file":"content/documents/pillars/moksha.json"},
+    {"id":"pillar-mantras","kind":"pillar","path":"/topics/mantras/","topic":"mantras","file":"content/documents/pillars/mantras.json"},
+    {"id":"pillar-breathwork","kind":"pillar","path":"/topics/breathwork/","topic":"breathwork","file":"content/documents/pillars/breathwork.json"}
+  ]
+}

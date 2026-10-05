@@ -1,0 +1,114 @@
+{
+  "id": "atman-vs-brahman",
+  "kind": "comparison",
+  "status": "published",
+  "title": "Atman and Brahman: What the Pair Means",
+  "slug": "atman-vs-brahman",
+  "path": "/articles/atman-vs-brahman/",
+  "h1": "Atman and Brahman: What the Pair Means",
+  "excerpt": "Atman is the self and brahman is ultimate reality. Advaita teaches their non-difference. Other schools do not.",
+  "quick_answer": {
+    "question": "What is the difference between atman and brahman?",
+    "answer": "Atman means the self and brahman means ultimate reality. In Advaita Vedanta the deepest teaching says they are not two. Other Vedanta schools describe a real distinction or a qualified relation."
+  },
+  "topic": "vedanta",
+  "category": {
+    "id": "vedanta",
+    "name": "Vedanta",
+    "slug": "vedanta"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "atman vs brahman",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "vedanta"
+  ],
+  "mentions": [
+    "atman",
+    "brahman"
+  ],
+  "intro": "English often translates both words toward soul or God and then asks how two souls differ. The Sanskrit pair is more precise, and the precision is the argument.",
+  "sections": [
+    {
+      "heading": "How is each word used?",
+      "slug": "how-is-each-word-used",
+      "content": "Atman is the self that traditions urge people not to confuse with the changing body and personality. Brahman is the ultimate that the Upanishads gesture toward, not a character in a story. Putting the words side by side is already a Vedantic habit.\n\nThe neighboring page is [the atman glossary](/glossary/atman/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What does Advaita add?",
+      "slug": "what-does-advaita-add",
+      "content": "Advaita, outlined in the Internet Encyclopedia of Philosophy, says ignorance superimposes difference. Knowledge is said to reveal non-difference. Theistic commentators argue that devotion and distinction are not a beginner error to be erased. Both are Vedanta.\n\nA wider map lives at the [Vedanta topic](/topics/vedanta/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "Why do other schools resist?",
+      "slug": "why-do-other-schools-resist",
+      "content": "Read the glossary entries, then one Upanishadic passage in a public translation, then notice which commentator you are being handed. A class that says you are brahman is teaching Advaita or a popular descendant. It is not teaching every school.\n\nIf you want a narrower practical or comparative page, use [the brahman glossary](/glossary/brahman/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Non-difference is not a license to ignore other people or your own limits. It is a metaphysical claim. This site does not report it as a scientific discovery about consciousness.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Atman is self. Brahman is ultimate reality.",
+    "Advaita identifies them at the deepest level.",
+    "Other Vedantas disagree.",
+    "The claim is doctrine, not a lab result."
+  ],
+  "faq": [
+    {
+      "question": "Is this the same as non-duality?",
+      "answer": "Non-duality is a wider English label. Advaita is one important source of that label, not the only tradition that gets filed under it."
+    },
+    {
+      "question": "Which page is the overview?",
+      "answer": "Use the Vedanta explainer and the question on how teachers describe the self."
+    }
+  ],
+  "source_ids": [
+    "iep-advaita",
+    "britannica-atman",
+    "britannica-brahman"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Atman and Brahman: What the Pair Means",
+    "meta_description": "Compare atman and brahman in Vedanta, including the Advaita claim and the readings that reject it.",
+    "canonical": "/articles/atman-vs-brahman/",
+    "robots": "index,follow",
+    "og_title": "Atman and Brahman: What the Pair Means",
+    "og_description": "Compare atman and brahman in Vedanta, including the Advaita claim and the readings that reject it.",
+    "og_image": "/images/atman-vs-brahman.svg"
+  },
+  "media": {
+    "featured_image": "/images/atman-vs-brahman.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on vedanta.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/glossary/atman/",
+    "/glossary/brahman/",
+    "/articles/what-is-vedanta/",
+    "/topics/vedanta/",
+    "/glossary/non-duality/",
+    "/questions/how-do-vedanta-teachers-describe-the-self/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

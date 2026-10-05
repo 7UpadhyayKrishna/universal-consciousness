@@ -1,0 +1,111 @@
+{
+  "id": "glossary-non-duality",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Non-duality: Meaning and Context",
+  "slug": "non-duality",
+  "path": "/glossary/non-duality/",
+  "h1": "Non-duality: Meaning and Context",
+  "excerpt": "Non-duality is the English name for teachings that deny an ultimate split between self and reality. Advaita is one such teaching, not the only conversation.",
+  "quick_answer": {
+    "question": "What does Non-duality mean?",
+    "answer": "Non-duality says the deepest distinction between self and ultimate reality does not hold. Advaita Vedanta is a major source. The English word is wider than that school and is not a scientific result."
+  },
+  "topic": "vedanta",
+  "category": {
+    "id": "vedanta",
+    "name": "Non-duality",
+    "slug": "vedanta"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "non-duality meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "non-duality"
+  ],
+  "mentions": [
+    "vedanta",
+    "brahman"
+  ],
+  "intro": "Non-duality translates a family of claims that reality is not two at the deepest level. In Advaita the pair that is not two is atman and brahman.",
+  "sections": [
+    {
+      "heading": "What does Non-duality mean?",
+      "slug": "what-does-non-duality-mean",
+      "content": "Other Indian and Buddhist conversations are also filed under the English word and do not match Advaita's self. Mysticism scholarship treats reports of unity as reports, not as automatic proof. A class that says non-dual may mean a feeling of openness.\n\nThe neighboring page is [the Vedanta entry](/glossary/vedanta/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "The feeling and the doctrine should be labeled separately. The atman and brahman article is the doctrinal version. The consciousness pillar keeps the philosophy of experience from being swallowed by the doctrine.\n\nA wider map lives at the [Vedanta topic](/topics/vedanta/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "If the teaching helps you see a claim clearly, use it as philosophy. If it is used to dismiss harm, refuse that use. You can practice attention without the metaphysics.\n\nIf you want a narrower practical or comparative page, use [Atman and Brahman](/articles/atman-vs-brahman/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not call every calm sit non-dual realization. Do not treat the word as a license to neglect ethics or medicine. Name the school.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Non-duality is defined here in its traditional or philosophical sense.",
+    "Popular English often widens the word until it means a mood.",
+    "Longer pages on this site carry the disagreements."
+  ],
+  "faq": [
+    {
+      "question": "Is Non-duality a scientific term?",
+      "answer": "No. It is a metaphysical position. Experience may be cited by its defenders. Experience does not settle it."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the Vedanta explainer. The longer linked page carries the rest of the context."
+    }
+  ],
+  "source_ids": [
+    "iep-advaita",
+    "sep-mysticism",
+    "britannica-vedanta"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Non-duality: Meaning and Context",
+    "meta_description": "Non-duality is the English name for teachings that deny an ultimate split between self and reality. Advaita is one such teaching, not the only conversation.",
+    "canonical": "/glossary/non-duality/",
+    "robots": "index,follow",
+    "og_title": "Non-duality: Meaning and Context",
+    "og_description": "Non-duality is the English name for teachings that deny an ultimate split between self and reality. Advaita is one such teaching, not the only conversation.",
+    "og_image": "/images/glossary-non-duality.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-non-duality.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on non-duality.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/glossary/vedanta/",
+    "/articles/atman-vs-brahman/",
+    "/topics/vedanta/",
+    "/articles/what-is-vedanta/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

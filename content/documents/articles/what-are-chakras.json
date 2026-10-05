@@ -1,0 +1,114 @@
+{
+  "id": "what-are-chakras",
+  "kind": "explainer",
+  "status": "published",
+  "title": "What Are Chakras? Meaning, History, and Maps",
+  "slug": "what-are-chakras",
+  "path": "/articles/what-are-chakras/",
+  "h1": "What Are Chakras? Meaning, History, and Maps",
+  "excerpt": "Chakras are centers in some subtle-body maps. The seven-color chart familiar in the United States is a modern teaching picture.",
+  "quick_answer": {
+    "question": "What are chakras?",
+    "answer": "Chakras are focal points in subtle-body maps used by some yoga and tantric traditions. The seven-color chart is a modern summary, not an anatomical finding and not the only historical list."
+  },
+  "topic": "chakras",
+  "category": {
+    "id": "chakras",
+    "name": "Chakras",
+    "slug": "chakras"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what are chakras",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "chakras"
+  ],
+  "mentions": [
+    "chakra",
+    "kundalini"
+  ],
+  "intro": "Chakra means wheel. In yogic and tantric maps it names a station in a picture of vitality, channels, and sometimes a rising power. It does not name an organ a surgeon is trained to find.",
+  "sections": [
+    {
+      "heading": "What does chakra mean?",
+      "slug": "what-does-chakra-mean",
+      "content": "Older texts do not agree on how many centers matter or how practice should approach them. The Hatha Yoga Pradipika is one source among others. The poster in a studio, with seven colors and seven emotional slogans, is a later teaching aid. Britannica's short article is a safer start than a product page.\n\nThe neighboring page is [the chakras topic](/topics/chakras/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Why do lists disagree?",
+      "slug": "why-do-lists-disagree",
+      "content": "Nineteenth- and twentieth-century interpreters helped fix a seven-center scheme for new readers. Color psychology came later still. Calling that scheme timeless erases the interpreters. The scientific question is handled on its own page, and the answer is that medicine does not use these maps as anatomy.\n\nA wider map lives at the [kundalini topic](/topics/kundalini/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How should the rainbow chart be used?",
+      "slug": "how-should-the-rainbow-chart-be-used",
+      "content": "You can learn the Sanskrit names so you recognize them, and you can practice breath awareness without the chart. Stones, oils, and affirmations assigned to centers are contemporary crafts. They are not evidence. A feeling in the chest can be mapped onto the heart center and still be a feeling, not a diagnosis.\n\nIf you want a narrower practical or comparative page, use [understanding chakras](/articles/understanding-chakras/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not accept a class that claims to open your centers as medical care. Do not rank your worth by a color. The individual center pages exist to slow the chart down, one name at a time, with the historical limit repeated.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Chakra language belongs to subtle-body maps.",
+    "Historical lists vary.",
+    "The rainbow chart is modern.",
+    "Colors and slogans are not medical facts."
+  ],
+  "faq": [
+    {
+      "question": "What are chakras?",
+      "answer": "Chakras are focal points in subtle-body maps used by some yoga and tantric traditions. The seven-color chart is a modern summary, not an anatomical finding and not the only historical list."
+    },
+    {
+      "question": "Where does this page fit?",
+      "answer": "It answers one question and links to the wider topic. It is not a course and not a medical instruction."
+    }
+  ],
+  "source_ids": [
+    "britannica-chakra",
+    "sacred-hatha",
+    "britannica-kundalini"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Are Chakras? Meaning, History, and Maps",
+    "meta_description": "Understand chakras as features of yogic maps, and why the rainbow chart is a modern convention rather than anatomy.",
+    "canonical": "/articles/what-are-chakras/",
+    "robots": "index,follow",
+    "og_title": "What Are Chakras? Meaning, History, and Maps",
+    "og_description": "Understand chakras as features of yogic maps, and why the rainbow chart is a modern convention rather than anatomy.",
+    "og_image": "/images/what-are-chakras.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-are-chakras.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on chakras.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/chakras/",
+    "/articles/understanding-chakras/",
+    "/articles/are-chakras-scientific/",
+    "/chakras/heart-chakra/",
+    "/glossary/chakra/",
+    "/guides/chakras/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

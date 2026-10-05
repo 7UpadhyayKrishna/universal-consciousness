@@ -1,0 +1,110 @@
+{
+  "id": "glossary-sattva",
+  "kind": "glossary",
+  "status": "published",
+  "title": "Sattva: Meaning and Context",
+  "slug": "sattva",
+  "path": "/glossary/sattva/",
+  "h1": "Sattva: Meaning and Context",
+  "excerpt": "Sattva is one of three qualities in a classical Indian scheme, associated with clarity or lightness, beside rajas and tamas.",
+  "quick_answer": {
+    "question": "What does Sattva mean?",
+    "answer": "Sattva is the quality of clarity, lightness, or goodness in the three-guna scheme. It is not a superfood and not a personality type from a quiz."
+  },
+  "topic": "ancient-wisdom",
+  "category": {
+    "id": "ancient-wisdom",
+    "name": "Sattva",
+    "slug": "ancient-wisdom"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "sattva meaning",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "ancient-wisdom"
+  ],
+  "mentions": [
+    "yoga"
+  ],
+  "intro": "Sattva is one guna, a strand or quality. The usual trio is sattva, rajas, and tamas: clarity, activity, and inertia, in a common gloss.",
+  "sections": [
+    {
+      "heading": "What does Sattva mean?",
+      "slug": "what-does-sattva-mean",
+      "content": "The Gita and Samkhya-influenced yoga use the scheme to talk about mind and nature. The glosses are approximate. A food tradition later called some diets sattvic. That dietary layer is not the whole philosophy, and it is not a medical nutrition plan.\n\nThe neighboring page is [ancient wisdom](/topics/ancient-wisdom/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "Where does the word come from?",
+      "slug": "where-does-the-word-come-from",
+      "content": "Wellness writing often says be more sattvic and means be calm and buy lighter products. The classical term sits inside a psychology of bondage and release. Yoga philosophy pages are the longer route into that psychology.\n\nA wider map lives at the [yoga topic](/topics/yoga/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "How is the word misused?",
+      "slug": "how-is-the-word-misused",
+      "content": "If you meet the word, learn the trio, not a shopping list. Clarity is not the same as moral superiority. A text that ranks the gunas is making a philosophical claim.\n\nIf you want a narrower practical or comparative page, use [yoga philosophy](/articles/what-is-yoga-philosophy/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not treat a sattvic diet as a cure. Do not rank people by how pure their groceries look. The guna is not a blood test.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Sattva has a traditional job that popular English often widens.",
+    "Context decides which school is speaking.",
+    "This entry defines the word and points to a longer page."
+  ],
+  "faq": [
+    {
+      "question": "Is Sattva a scientific term?",
+      "answer": "No. It is a category in classical thought, not a biomarker."
+    },
+    {
+      "question": "Where is the longer page?",
+      "answer": "Read the Gita in a cited translation and the yoga philosophy page."
+    }
+  ],
+  "source_ids": [
+    "sacred-gita",
+    "iep-yoga",
+    "sep-epistemology-india"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Sattva: Meaning and Context",
+    "meta_description": "Sattva is one of three qualities in a classical Indian scheme, associated with clarity or lightness, beside rajas and tamas.",
+    "canonical": "/glossary/sattva/",
+    "robots": "index,follow",
+    "og_title": "Sattva: Meaning and Context",
+    "og_description": "Sattva is one of three qualities in a classical Indian scheme, associated with clarity or lightness, beside rajas and tamas.",
+    "og_image": "/images/glossary-sattva.svg"
+  },
+  "media": {
+    "featured_image": "/images/glossary-sattva.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on sattva.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/ancient-wisdom/",
+    "/topics/yoga/",
+    "/glossary/dharma/",
+    "/articles/what-is-yoga-philosophy/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

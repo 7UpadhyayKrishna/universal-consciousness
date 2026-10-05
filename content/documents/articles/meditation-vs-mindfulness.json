@@ -1,0 +1,113 @@
+{
+  "id": "meditation-vs-mindfulness",
+  "kind": "comparison",
+  "status": "published",
+  "title": "Meditation and Mindfulness Compared",
+  "slug": "meditation-vs-mindfulness",
+  "path": "/articles/meditation-vs-mindfulness/",
+  "h1": "Meditation and Mindfulness Compared",
+  "excerpt": "Mindfulness is one family of meditation and a technical term in Buddhist training. It is not the name of every practice.",
+  "quick_answer": {
+    "question": "What is the difference between meditation and mindfulness?",
+    "answer": "Meditation is the wider family of attention and contemplative practices. Mindfulness is one approach within that family, and in Buddhist sources it is one mental quality among others."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "meditation vs mindfulness",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness"
+  ],
+  "intro": "In American English the two words often arrive together, as if mindfulness were simply the polite name for meditation. The overlap is real. The identity is not.",
+  "sections": [
+    {
+      "heading": "How do the words relate?",
+      "slug": "how-do-the-words-relate",
+      "content": "A mantra, a devotional visualization, and a concentration exercise can be meditation without being mindfulness. Mindfulness practices emphasize noticing present experience, often including distraction itself. Concentration practices may try to exclude distraction. That contrast has its own article.\n\nThe neighboring page is [what meditation is](/articles/what-is-meditation/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What do clinics usually mean?",
+      "slug": "what-do-clinics-usually-mean",
+      "content": "Buddhist lists place mindfulness beside ethics, concentration, and wisdom. Secular clinics extracted exercises and left much of the list behind. The extraction can be honest. It becomes confusing when an app uses mindfulness for every audio file.\n\nA wider map lives at the [mindfulness topic](/topics/mindfulness/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "When does the distinction matter?",
+      "slug": "when-does-the-distinction-matter",
+      "content": "If your instruction is to note sensations and return, you are in mindfulness territory. If your instruction is to repeat a formula or to exclude everything but one object, use another name. You can still call the hour meditation.\n\nIf you want a narrower practical or comparative page, use [mindfulness and concentration](/articles/mindfulness-vs-concentration/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not cite mindfulness research as if it proved every meditation. Trials study programs. A different method is a different claim. Neither word is a cure.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Meditation is the wider category.",
+    "Mindfulness is one approach and one traditional term.",
+    "Clinics often mean a secular exercise.",
+    "Research does not transfer automatically across methods."
+  ],
+  "faq": [
+    {
+      "question": "Can one session be both?",
+      "answer": "Yes. A mindfulness session is a kind of meditation. The reverse is not always true."
+    },
+    {
+      "question": "Which page is the overview?",
+      "answer": "Start with the two topic pillars if you need the maps rather than the contrast."
+    }
+  ],
+  "source_ids": [
+    "apa-mindfulness",
+    "nccih-meditation",
+    "pubmed-goyal-2014"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Meditation and Mindfulness Compared",
+    "meta_description": "Compare meditation and mindfulness, including where the words overlap and where modern usage blurs them.",
+    "canonical": "/articles/meditation-vs-mindfulness/",
+    "robots": "index,follow",
+    "og_title": "Meditation and Mindfulness Compared",
+    "og_description": "Compare meditation and mindfulness, including where the words overlap and where modern usage blurs them.",
+    "og_image": "/images/meditation-vs-mindfulness.svg"
+  },
+  "media": {
+    "featured_image": "/images/meditation-vs-mindfulness.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/meditation/",
+    "/topics/mindfulness/",
+    "/articles/what-is-meditation/",
+    "/articles/what-is-mindfulness/",
+    "/articles/mindfulness-vs-concentration/",
+    "/meditation/mindfulness/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

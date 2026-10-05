@@ -1,0 +1,113 @@
+{
+  "id": "daily-meditation-practice",
+  "kind": "guide",
+  "status": "published",
+  "title": "How to Build a Daily Meditation Practice",
+  "slug": "daily-meditation-practice",
+  "path": "/articles/daily-meditation-practice/",
+  "h1": "How to Build a Daily Meditation Practice",
+  "excerpt": "A daily meditation practice is a small repeatable session, protected by a time and a place, not by intensity.",
+  "quick_answer": {
+    "question": "How do you keep a daily meditation practice?",
+    "answer": "Keep one short method at a regular time, most days, and measure consistency rather than special experiences. Missed days are resumed, not punished."
+  },
+  "topic": "meditation",
+  "category": {
+    "id": "meditation",
+    "name": "Meditation",
+    "slug": "meditation"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "daily meditation practice",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "meditation"
+  ],
+  "mentions": [
+    "mindfulness"
+  ],
+  "intro": "Daily practice is repetition. The romantic version waits for a free hour and a pure mind. The workable version is brief and slightly boring, which is why it can last.",
+  "sections": [
+    {
+      "heading": "What makes a practice daily?",
+      "slug": "what-makes-a-practice-daily",
+      "content": "Attach the session to something you already do, such as sitting on the bed before the phone or a chair after breakfast. Use the same method for a month. Breath awareness is enough. Change methods only when the instruction is already familiar.\n\nThe neighboring page is [meditation for beginners](/articles/meditation-for-beginners/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "How long should the session be?",
+      "slug": "how-long-should-the-session-be",
+      "content": "Traditions often praise regularity because attention is a skill. Clinics often study programs of a set length over weeks. Neither source requires you to feel profound on Tuesday. The length question treats duration as a practical choice.\n\nA wider map lives at the [meditation topic](/topics/meditation/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What ruins the habit?",
+      "slug": "what-ruins-the-habit",
+      "content": "Start with five or ten minutes. If you miss a day, practice the next day at the same size. Do not double the time as a penalty. A note of the time and the method is more useful than a note of how spiritual you felt.\n\nIf you want a narrower practical or comparative page, use [how long to meditate](/questions/how-long-should-you-meditate/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not use a streak to shame yourself. Do not replace sleep with extra sitting. Do not treat the habit as treatment for a mental health condition. If sitting worsens distress, stop and get qualified help.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Consistency beats intensity.",
+    "A cue in the day matters more than a perfect mood.",
+    "Missed days are resumed at the same small size.",
+    "The habit is not a medical plan."
+  ],
+  "faq": [
+    {
+      "question": "Is morning required?",
+      "answer": "No. A time you can keep is better than a traditional hour you will skip."
+    },
+    {
+      "question": "Where should I read next?",
+      "answer": "Use the question pages on timing and on why practice feels difficult."
+    }
+  ],
+  "source_ids": [
+    "nccih-meditation",
+    "pubmed-goyal-2014",
+    "apa-mindfulness"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "How to Build a Daily Meditation Practice",
+    "meta_description": "Build a daily meditation practice with a short session, a consistent cue, and realistic expectations.",
+    "canonical": "/articles/daily-meditation-practice/",
+    "robots": "index,follow",
+    "og_title": "How to Build a Daily Meditation Practice",
+    "og_description": "Build a daily meditation practice with a short session, a consistent cue, and realistic expectations.",
+    "og_image": "/images/daily-meditation-practice.svg"
+  },
+  "media": {
+    "featured_image": "/images/daily-meditation-practice.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on meditation.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/articles/meditation-for-beginners/",
+    "/topics/meditation/",
+    "/questions/how-long-should-you-meditate/",
+    "/questions/is-there-a-best-time-to-meditate/",
+    "/guides/meditation/",
+    "/meditation/breath-awareness/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

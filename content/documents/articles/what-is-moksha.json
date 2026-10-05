@@ -1,0 +1,115 @@
+{
+  "id": "what-is-moksha",
+  "kind": "explainer",
+  "status": "published",
+  "title": "What Is Moksha? Liberation in Indian Thought",
+  "slug": "what-is-moksha",
+  "path": "/articles/what-is-moksha/",
+  "h1": "What Is Moksha? Liberation in Indian Thought",
+  "excerpt": "Moksha is a Sanskrit word for liberation, usually freedom from the cycle of rebirth, and schools disagree about what that freedom is.",
+  "quick_answer": {
+    "question": "What is moksha?",
+    "answer": "Moksha means liberation in Hindu thought, especially freedom from samsara, the cycle of rebirth. Different schools describe the liberated state differently, so the word is not one doctrine."
+  },
+  "topic": "moksha",
+  "category": {
+    "id": "moksha",
+    "name": "Moksha",
+    "slug": "moksha"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is moksha",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "moksha"
+  ],
+  "mentions": [
+    "samsara",
+    "karma",
+    "vedanta"
+  ],
+  "intro": "Moksha is one of the classical aims of human life in Hindu thought, the aim that is supposed to outrank pleasure, success, and even duty when they conflict. That ranking is already a philosophy.",
+  "sections": [
+    {
+      "heading": "What is supposed to be freed?",
+      "slug": "what-is-supposed-to-be-freed",
+      "content": "Advaita often says the self was never bound and that liberation is knowledge of non-difference from brahman. Theistic Vedanta may speak of a freed relationship with God. Classical yoga may speak of consciousness isolated from mental change. These are rivals, not synonyms.\n\nThe neighboring page is [the moksha topic](/topics/moksha/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "How do karma and rebirth fit?",
+      "slug": "how-do-karma-and-rebirth-fit",
+      "content": "The idea assumes, in most classical settings, a long run of births and a momentum of action called karma. This site does not claim to know whether rebirth happens. It reports the assumption. The Bhagavad Gita is one place the argument is staged in public translation.\n\nA wider map lives at the [Vedanta topic](/topics/vedanta/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What does popular English change?",
+      "slug": "what-does-popular-english-change",
+      "content": "You can study the word without adopting it. Weekend books that keep the adjective free and drop the cosmology are a translation with a cost. Feeling relieved is not moksha. A website cannot confer it.\n\nIf you want a narrower practical or comparative page, use [the glossary entry](/glossary/moksha/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not use liberation language to dismiss someone's pain or obligations. A metaphysical claim is not a reason to skip care, rent, or apology. Schools should be named rather than blended.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Moksha names liberation, not a mood.",
+    "Schools disagree about the free state.",
+    "Karma and samsara are the usual frame.",
+    "English self-help often drops the frame."
+  ],
+  "faq": [
+    {
+      "question": "What is moksha?",
+      "answer": "Moksha means liberation in Hindu thought, especially freedom from samsara, the cycle of rebirth. Different schools describe the liberated state differently, so the word is not one doctrine."
+    },
+    {
+      "question": "Is this medical advice?",
+      "answer": "No. It is an educational explanation. Health decisions belong with a qualified professional."
+    }
+  ],
+  "source_ids": [
+    "britannica-moksha",
+    "britannica-samsara",
+    "britannica-karma"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Is Moksha? Liberation in Indian Thought",
+    "meta_description": "Learn what moksha means, how karma and samsara frame it, and why a mood of relief is not the doctrine.",
+    "canonical": "/articles/what-is-moksha/",
+    "robots": "index,follow",
+    "og_title": "What Is Moksha? Liberation in Indian Thought",
+    "og_description": "Learn what moksha means, how karma and samsara frame it, and why a mood of relief is not the doctrine.",
+    "og_image": "/images/what-is-moksha.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-moksha.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on moksha.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/moksha/",
+    "/glossary/moksha/",
+    "/glossary/samsara/",
+    "/glossary/karma/",
+    "/topics/vedanta/",
+    "/topics/ancient-wisdom/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": false,
+    "text": ""
+  },
+  "facts": {}
+}

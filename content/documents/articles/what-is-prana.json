@@ -1,0 +1,115 @@
+{
+  "id": "what-is-prana",
+  "kind": "explainer",
+  "status": "published",
+  "title": "What Is Prana? Meaning in Yoga and Ayurveda",
+  "slug": "what-is-prana",
+  "path": "/articles/what-is-prana/",
+  "h1": "What Is Prana? Meaning in Yoga and Ayurveda",
+  "excerpt": "Prana is a Sanskrit term for breath or vitality in yoga and Ayurveda. It is a traditional concept, not a measured gas or a product.",
+  "quick_answer": {
+    "question": "What is prana?",
+    "answer": "Prana is a Sanskrit word for breath and for a vitality that yoga and Ayurveda treat as more than air. Traditions map it through the body. Physiology has not established that map as a force."
+  },
+  "topic": "breathwork",
+  "category": {
+    "id": "breathwork",
+    "name": "Prana",
+    "slug": "breathwork"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "what is prana",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "breathwork"
+  ],
+  "mentions": [
+    "prana",
+    "yoga",
+    "ayurveda"
+  ],
+  "intro": "Prana is the word English speakers meet when a yoga class talks about energy in the breath. The word is older and broader than that class. It is not a brand of oxygen.",
+  "sections": [
+    {
+      "heading": "What does prana mean?",
+      "slug": "what-does-prana-mean",
+      "content": "In Sanskrit usage, prana can mean breath, life, and a vitality said to move through channels. Ayurveda and yoga share the vocabulary and do not always draw the same diagrams. Britannica's short article is a public orientation. The glossary entry is the compact version.\n\nThe neighboring page is [the prana glossary](/glossary/prana/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "How do practices use the idea?",
+      "slug": "how-do-practices-use-the-idea",
+      "content": "Classical yoga lists pranayama, regulation of breath, as a limb of practice. Hatha texts add techniques and cautions. Those texts assume a teacher and a cosmology. An app timer is not that setting, even when it uses the word.\n\nA wider map lives at the [breathwork topic](/topics/breathwork/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "What should it not be confused with?",
+      "slug": "what-should-it-not-be-confused-with",
+      "content": "Quietly noticing the breath does not require you to believe in a life-force substance. Forceful breathing and long holds are a different risk and still do not prove the substance. If you have a heart or lung condition, ask a clinician before you alter breathing on purpose.\n\nIf you want a narrower practical or comparative page, use [how traditions describe prana](/questions/how-do-traditions-describe-prana/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "Do not buy a product because it claims to increase prana. Do not treat tingling from fast breathing as a spiritual credential. Oxygen, carbon dioxide, and attention explain a great deal without a second anatomy.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Prana is traditional vitality language.",
+    "It is not identical to oxygen.",
+    "Breath exercises do not prove the cosmology.",
+    "Intense breathing has ordinary risks."
+  ],
+  "faq": [
+    {
+      "question": "What is prana?",
+      "answer": "Prana is a Sanskrit word for breath and for a vitality that yoga and Ayurveda treat as more than air. Traditions map it through the body. Physiology has not established that map as a force."
+    },
+    {
+      "question": "Is this medical advice?",
+      "answer": "No. It is an educational explanation. Health decisions belong with a qualified professional."
+    }
+  ],
+  "source_ids": [
+    "britannica-prana",
+    "iep-yoga",
+    "nccih-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "What Is Prana? Meaning in Yoga and Ayurveda",
+    "meta_description": "Learn what prana means in yoga and Ayurveda, how it differs from oxygen, and what breath practices do not prove.",
+    "canonical": "/articles/what-is-prana/",
+    "robots": "index,follow",
+    "og_title": "What Is Prana? Meaning in Yoga and Ayurveda",
+    "og_description": "Learn what prana means in yoga and Ayurveda, how it differs from oxygen, and what breath practices do not prove.",
+    "og_image": "/images/what-is-prana.svg"
+  },
+  "media": {
+    "featured_image": "/images/what-is-prana.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on prana.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/glossary/prana/",
+    "/topics/breathwork/",
+    "/topics/yoga/",
+    "/topics/ayurveda/",
+    "/questions/how-do-traditions-describe-prana/",
+    "/meditation/breath-awareness/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}

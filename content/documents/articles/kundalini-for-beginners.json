@@ -1,0 +1,113 @@
+{
+  "id": "kundalini-for-beginners",
+  "kind": "guide",
+  "status": "published",
+  "title": "Kundalini for Beginners: Read Before You Chase",
+  "slug": "kundalini-for-beginners",
+  "path": "/articles/kundalini-for-beginners/",
+  "h1": "Kundalini for Beginners: Read Before You Chase",
+  "excerpt": "A beginner briefing on kundalini that favors history and safety over techniques for forcing an awakening.",
+  "quick_answer": {
+    "question": "What should beginners know about kundalini?",
+    "answer": "Beginners should learn that kundalini is a traditional metaphor, that modern classes are a separate history, and that chasing an awakening with intense breathing is a poor and sometimes unsafe idea."
+  },
+  "topic": "kundalini",
+  "category": {
+    "id": "kundalini",
+    "name": "Kundalini",
+    "slug": "kundalini"
+  },
+  "subtopics": [],
+  "intent": [
+    "informational"
+  ],
+  "primary_keyword": "kundalini for beginners",
+  "secondary_keywords": [],
+  "entities": [],
+  "about": [
+    "kundalini"
+  ],
+  "mentions": [
+    "chakras"
+  ],
+  "intro": "The useful beginner move is to study the idea before you try to produce a crisis. Understanding is a complete outcome. A dramatic sensation is not a diploma.",
+  "sections": [
+    {
+      "heading": "What is the safe way to start?",
+      "slug": "what-is-the-safe-way-to-start",
+      "content": "Read the definition and the history. Notice that texts disagree. Notice that a studio brand called Kundalini Yoga is twentieth-century teaching. If you attend a class, keep it moderate, eat, and sleep. Stop if you are frightened or cannot function.\n\nThe neighboring page is [what kundalini is](/articles/what-is-kundalini/). Treat that link as part of the argument, not as decoration."
+    },
+    {
+      "heading": "What is a class usually doing?",
+      "slug": "what-is-a-class-usually-doing",
+      "content": "Tantric and hatha images of a coiled power are the traditional layer. Internet symptom lists are a later layer. They mix anxiety, sleep loss, and suggestion. A clinician is the right reader of frightening symptoms. A comment section is not.\n\nA wider map lives at the [kundalini guides](/guides/kundalini/). Dates and school names matter, because a recent American presentation is often described as if it had no date."
+    },
+    {
+      "heading": "Which promises should you ignore?",
+      "slug": "which-promises-should-you-ignore",
+      "content": "If you want a practice, use ordinary breath awareness or a short yoga class with a teacher who welcomes questions. Do not hyperventilate toward a vision. Do not isolate because a teacher calls isolation a test.\n\nIf you want a narrower practical or comparative page, use [is kundalini dangerous](/articles/is-kundalini-dangerous/). You can understand the description without joining a group or buying a course."
+    },
+    {
+      "heading": "What should a careful reader refuse?",
+      "slug": "what-should-a-careful-reader-refuse",
+      "content": "No established science shows a serpent energy. Ethical scandals in some modern organizations are a reason to separate a classical word from any one institution. Fees, secrecy, and contempt for outside advice are warnings in every tradition.\n\nReaders in the United States often meet a simpler version of the same idea in a class, an app, or a short video. Name that simpler version instead of pretending it is the whole tradition. Traditional teaching, personal report, and research stay in separate sentences on this site. The [editorial policy](/editorial-policy/) is the rule. The [disclaimer](/disclaimer/) applies whenever a sentence leans toward health, safety, or a promised transformation. The [corrections](/corrections/) page is how to challenge a factual mistake. Name the school, the text, or the century whenever a sentence would otherwise float free of history. A reader may stop at the definition when that is all the question required."
+    }
+  ],
+  "key_takeaways": [
+    "Study before you chase.",
+    "Modern classes are not the whole tradition.",
+    "Intense breathing is not proof of awakening.",
+    "Frightening symptoms are a health issue first."
+  ],
+  "faq": [
+    {
+      "question": "What should beginners know about kundalini?",
+      "answer": "Beginners should learn that kundalini is a traditional metaphor, that modern classes are a separate history, and that chasing an awakening with intense breathing is a poor and sometimes unsafe idea."
+    },
+    {
+      "question": "Do I need a teacher to read this?",
+      "answer": "No. A teacher can help with practice. This page only explains the idea and points to longer reading."
+    }
+  ],
+  "source_ids": [
+    "britannica-kundalini",
+    "sacred-hatha",
+    "nccih-yoga"
+  ],
+  "author_id": "editorial-team",
+  "seo": {
+    "meta_title": "Kundalini for Beginners: Read Before You Chase",
+    "meta_description": "Read what beginners should know about kundalini before trying intense practices or believing symptom lists.",
+    "canonical": "/articles/kundalini-for-beginners/",
+    "robots": "index,follow",
+    "og_title": "Kundalini for Beginners: Read Before You Chase",
+    "og_description": "Read what beginners should know about kundalini before trying intense practices or believing symptom lists.",
+    "og_image": "/images/kundalini-for-beginners.svg"
+  },
+  "media": {
+    "featured_image": "/images/kundalini-for-beginners.svg",
+    "featured_image_alt": "Abstract geometric illustration of circles and a horizon for the page on kundalini.",
+    "width": 1600,
+    "height": 900
+  },
+  "publication": {
+    "date_published": "2026-10-04T10:00:00-04:00",
+    "date_modified": "2026-10-04T10:00:00-04:00"
+  },
+  "language": "en-US",
+  "country": "US",
+  "related": [
+    "/topics/kundalini/",
+    "/articles/what-is-kundalini/",
+    "/articles/is-kundalini-dangerous/",
+    "/yoga/kundalini-yoga/",
+    "/guides/kundalini/",
+    "/topics/chakras/"
+  ],
+  "children": [],
+  "disclaimer": {
+    "required": true,
+    "text": ""
+  },
+  "facts": {}
+}
